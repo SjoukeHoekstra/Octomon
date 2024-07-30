@@ -23,6 +23,8 @@ struct FieldInput
     bool8 pressedRButton:1;
 };
 
+u32 gBikeFrameCounter;
+
 void FieldClearPlayerInput(struct FieldInput *pStruct);
 void FieldGetPlayerInput(struct FieldInput *pStruct, u16 keys, u16 heldKeys);
 int ProcessPlayerFieldInput(struct FieldInput *pStruct);
