@@ -94,6 +94,10 @@ Geodude
 Level: 18
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Geodude
+Level: 18
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_GRUNT_AQUA_HIDEOUT_1 ===
 Name: GRUNT
 Class: Team Aqua
@@ -102,6 +106,10 @@ Gender: Male
 Music: Aqua
 Double Battle: Yes
 AI: Smart Trainer
+
+Poochyena
+Level: 28
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Poochyena
 Level: 28
@@ -137,6 +145,10 @@ Zubat
 Level: 28
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Zubat
+Level: 28
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_GRUNT_AQUA_HIDEOUT_4 ===
 Name: GRUNT
 Class: Team Aqua
@@ -145,6 +157,10 @@ Gender: Male
 Music: Aqua
 Double Battle: Yes
 AI: Smart Trainer
+
+Carvanha
+Level: 28
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Carvanha
 Level: 28
@@ -163,6 +179,10 @@ Poochyena
 Level: 32
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Poochyena
+Level: 32
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_GRUNT_SEAFLOOR_CAVERN_2 ===
 Name: GRUNT
 Class: Team Aqua
@@ -176,6 +196,10 @@ Carvanha
 Level: 32
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Carvanha
+Level: 32
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_GRUNT_SEAFLOOR_CAVERN_3 ===
 Name: GRUNT
 Class: Team Aqua
@@ -184,6 +208,10 @@ Gender: Male
 Music: Aqua
 Double Battle: Yes
 AI: Smart Trainer
+
+Zubat
+Level: 32
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Zubat
 Level: 32
@@ -230,6 +258,10 @@ Gender: Male
 Music: Aqua
 Double Battle: Yes
 AI: Smart Trainer
+
+Poochyena
+Level: 8
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Poochyena
 Level: 8
@@ -300,6 +332,10 @@ Carvanha
 Level: 32
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Carvanha
+Level: 32
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_DECLAN ===
 Name: DECLAN
 Class: Swimmer M
@@ -313,6 +349,10 @@ Gyarados
 Level: 30
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Gyarados
+Level: 30
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_GRUNT_RUSTURF_TUNNEL ===
 Name: GRUNT
 Class: Team Aqua
@@ -321,6 +361,10 @@ Gender: Male
 Music: Aqua
 Double Battle: Yes
 AI: Smart Trainer
+
+Poochyena
+Level: 9
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Poochyena
 Level: 9
@@ -394,6 +438,10 @@ Carvanha
 Level: 13
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Carvanha
+Level: 13
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_GRUNT_MUSEUM_2 ===
 Name: GRUNT
 Class: Team Aqua
@@ -424,6 +472,10 @@ Numel
 Level: 28
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Numel
+Level: 28
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_GRUNT_MT_PYRE_1 ===
 Name: GRUNT
 Class: Team Aqua
@@ -437,6 +489,10 @@ Zubat
 Level: 28
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Zubat
+Level: 28
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_GRUNT_MT_PYRE_2 ===
 Name: GRUNT
 Class: Team Aqua
@@ -445,6 +501,10 @@ Gender: Male
 Music: Aqua
 Double Battle: Yes
 AI: Smart Trainer
+
+Carvanha
+Level: 28
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Carvanha
 Level: 28
@@ -480,6 +540,10 @@ Carvanha
 Level: 25
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Carvanha
+Level: 25
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_GRUNT_AQUA_HIDEOUT_5 ===
 Name: GRUNT
 Class: Team Aqua
@@ -490,7 +554,11 @@ Double Battle: Yes
 AI: Smart Trainer
 
 Carvanha
-Level: 28
+Level: 25
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Carvanha
+Level: 25
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GRUNT_AQUA_HIDEOUT_6 ===
@@ -502,8 +570,12 @@ Music: Aqua
 Double Battle: Yes
 AI: Smart Trainer
 
-Zubat
-Level: 28
+Carvanha
+Level: 25
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+Carvanha
+Level: 25
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_FREDRICK ===
@@ -549,6 +621,10 @@ Gender: Male
 Music: Intense
 Double Battle: Yes
 AI: Smart Trainer
+
+Hariyama
+Level: 27
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Hariyama
 Level: 27
@@ -618,6 +694,10 @@ Gender: Female
 Music: Suspicious
 Double Battle: Yes
 AI: Smart Trainer
+
+Spoink
+Level: 27
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Spoink
 Level: 27
@@ -796,6 +876,14 @@ IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 - Sand Attack
 - Poison Sting
 
+Sandslash
+Level: 20
+IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+- Dig
+- Slash
+- Sand Attack
+- Poison Sting
+
 === TRAINER_CHIP ===
 Name: CHIP
 Class: Ruin Maniac
@@ -871,6 +959,14 @@ IVs: 7 HP / 7 Atk / 7 Def / 7 SpA / 7 SpD / 7 Spe
 - Sand Attack
 - Poison Sting
 
+Sandslash
+Level: 24
+IVs: 7 HP / 7 Atk / 7 Def / 7 SpA / 7 SpD / 7 Spe
+- Dig
+- Slash
+- Sand Attack
+- Poison Sting
+
 === TRAINER_DUSTY_3 ===
 Name: DUSTY
 Class: Ruin Maniac
@@ -879,6 +975,14 @@ Gender: Male
 Music: Hiker
 Double Battle: Yes
 AI: Smart Trainer
+
+Sandslash
+Level: 26
+IVs: 8 HP / 8 Atk / 8 Def / 8 SpA / 8 SpD / 8 Spe
+- Dig
+- Slash
+- Sand Attack
+- Poison Sting
 
 Sandslash
 Level: 26
@@ -905,6 +1009,14 @@ IVs: 9 HP / 9 Atk / 9 Def / 9 SpA / 9 SpD / 9 Spe
 - Sand Attack
 - Poison Sting
 
+Sandslash
+Level: 29
+IVs: 9 HP / 9 Atk / 9 Def / 9 SpA / 9 SpD / 9 Spe
+- Dig
+- Slash
+- Sand Attack
+- Poison Sting
+
 === TRAINER_DUSTY_5 ===
 Name: DUSTY
 Class: Ruin Maniac
@@ -913,6 +1025,14 @@ Gender: Male
 Music: Hiker
 Double Battle: Yes
 AI: Smart Trainer
+
+Sandslash
+Level: 32
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
+- Dig
+- Slash
+- Sand Attack
+- Poison Sting
 
 Sandslash
 Level: 32
@@ -1062,6 +1182,10 @@ Marill
 Level: 23
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Marill
+Level: 23
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_GWEN ===
 Name: GWEN
 Class: Tuber F
@@ -1070,6 +1194,10 @@ Gender: Female
 Music: Girl
 Double Battle: Yes
 AI: Smart Trainer
+
+Marill
+Level: 23
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Marill
 Level: 23
@@ -1160,6 +1288,14 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 - Tail Whip
 - Surf
 
+Zigzagoon
+Level: 11
+IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
+- Sand Attack
+- Headbutt
+- Tail Whip
+- Surf
+
 === TRAINER_SIMON ===
 Name: SIMON
 Class: Tuber M
@@ -1190,6 +1326,10 @@ Marill
 Level: 23
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Marill
+Level: 23
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_RICKY_2 ===
 Name: RICKY
 Class: Tuber M
@@ -1198,6 +1338,14 @@ Gender: Male
 Music: Girl
 Double Battle: Yes
 AI: Smart Trainer
+
+Linoone
+Level: 24
+IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
+- Sand Attack
+- Pin Missile
+- Tail Whip
+- Surf
 
 Linoone
 Level: 24
@@ -1224,6 +1372,14 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 - Tail Whip
 - Surf
 
+Linoone
+Level: 26
+IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
+- Sand Attack
+- Pin Missile
+- Tail Whip
+- Surf
+
 === TRAINER_RICKY_4 ===
 Name: RICKY
 Class: Tuber M
@@ -1232,6 +1388,14 @@ Gender: Male
 Music: Girl
 Double Battle: Yes
 AI: Smart Trainer
+
+Linoone
+Level: 29
+IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
+- Sand Attack
+- Pin Missile
+- Tail Whip
+- Surf
 
 Linoone
 Level: 29
@@ -1258,6 +1422,14 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 - Tail Whip
 - Surf
 
+Linoone
+Level: 32
+IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
+- Sand Attack
+- Pin Missile
+- Tail Whip
+- Surf
+
 === TRAINER_RANDALL ===
 Name: RANDALL
 Class: Cooltrainer
@@ -1267,6 +1439,13 @@ Music: Cool
 Items: Hyper Potion
 Double Battle: Yes
 AI: Smart Trainer
+
+Swellow
+Level: 23
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Quick Attack
+- Agility
+- Wing Attack
 
 Swellow
 Level: 23
@@ -1292,6 +1471,13 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Dizzy Punch
 - Focus Punch
 
+Spinda
+Level: 23
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Teeter Dance
+- Dizzy Punch
+- Focus Punch
+
 === TRAINER_GEORGE ===
 Name: GEORGE
 Class: Cooltrainer
@@ -1309,6 +1495,13 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Counter
 - Shadow Ball
 
+Slakoth @ Sitrus Berry
+Level: 23
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Slack Off
+- Counter
+- Shadow Ball
+
 === TRAINER_BERKE ===
 Name: BERKE
 Class: Cooltrainer
@@ -1318,6 +1511,12 @@ Music: Cool
 Items: Hyper Potion
 Double Battle: Yes
 AI: Smart Trainer
+
+Vigoroth
+Level: 23
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Focus Energy
+- Slash
 
 Vigoroth
 Level: 23
@@ -1665,6 +1864,12 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Feint Attack
 - Shock Wave
 
+Delcatty
+Level: 23
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Feint Attack
+- Shock Wave
+
 === TRAINER_ALEXIA ===
 Name: ALEXIA
 Class: Cooltrainer
@@ -1682,6 +1887,13 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Double Edge
 - Shadow Ball
 
+Wigglytuff
+Level: 23
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Defense Curl
+- Double Edge
+- Shadow Ball
+
 === TRAINER_JODY ===
 Name: JODY
 Class: Cooltrainer
@@ -1691,6 +1903,12 @@ Music: Cool
 Items: Hyper Potion
 Double Battle: Yes
 AI: Smart Trainer
+
+Zangoose
+Level: 23
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Swords Dance
+- Slash
 
 Zangoose
 Level: 23
@@ -1786,6 +2004,10 @@ Sableye
 Level: 26
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
+Sableye
+Level: 26
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+
 === TRAINER_HOPE ===
 Name: HOPE
 Class: Cooltrainer
@@ -1800,6 +2022,10 @@ Roselia
 Level: 40
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
+Roselia
+Level: 40
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+
 === TRAINER_SHANNON ===
 Name: SHANNON
 Class: Cooltrainer
@@ -1809,6 +2035,10 @@ Music: Cool
 Items: Full Restore
 Double Battle: Yes
 AI: Smart Trainer
+
+Claydol
+Level: 40
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Claydol
 Level: 40
@@ -2028,6 +2258,10 @@ Sableye
 Level: 28
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Sableye
+Level: 28
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_TASHA ===
 Name: TASHA
 Class: Hex Maniac
@@ -2036,6 +2270,10 @@ Gender: Female
 Music: Suspicious
 Double Battle: Yes
 AI: Smart Trainer
+
+Shuppet
+Level: 28
+IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 Shuppet
 Level: 28
@@ -2127,6 +2365,10 @@ Zigzagoon @ Nugget
 Level: 6
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Zigzagoon @ Nugget
+Level: 6
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_DAPHNE ===
 Name: DAPHNE
 Class: Lady
@@ -2190,6 +2432,12 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Tackle
 - Tail Whip
 
+Zigzagoon @ Nugget
+Level: 9
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Tackle
+- Tail Whip
+
 === TRAINER_BRIANNA ===
 Name: BRIANNA
 Class: Lady
@@ -2199,6 +2447,10 @@ Music: Female
 Items: Full Restore
 Double Battle: Yes
 AI: Smart Trainer
+
+Seaking @ Nugget
+Level: 35
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Seaking @ Nugget
 Level: 35
@@ -2218,6 +2470,10 @@ Roselia @ Nugget
 Level: 40
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
+Roselia @ Nugget
+Level: 40
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+
 === TRAINER_CINDY_3 ===
 Name: CINDY
 Class: Lady
@@ -2227,6 +2483,10 @@ Music: Female
 Items: Full Restore
 Double Battle: Yes
 AI: Smart Trainer
+
+Linoone @ Nugget
+Level: 24
+IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 Linoone @ Nugget
 Level: 24
@@ -2246,6 +2506,10 @@ Linoone @ Nugget
 Level: 26
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
+Linoone @ Nugget
+Level: 26
+IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
+
 === TRAINER_CINDY_5 ===
 Name: CINDY
 Class: Lady
@@ -2255,6 +2519,10 @@ Music: Female
 Items: Full Restore
 Double Battle: Yes
 AI: Smart Trainer
+
+Linoone @ Nugget
+Level: 29
+IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 Linoone @ Nugget
 Level: 29
@@ -2278,6 +2546,14 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 - Odor Sleuth
 - Sand Attack
 
+Linoone @ Nugget
+Level: 32
+IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
+- Fury Swipes
+- Mud Sport
+- Odor Sleuth
+- Sand Attack
+
 === TRAINER_MELISSA ===
 Name: MELISSA
 Class: Beauty
@@ -2286,6 +2562,10 @@ Gender: Female
 Music: Female
 Double Battle: Yes
 AI: Smart Trainer
+
+Marill
+Level: 18
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Marill
 Level: 18
@@ -2304,6 +2584,10 @@ Shroomish
 Level: 18
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Shroomish
+Level: 18
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_SHIRLEY ===
 Name: SHIRLEY
 Class: Beauty
@@ -2312,6 +2596,10 @@ Gender: Female
 Music: Female
 Double Battle: Yes
 AI: Smart Trainer
+
+Numel
+Level: 18
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Numel
 Level: 18
@@ -2355,6 +2643,10 @@ Goldeen
 Level: 35
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
+Goldeen
+Level: 35
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+
 === TRAINER_BRIDGET ===
 Name: BRIDGET
 Class: Beauty
@@ -2363,6 +2655,10 @@ Gender: Female
 Music: Female
 Double Battle: Yes
 AI: Smart Trainer
+
+Azumarill
+Level: 35
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Azumarill
 Level: 35
@@ -2531,6 +2827,10 @@ Zigzagoon @ Nugget
 Level: 6
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Zigzagoon @ Nugget
+Level: 6
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_MOLLIE ===
 Name: MOLLIE
 Class: Expert
@@ -2562,6 +2862,10 @@ Azumarill @ Nugget
 Level: 40
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Azumarill @ Nugget
+Level: 40
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_WINSTON_2 ===
 Name: WINSTON
 Class: Rich Boy
@@ -2571,6 +2875,10 @@ Music: Rich
 Items: Full Restore
 Double Battle: Yes
 AI: Smart Trainer
+
+Linoone @ Nugget
+Level: 24
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Linoone @ Nugget
 Level: 24
@@ -2590,6 +2898,10 @@ Linoone @ Nugget
 Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Linoone @ Nugget
+Level: 26
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_WINSTON_4 ===
 Name: WINSTON
 Class: Rich Boy
@@ -2599,6 +2911,10 @@ Music: Rich
 Items: Full Restore
 Double Battle: Yes
 AI: Smart Trainer
+
+Linoone @ Nugget
+Level: 29
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Linoone @ Nugget
 Level: 29
@@ -2622,6 +2938,14 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Odor Sleuth
 - Sand Attack
 
+Linoone @ Nugget
+Level: 32
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Fury Swipes
+- Mud Sport
+- Odor Sleuth
+- Sand Attack
+
 === TRAINER_STEVE_1 ===
 Name: STEVE
 Class: Pokemaniac
@@ -2630,6 +2954,10 @@ Gender: Male
 Music: Suspicious
 Double Battle: Yes
 AI: Smart Trainer
+
+Aron
+Level: 17
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Aron
 Level: 17
@@ -2665,6 +2993,10 @@ Rhyhorn
 Level: 27
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Rhyhorn
+Level: 27
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_GRUNT_MT_CHIMNEY_1 ===
 Name: GRUNT
 Class: Team Magma
@@ -2678,6 +3010,10 @@ Numel
 Level: 17
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Numel
+Level: 17
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_STEVE_2 ===
 Name: STEVE
 Class: Pokemaniac
@@ -2686,6 +3022,10 @@ Gender: Male
 Music: Suspicious
 Double Battle: Yes
 AI: Smart Trainer
+
+Lairon
+Level: 24
+IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 Lairon
 Level: 24
@@ -2755,6 +3095,10 @@ Carvanha
 Level: 23
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Carvanha
+Level: 23
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_DOMINIK ===
 Name: DOMINIK
 Class: Swimmer M
@@ -2763,6 +3107,10 @@ Gender: Male
 Music: Swimmer
 Double Battle: Yes
 AI: Smart Trainer
+
+Tentacool
+Level: 23
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Tentacool
 Level: 23
@@ -2819,6 +3167,10 @@ Carvanha
 Level: 23
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Carvanha
+Level: 23
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_JEROME ===
 Name: JEROME
 Class: Swimmer M
@@ -2832,6 +3184,10 @@ Tentacruel
 Level: 23
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Tentacruel
+Level: 23
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_MATTHEW ===
 Name: MATTHEW
 Class: Swimmer M
@@ -2840,6 +3196,10 @@ Gender: Male
 Music: Swimmer
 Double Battle: Yes
 AI: Smart Trainer
+
+Carvanha
+Level: 23
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Carvanha
 Level: 23
@@ -2892,6 +3252,10 @@ Carvanha
 Level: 30
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Carvanha
+Level: 30
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_NOLEN ===
 Name: NOLEN
 Class: Swimmer M
@@ -2900,6 +3264,10 @@ Gender: Male
 Music: Swimmer
 Double Battle: Yes
 AI: Smart Trainer
+
+Tentacruel
+Level: 30
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Tentacruel
 Level: 30
@@ -2918,6 +3286,10 @@ Horsea
 Level: 30
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Horsea
+Level: 30
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_BARRY ===
 Name: BARRY
 Class: Swimmer M
@@ -2926,6 +3298,10 @@ Gender: Male
 Music: Swimmer
 Double Battle: Yes
 AI: Smart Trainer
+
+Gyarados
+Level: 30
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Gyarados
 Level: 30
@@ -2965,6 +3341,10 @@ Gyarados
 Level: 30
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Gyarados
+Level: 30
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_RICHARD ===
 Name: RICHARD
 Class: Swimmer M
@@ -2973,6 +3353,10 @@ Gender: Male
 Music: Swimmer
 Double Battle: Yes
 AI: Smart Trainer
+
+Pelipper
+Level: 30
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Pelipper
 Level: 30
@@ -3025,6 +3409,10 @@ Sharpedo
 Level: 30
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Sharpedo
+Level: 30
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_FRANKLIN ===
 Name: FRANKLIN
 Class: Swimmer M
@@ -3033,6 +3421,10 @@ Gender: Male
 Music: Swimmer
 Double Battle: Yes
 AI: Smart Trainer
+
+Sealeo
+Level: 30
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Sealeo
 Level: 30
@@ -3051,6 +3443,10 @@ Spheal
 Level: 30
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Spheal
+Level: 30
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_JACK ===
 Name: JACK
 Class: Swimmer M
@@ -3059,6 +3455,10 @@ Gender: Male
 Music: Swimmer
 Double Battle: Yes
 AI: Smart Trainer
+
+Gyarados
+Level: 30
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Gyarados
 Level: 30
@@ -3115,6 +3515,10 @@ Sharpedo
 Level: 26
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
+Sharpedo
+Level: 26
+IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
+
 === TRAINER_TONY_3 ===
 Name: TONY
 Class: Swimmer M
@@ -3123,6 +3527,10 @@ Gender: Male
 Music: Swimmer
 Double Battle: Yes
 AI: Smart Trainer
+
+Sharpedo
+Level: 29
+IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 Sharpedo
 Level: 29
@@ -3175,6 +3583,10 @@ Machop
 Level: 11
 IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
 
+Machop
+Level: 11
+IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
+
 === TRAINER_HITOSHI ===
 Name: HITOSHI
 Class: Black Belt
@@ -3200,6 +3612,10 @@ Gender: Male
 Music: Intense
 Double Battle: Yes
 AI: Smart Trainer
+
+Hariyama
+Level: 30
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Hariyama
 Level: 30
@@ -3235,6 +3651,10 @@ Machop
 Level: 17
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
+Machop
+Level: 17
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+
 === TRAINER_NOB_2 ===
 Name: NOB
 Class: Black Belt
@@ -3243,6 +3663,10 @@ Gender: Male
 Music: Intense
 Double Battle: Yes
 AI: Smart Trainer
+
+Machoke
+Level: 24
+IVs: 13 HP / 13 Atk / 13 Def / 13 SpA / 13 SpD / 13 Spe
 
 Machoke
 Level: 24
@@ -3341,6 +3765,10 @@ Machop
 Level: 17
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
+Machop
+Level: 17
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+
 === TRAINER_ATSUSHI ===
 Name: ATSUSHI
 Class: Black Belt
@@ -3349,6 +3777,10 @@ Gender: Male
 Music: Intense
 Double Battle: Yes
 AI: Smart Trainer
+
+Hariyama
+Level: 28
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Hariyama
 Level: 28
@@ -3403,6 +3835,10 @@ Gender: Male
 Music: Aqua
 Double Battle: Yes
 AI: Smart Trainer
+
+Carvanha
+Level: 28
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Carvanha
 Level: 28
@@ -3556,6 +3992,10 @@ Numel
 Level: 20
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
+Numel
+Level: 20
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+
 === TRAINER_JEFF ===
 Name: JEFF
 Class: Kindler
@@ -3586,6 +4026,10 @@ Numel
 Level: 20
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
+Numel
+Level: 20
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+
 === TRAINER_JACE ===
 Name: JACE
 Class: Kindler
@@ -3599,6 +4043,10 @@ Slugma
 Level: 20
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
+Slugma
+Level: 20
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+
 === TRAINER_KEEGAN ===
 Name: KEEGAN
 Class: Kindler
@@ -3607,6 +4055,10 @@ Gender: Male
 Music: Hiker
 Double Battle: Yes
 AI: Smart Trainer
+
+Slugma
+Level: 20
+IVs: 14 HP / 14 Atk / 14 Def / 14 SpA / 14 SpD / 14 Spe
 
 Slugma
 Level: 20
@@ -3714,6 +4166,14 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Poison Sting
 - Slash
 
+Sandshrew
+Level: 20
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Dig
+- Sand Attack
+- Poison Sting
+- Slash
+
 === TRAINER_BEAU ===
 Name: BEAU
 Class: Camper
@@ -3760,6 +4220,10 @@ Nuzleaf
 Level: 16
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Nuzleaf
+Level: 16
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_SHANE ===
 Name: SHANE
 Class: Camper
@@ -3785,6 +4249,10 @@ Gender: Male
 Music: Male
 Double Battle: Yes
 AI: Smart Trainer
+
+Kecleon
+Level: 21
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Kecleon
 Level: 21
@@ -3820,6 +4288,10 @@ Shroomish
 Level: 18
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Shroomish
+Level: 18
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_TRAVIS ===
 Name: TRAVIS
 Class: Camper
@@ -3828,6 +4300,10 @@ Gender: Male
 Music: Male
 Double Battle: Yes
 AI: Smart Trainer
+
+Sandshrew
+Level: 16
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Sandshrew
 Level: 16
@@ -3917,6 +4393,10 @@ Gender: Male
 Music: Suspicious
 Double Battle: Yes
 AI: Smart Trainer
+
+Surskit
+Level: 23
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Surskit
 Level: 23
@@ -4112,6 +4592,11 @@ Level: 13
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Hidden Power
 
+Abra
+Level: 13
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Hidden Power
+
 === TRAINER_PRESTON ===
 Name: PRESTON
 Class: Psychic
@@ -4120,6 +4605,10 @@ Gender: Male
 Music: Intense
 Double Battle: Yes
 AI: Smart Trainer
+
+Kirlia
+Level: 32
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Kirlia
 Level: 32
@@ -4138,6 +4627,10 @@ Ralts
 Level: 32
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
+Ralts
+Level: 32
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+
 === TRAINER_BLAKE ===
 Name: BLAKE
 Class: Psychic
@@ -4146,6 +4639,10 @@ Gender: Male
 Music: Intense
 Double Battle: Yes
 AI: Smart Trainer
+
+Girafarig
+Level: 32
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Girafarig
 Level: 32
@@ -4197,6 +4694,10 @@ Gender: Male
 Music: Intense
 Double Battle: Yes
 AI: Smart Trainer
+
+Solrock
+Level: 27
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Solrock
 Level: 27
@@ -4284,6 +4785,11 @@ Level: 14
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Hidden Power
 
+Abra
+Level: 14
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Hidden Power
+
 === TRAINER_HANNAH ===
 Name: HANNAH
 Class: Psychic
@@ -4292,6 +4798,10 @@ Gender: Female
 Music: Intense
 Double Battle: Yes
 AI: Smart Trainer
+
+Kirlia
+Level: 32
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Kirlia
 Level: 32
@@ -4310,6 +4820,10 @@ Xatu
 Level: 32
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
+Xatu
+Level: 32
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+
 === TRAINER_MAURA ===
 Name: MAURA
 Class: Psychic
@@ -4318,6 +4832,10 @@ Gender: Female
 Music: Intense
 Double Battle: Yes
 AI: Smart Trainer
+
+Kadabra
+Level: 32
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Kadabra
 Level: 32
@@ -4459,6 +4977,10 @@ Manectric
 Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Manectric
+Level: 26
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_MICAH ===
 Name: MICAH
 Class: Gentleman
@@ -4489,6 +5011,10 @@ Zangoose
 Level: 40
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Zangoose
+Level: 40
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_WALTER_2 ===
 Name: WALTER
 Class: Gentleman
@@ -4497,6 +5023,10 @@ Gender: Male
 Music: Rich
 Double Battle: Yes
 AI: Smart Trainer
+
+Manectric
+Level: 30
+IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 Manectric
 Level: 30
@@ -5137,6 +5667,10 @@ Ralts
 Level: 8
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
+Ralts
+Level: 8
+IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
+
 === TRAINER_TED ===
 Name: TED
 Class: School Kid
@@ -5145,6 +5679,10 @@ Gender: Male
 Music: Male
 Double Battle: Yes
 AI: Smart Trainer
+
+Ralts
+Level: 15
+IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 Ralts
 Level: 15
@@ -5251,6 +5789,10 @@ Gender: Female
 Music: Girl
 Double Battle: Yes
 AI: Smart Trainer
+
+Shroomish
+Level: 8
+IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 Shroomish
 Level: 8
@@ -5516,6 +6058,10 @@ Skitty @ Oran Berry
 Level: 13
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Skitty @ Oran Berry
+Level: 13
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_COLTON ===
 Name: COLTON
 Class: Pokefan
@@ -5586,6 +6132,10 @@ Skitty @ Oran Berry
 Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Skitty @ Oran Berry
+Level: 26
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_MIGUEL_3 ===
 Name: MIGUEL
 Class: Pokefan
@@ -5594,6 +6144,10 @@ Gender: Male
 Music: Twins
 Double Battle: Yes
 AI: Smart Trainer
+
+Skitty @ Oran Berry
+Level: 28
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Skitty @ Oran Berry
 Level: 28
@@ -5612,6 +6166,10 @@ Delcatty @ Oran Berry
 Level: 31
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Delcatty @ Oran Berry
+Level: 31
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_MIGUEL_5 ===
 Name: MIGUEL
 Class: Pokefan
@@ -5620,6 +6178,10 @@ Gender: Male
 Music: Twins
 Double Battle: Yes
 AI: Smart Trainer
+
+Delcatty @ Sitrus Berry
+Level: 34
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Delcatty @ Sitrus Berry
 Level: 34
@@ -5638,6 +6200,10 @@ Roselia @ Oran Berry
 Level: 15
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
+Roselia @ Oran Berry
+Level: 15
+IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+
 === TRAINER_VANESSA ===
 Name: VANESSA
 Class: Pokefan
@@ -5646,6 +6212,10 @@ Gender: Female
 Music: Twins
 Double Battle: Yes
 AI: Smart Trainer
+
+Pikachu @ Oran Berry
+Level: 26
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Pikachu @ Oran Berry
 Level: 26
@@ -5770,6 +6340,10 @@ Hariyama
 Level: 24
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
+Hariyama
+Level: 24
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+
 === TRAINER_TIMOTHY_2 ===
 Name: TIMOTHY
 Class: Expert
@@ -5778,6 +6352,14 @@ Gender: Male
 Music: Intense
 Double Battle: Yes
 AI: Smart Trainer
+
+Hariyama
+Level: 29
+IVs: 25 HP / 25 Atk / 25 Def / 25 SpA / 25 SpD / 25 Spe
+- Arm Thrust
+- Knock Off
+- Sand Attack
+- Dig
 
 Hariyama
 Level: 29
@@ -5804,6 +6386,14 @@ IVs: 26 HP / 26 Atk / 26 Def / 26 SpA / 26 SpD / 26 Spe
 - Sand Attack
 - Dig
 
+Hariyama
+Level: 32
+IVs: 26 HP / 26 Atk / 26 Def / 26 SpA / 26 SpD / 26 Spe
+- Arm Thrust
+- Knock Off
+- Sand Attack
+- Dig
+
 === TRAINER_TIMOTHY_4 ===
 Name: TIMOTHY
 Class: Expert
@@ -5812,6 +6402,14 @@ Gender: Male
 Music: Intense
 Double Battle: Yes
 AI: Smart Trainer
+
+Hariyama
+Level: 35
+IVs: 27 HP / 27 Atk / 27 Def / 27 SpA / 27 SpD / 27 Spe
+- Arm Thrust
+- Belly Drum
+- Sand Attack
+- Dig
 
 Hariyama
 Level: 35
@@ -5838,6 +6436,14 @@ IVs: 29 HP / 29 Atk / 29 Def / 29 SpA / 29 SpD / 29 Spe
 - Sand Attack
 - Dig
 
+Hariyama
+Level: 37
+IVs: 29 HP / 29 Atk / 29 Def / 29 SpA / 29 SpD / 29 Spe
+- Arm Thrust
+- Belly Drum
+- Sand Attack
+- Dig
+
 === TRAINER_VICKY ===
 Name: VICKY
 Class: Winstrate
@@ -5846,6 +6452,14 @@ Gender: Female
 Music: Intense
 Double Battle: Yes
 AI: Smart Trainer
+
+Meditite
+Level: 16
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- High Jump Kick
+- Meditate
+- Confusion
+- Detect
 
 Meditite
 Level: 16
@@ -5953,6 +6567,10 @@ Poochyena
 Level: 4
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Poochyena
+Level: 4
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_BILLY ===
 Name: BILLY
 Class: Youngster
@@ -5984,6 +6602,11 @@ Level: 8
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Tackle
 
+Geodude
+Level: 8
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Tackle
+
 === TRAINER_TOMMY ===
 Name: TOMMY
 Class: Youngster
@@ -6009,6 +6632,10 @@ Gender: Male
 Music: Male
 Double Battle: Yes
 AI: Smart Trainer
+
+Machop
+Level: 8
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Machop
 Level: 8
@@ -6104,6 +6731,10 @@ Trapinch
 Level: 17
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Trapinch
+Level: 17
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_DILLON ===
 Name: DILLON
 Class: Youngster
@@ -6117,6 +6748,10 @@ Aron
 Level: 17
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Aron
+Level: 17
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_CALVIN_2 ===
 Name: CALVIN
 Class: Youngster
@@ -6125,6 +6760,10 @@ Gender: Male
 Music: Male
 Double Battle: Yes
 AI: Smart Trainer
+
+Mightyena
+Level: 24
+IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 Mightyena
 Level: 24
@@ -6396,6 +7035,10 @@ Tentacool
 Level: 9
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
+Tentacool
+Level: 9
+IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
+
 === TRAINER_DALE ===
 Name: DALE
 Class: Fisherman
@@ -6434,6 +7077,10 @@ Barboach
 Level: 17
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Barboach
+Level: 17
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_BARNY ===
 Name: BARNY
 Class: Fisherman
@@ -6459,6 +7106,10 @@ Gender: Male
 Music: Hiker
 Double Battle: Yes
 AI: Smart Trainer
+
+Tentacool
+Level: 14
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Tentacool
 Level: 14
@@ -6661,6 +7312,10 @@ Magnemite
 Level: 14
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Magnemite
+Level: 14
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_BENJAMIN_2 ===
 Name: BENJAMIN
 Class: Triathlete
@@ -6669,6 +7324,10 @@ Gender: Male
 Music: Male
 Double Battle: Yes
 AI: Smart Trainer
+
+Magnemite
+Level: 26
+IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 Magnemite
 Level: 26
@@ -6687,6 +7346,10 @@ Magnemite
 Level: 29
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
+Magnemite
+Level: 29
+IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
+
 === TRAINER_BENJAMIN_4 ===
 Name: BENJAMIN
 Class: Triathlete
@@ -6695,6 +7358,10 @@ Gender: Male
 Music: Male
 Double Battle: Yes
 AI: Smart Trainer
+
+Magneton
+Level: 32
+IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 Magneton
 Level: 32
@@ -6713,6 +7380,10 @@ Magneton
 Level: 35
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
+Magneton
+Level: 35
+IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
+
 === TRAINER_ABIGAIL_1 ===
 Name: ABIGAIL
 Class: Triathlete
@@ -6721,6 +7392,10 @@ Gender: Female
 Music: Female
 Double Battle: Yes
 AI: Smart Trainer
+
+Magnemite
+Level: 14
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Magnemite
 Level: 14
@@ -6760,6 +7435,10 @@ Magnemite
 Level: 25
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
+Magnemite
+Level: 25
+IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
+
 === TRAINER_ABIGAIL_3 ===
 Name: ABIGAIL
 Class: Triathlete
@@ -6768,6 +7447,10 @@ Gender: Female
 Music: Female
 Double Battle: Yes
 AI: Smart Trainer
+
+Magnemite
+Level: 27
+IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 Magnemite
 Level: 27
@@ -6786,6 +7469,10 @@ Magneton
 Level: 30
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
+Magneton
+Level: 30
+IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
+
 === TRAINER_ABIGAIL_5 ===
 Name: ABIGAIL
 Class: Triathlete
@@ -6794,6 +7481,10 @@ Gender: Female
 Music: Female
 Double Battle: Yes
 AI: Smart Trainer
+
+Magneton
+Level: 33
+IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 Magneton
 Level: 33
@@ -6812,6 +7503,10 @@ Doduo
 Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Doduo
+Level: 15
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_DYLAN_2 ===
 Name: DYLAN
 Class: Triathlete
@@ -6820,6 +7515,10 @@ Gender: Male
 Music: Male
 Double Battle: Yes
 AI: Smart Trainer
+
+Doduo
+Level: 25
+IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 Doduo
 Level: 25
@@ -6838,6 +7537,10 @@ Doduo
 Level: 27
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
+Doduo
+Level: 27
+IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
+
 === TRAINER_DYLAN_4 ===
 Name: DYLAN
 Class: Triathlete
@@ -6846,6 +7549,10 @@ Gender: Male
 Music: Male
 Double Battle: Yes
 AI: Smart Trainer
+
+Dodrio
+Level: 30
+IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 Dodrio
 Level: 30
@@ -6864,6 +7571,10 @@ Dodrio
 Level: 33
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
+Dodrio
+Level: 33
+IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
+
 === TRAINER_MARIA_1 ===
 Name: MARIA
 Class: Triathlete
@@ -6872,6 +7583,10 @@ Gender: Female
 Music: Female
 Double Battle: Yes
 AI: Smart Trainer
+
+Doduo
+Level: 15
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Doduo
 Level: 15
@@ -6890,6 +7605,10 @@ Doduo
 Level: 25
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
+Doduo
+Level: 25
+IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
+
 === TRAINER_MARIA_3 ===
 Name: MARIA
 Class: Triathlete
@@ -6898,6 +7617,10 @@ Gender: Female
 Music: Female
 Double Battle: Yes
 AI: Smart Trainer
+
+Doduo
+Level: 27
+IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 Doduo
 Level: 27
@@ -6916,6 +7639,10 @@ Dodrio
 Level: 30
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
+Dodrio
+Level: 30
+IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
+
 === TRAINER_MARIA_5 ===
 Name: MARIA
 Class: Triathlete
@@ -6924,6 +7651,10 @@ Gender: Female
 Music: Female
 Double Battle: Yes
 AI: Smart Trainer
+
+Dodrio
+Level: 33
+IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 Dodrio
 Level: 33
@@ -6976,6 +7707,10 @@ Staryu
 Level: 31
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Staryu
+Level: 31
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_PABLO_1 ===
 Name: PABLO
 Class: Triathlete
@@ -7023,6 +7758,10 @@ Staryu
 Level: 35
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
+Staryu
+Level: 35
+IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
+
 === TRAINER_ISAIAH_3 ===
 Name: ISAIAH
 Class: Triathlete
@@ -7031,6 +7770,10 @@ Gender: Male
 Music: Swimmer
 Double Battle: Yes
 AI: Smart Trainer
+
+Staryu
+Level: 37
+IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 Staryu
 Level: 37
@@ -7049,6 +7792,10 @@ Starmie
 Level: 40
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
+Starmie
+Level: 40
+IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
+
 === TRAINER_ISAIAH_5 ===
 Name: ISAIAH
 Class: Triathlete
@@ -7062,6 +7809,10 @@ Starmie
 Level: 43
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
+Starmie
+Level: 43
+IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
+
 === TRAINER_ISOBEL ===
 Name: ISOBEL
 Class: Triathlete
@@ -7070,6 +7821,10 @@ Gender: Female
 Music: Swimmer
 Double Battle: Yes
 AI: Smart Trainer
+
+Staryu
+Level: 30
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Staryu
 Level: 30
@@ -7105,6 +7860,10 @@ Staryu
 Level: 30
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Staryu
+Level: 30
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_KATELYN_1 ===
 Name: KATELYN
 Class: Triathlete
@@ -7113,6 +7872,10 @@ Gender: Female
 Music: Swimmer
 Double Battle: Yes
 AI: Smart Trainer
+
+Staryu
+Level: 31
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Staryu
 Level: 31
@@ -7148,6 +7911,10 @@ Staryu
 Level: 35
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
+Staryu
+Level: 35
+IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
+
 === TRAINER_KATELYN_3 ===
 Name: KATELYN
 Class: Triathlete
@@ -7156,6 +7923,10 @@ Gender: Female
 Music: Swimmer
 Double Battle: Yes
 AI: Smart Trainer
+
+Staryu
+Level: 37
+IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 Staryu
 Level: 37
@@ -7174,6 +7945,10 @@ Starmie
 Level: 40
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
+Starmie
+Level: 40
+IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
+
 === TRAINER_KATELYN_5 ===
 Name: KATELYN
 Class: Triathlete
@@ -7182,6 +7957,10 @@ Gender: Female
 Music: Swimmer
 Double Battle: Yes
 AI: Smart Trainer
+
+Starmie
+Level: 43
+IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 Starmie
 Level: 43
@@ -7297,6 +8076,14 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Focus Energy
 - Ember
 
+Bagon
+Level: 30
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Dragon Breath
+- Headbutt
+- Focus Energy
+- Ember
+
 === TRAINER_PERRY ===
 Name: PERRY
 Class: Bird Keeper
@@ -7305,6 +8092,10 @@ Gender: Male
 Music: Cool
 Double Battle: Yes
 AI: Smart Trainer
+
+Wingull
+Level: 23
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Wingull
 Level: 23
@@ -7340,6 +8131,10 @@ Swellow
 Level: 23
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Swellow
+Level: 23
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_JARED ===
 Name: JARED
 Class: Bird Keeper
@@ -7369,6 +8164,10 @@ Gender: Male
 Music: Cool
 Double Battle: Yes
 AI: Smart Trainer
+
+Skarmory
+Level: 26
+IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 
 Skarmory
 Level: 26
@@ -7433,6 +8232,10 @@ Gender: Male
 Music: Cool
 Double Battle: Yes
 AI: Smart Trainer
+
+Swablu
+Level: 26
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Swablu
 Level: 26
@@ -7574,6 +8377,10 @@ Tropius
 Level: 30
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Tropius
+Level: 30
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_YASU ===
 Name: YASU
 Class: Ninja Boy
@@ -7582,6 +8389,10 @@ Gender: Male
 Music: Suspicious
 Double Battle: Yes
 AI: Smart Trainer
+
+Ninjask
+Level: 23
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Ninjask
 Level: 23
@@ -7632,6 +8443,10 @@ Pic: Tuber F
 Gender: Female
 Music: Girl
 Double Battle: No
+
+Marill
+Level: 23
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Marill
 Level: 23
@@ -7844,6 +8659,10 @@ Meditite
 Level: 11
 IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
 
+Meditite
+Level: 11
+IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
+
 === TRAINER_LAURA ===
 Name: LAURA
 Class: Battle Girl
@@ -7852,6 +8671,10 @@ Gender: Female
 Music: Intense
 Double Battle: Yes
 AI: Smart Trainer
+
+Meditite
+Level: 11
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Meditite
 Level: 11
@@ -7887,6 +8710,10 @@ Meditite
 Level: 24
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
+Meditite
+Level: 24
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+
 === TRAINER_PAULA ===
 Name: PAULA
 Class: Battle Girl
@@ -7895,6 +8722,10 @@ Gender: Female
 Music: Intense
 Double Battle: Yes
 AI: Smart Trainer
+
+Breloom
+Level: 24
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Breloom
 Level: 24
@@ -7985,6 +8816,14 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Magnitude
 - Sunny Day
 
+Numel
+Level: 17
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Ember
+- Tackle
+- Magnitude
+- Sunny Day
+
 === TRAINER_CLARISSA ===
 Name: CLARISSA
 Class: Parasol Lady
@@ -8019,6 +8858,14 @@ IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 - Thunder
 - Water Pulse
 
+Castform
+Level: 26
+IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+- Rain Dance
+- Weather Ball
+- Thunder
+- Water Pulse
+
 === TRAINER_MADELINE_2 ===
 Name: MADELINE
 Class: Parasol Lady
@@ -8036,6 +8883,14 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 - Magnitude
 - Sunny Day
 
+Numel
+Level: 26
+IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
+- Ember
+- Tackle
+- Magnitude
+- Sunny Day
+
 === TRAINER_MADELINE_3 ===
 Name: MADELINE
 Class: Parasol Lady
@@ -8044,6 +8899,14 @@ Gender: Female
 Music: Female
 Double Battle: Yes
 AI: Smart Trainer
+
+Numel
+Level: 28
+IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
+- Ember
+- Take Down
+- Magnitude
+- Sunny Day
 
 Numel
 Level: 28
@@ -8133,6 +8996,10 @@ Marill
 Level: 23
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Marill
+Level: 23
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_KYLA ===
 Name: KYLA
 Class: Swimmer F
@@ -8141,6 +9008,10 @@ Gender: Female
 Music: Swimmer
 Double Battle: Yes
 AI: Smart Trainer
+
+Wailmer
+Level: 23
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Wailmer
 Level: 23
@@ -8176,6 +9047,10 @@ Goldeen
 Level: 23
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Goldeen
+Level: 23
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_TARA ===
 Name: TARA
 Class: Swimmer F
@@ -8201,6 +9076,10 @@ Gender: Female
 Music: Swimmer
 Double Battle: Yes
 AI: Smart Trainer
+
+Goldeen
+Level: 23
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Goldeen
 Level: 23
@@ -8240,6 +9119,10 @@ Wailmer
 Level: 30
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Wailmer
+Level: 30
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_GRACE ===
 Name: GRACE
 Class: Swimmer F
@@ -8248,6 +9131,10 @@ Gender: Female
 Music: Swimmer
 Double Battle: Yes
 AI: Smart Trainer
+
+Marill
+Level: 30
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Marill
 Level: 30
@@ -8266,6 +9153,10 @@ Luvdisc
 Level: 30
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Luvdisc
+Level: 30
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_SHARON ===
 Name: SHARON
 Class: Swimmer F
@@ -8274,6 +9165,10 @@ Gender: Female
 Music: Swimmer
 Double Battle: Yes
 AI: Smart Trainer
+
+Seaking
+Level: 30
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Seaking
 Level: 30
@@ -8309,6 +9204,10 @@ Goldeen
 Level: 30
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Goldeen
+Level: 30
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_KATIE ===
 Name: KATIE
 Class: Swimmer F
@@ -8339,6 +9238,10 @@ Luvdisc
 Level: 30
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Luvdisc
+Level: 30
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_KARA ===
 Name: KARA
 Class: Swimmer F
@@ -8352,6 +9255,10 @@ Seaking
 Level: 30
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Seaking
+Level: 30
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_DANA ===
 Name: DANA
 Class: Swimmer F
@@ -8360,6 +9267,10 @@ Gender: Female
 Music: Swimmer
 Double Battle: Yes
 AI: Smart Trainer
+
+Azumarill
+Level: 30
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Azumarill
 Level: 30
@@ -8390,6 +9301,10 @@ Gender: Female
 Music: Swimmer
 Double Battle: Yes
 AI: Smart Trainer
+
+Seaking
+Level: 30
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Seaking
 Level: 30
@@ -8459,6 +9374,10 @@ Seaking
 Level: 31
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Seaking
+Level: 31
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_JENNY_2 ===
 Name: JENNY
 Class: Swimmer F
@@ -8472,6 +9391,10 @@ Wailmer
 Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Wailmer
+Level: 34
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_JENNY_3 ===
 Name: JENNY
 Class: Swimmer F
@@ -8480,6 +9403,10 @@ Gender: Female
 Music: Swimmer
 Double Battle: Yes
 AI: Smart Trainer
+
+Wailmer
+Level: 36
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Wailmer
 Level: 36
@@ -8653,6 +9580,14 @@ Gender: Male
 Music: Intense
 Double Battle: Yes
 AI: Smart Trainer
+
+Wobbuffet
+Level: 28
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Destiny Bond
+- Safeguard
+- Counter
+- Mirror Coat
 
 Wobbuffet
 Level: 28
@@ -8966,6 +9901,10 @@ Wingull
 Level: 11
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Wingull
+Level: 11
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_ERNEST_1 ===
 Name: ERNEST
 Class: Sailor
@@ -9156,6 +10095,10 @@ Numel
 Level: 20
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
+Numel
+Level: 20
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+
 === TRAINER_ANNIKA ===
 Name: ANNIKA
 Class: Pokefan
@@ -9195,6 +10138,10 @@ Absol
 Level: 24
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Absol
+Level: 24
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_JONAS ===
 Name: JONAS
 Class: Ninja Boy
@@ -9212,6 +10159,14 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Self Destruct
 - Sludge Bomb
 
+Koffing
+Level: 27
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Toxic
+- Thunder
+- Self Destruct
+- Sludge Bomb
+
 === TRAINER_KAYLEY ===
 Name: KAYLEY
 Class: Parasol Lady
@@ -9220,6 +10175,14 @@ Gender: Female
 Music: Female
 Double Battle: Yes
 AI: Smart Trainer
+
+Castform
+Level: 27
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Sunny Day
+- Weather Ball
+- Flamethrower
+- Solar Beam
 
 Castform
 Level: 27
@@ -9281,6 +10244,14 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Thunder Wave
 - Thunderbolt
 
+Manectric
+Level: 30
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Bite
+- Roar
+- Thunder Wave
+- Thunderbolt
+
 === TRAINER_REYNA ===
 Name: REYNA
 Class: Battle Girl
@@ -9306,6 +10277,10 @@ Gender: Male
 Music: Male
 Double Battle: Yes
 AI: Smart Trainer
+
+Wailmer
+Level: 30
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Wailmer
 Level: 30
@@ -9877,6 +10852,10 @@ Pinsir
 Level: 24
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Pinsir
+Level: 24
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_MITCHELL ===
 Name: MITCHELL
 Class: Cooltrainer
@@ -10098,6 +11077,10 @@ Sandslash
 Level: 23
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Sandslash
+Level: 23
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_LYDIA_2 ===
 Name: LYDIA
 Class: Pkmn Breeder
@@ -10244,6 +11227,10 @@ Breloom
 Level: 24
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
+Breloom
+Level: 24
+IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+
 === TRAINER_LORENZO ===
 Name: LORENZO
 Class: Pkmn Ranger
@@ -10280,6 +11267,10 @@ Cacturne
 Level: 35
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
+Cacturne
+Level: 35
+IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+
 === TRAINER_JACKSON_2 ===
 Name: JACKSON
 Class: Pkmn Ranger
@@ -10289,6 +11280,10 @@ Music: Cool
 Items: Full Restore
 Double Battle: Yes
 AI: Smart Trainer
+
+Breloom
+Level: 27
+IVs: 7 HP / 7 Atk / 7 Def / 7 SpA / 7 SpD / 7 Spe
 
 Breloom
 Level: 27
@@ -10308,6 +11303,10 @@ Breloom
 Level: 30
 IVs: 8 HP / 8 Atk / 8 Def / 8 SpA / 8 SpD / 8 Spe
 
+Breloom
+Level: 30
+IVs: 8 HP / 8 Atk / 8 Def / 8 SpA / 8 SpD / 8 Spe
+
 === TRAINER_JACKSON_4 ===
 Name: JACKSON
 Class: Pkmn Ranger
@@ -10317,6 +11316,10 @@ Music: Cool
 Items: Full Restore
 Double Battle: Yes
 AI: Smart Trainer
+
+Breloom
+Level: 33
+IVs: 9 HP / 9 Atk / 9 Def / 9 SpA / 9 SpD / 9 Spe
 
 Breloom
 Level: 33
@@ -10483,6 +11486,10 @@ Magnemite
 Level: 18
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Magnemite
+Level: 18
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_GRUNT_SEAFLOOR_CAVERN_5 ===
 Name: GRUNT
 Class: Team Aqua
@@ -10581,6 +11588,10 @@ Machop
 Level: 11
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
+Machop
+Level: 11
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+
 === TRAINER_LILITH ===
 Name: LILITH
 Class: Battle Girl
@@ -10589,6 +11600,10 @@ Gender: Female
 Music: Intense
 Double Battle: Yes
 AI: Smart Trainer
+
+Meditite
+Level: 11
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Meditite
 Level: 11
@@ -10607,6 +11622,10 @@ Makuhita
 Level: 11
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
+Makuhita
+Level: 11
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+
 === TRAINER_SYLVIA ===
 Name: SYLVIA
 Class: Hex Maniac
@@ -10620,6 +11639,10 @@ Meditite
 Level: 32
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
+Meditite
+Level: 32
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+
 === TRAINER_LEONARDO ===
 Name: LEONARDO
 Class: Swimmer M
@@ -10628,6 +11651,10 @@ Gender: Male
 Music: Swimmer
 Double Battle: Yes
 AI: Smart Trainer
+
+Carvanha
+Level: 30
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Carvanha
 Level: 30
@@ -10669,6 +11696,10 @@ Tentacruel
 Level: 31
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Tentacruel
+Level: 31
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_GRUNT_MT_CHIMNEY_2 ===
 Name: GRUNT
 Class: Team Magma
@@ -10677,6 +11708,10 @@ Gender: Male
 Music: Magma
 Double Battle: Yes
 AI: Smart Trainer
+
+Zubat
+Level: 17
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Zubat
 Level: 17
@@ -10695,6 +11730,10 @@ Sharpedo
 Level: 30
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Sharpedo
+Level: 30
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_TERRY ===
 Name: TERRY
 Class: Psychic
@@ -10703,6 +11742,10 @@ Gender: Female
 Music: Intense
 Double Battle: Yes
 AI: Smart Trainer
+
+Girafarig
+Level: 33
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Girafarig
 Level: 33
@@ -10721,6 +11764,10 @@ Spoink
 Level: 32
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
+Spoink
+Level: 32
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+
 === TRAINER_KATHLEEN ===
 Name: KATHLEEN
 Class: Hex Maniac
@@ -10729,6 +11776,10 @@ Gender: Female
 Music: Suspicious
 Double Battle: Yes
 AI: Smart Trainer
+
+Kadabra
+Level: 32
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Kadabra
 Level: 32
@@ -10747,6 +11798,10 @@ Girafarig
 Level: 32
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Girafarig
+Level: 32
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_NICHOLAS ===
 Name: NICHOLAS
 Class: Psychic
@@ -10755,6 +11810,10 @@ Gender: Male
 Music: Intense
 Double Battle: Yes
 AI: Smart Trainer
+
+Wobbuffet
+Level: 32
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Wobbuffet
 Level: 32
@@ -10790,6 +11849,10 @@ Baltoy
 Level: 28
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Baltoy
+Level: 28
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_GRUNT_SPACE_CENTER_5 ===
 Name: GRUNT
 Class: Team Magma
@@ -10798,6 +11861,10 @@ Gender: Male
 Music: Magma
 Double Battle: Yes
 AI: Smart Trainer
+
+Zubat
+Level: 28
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Zubat
 Level: 28
@@ -10816,6 +11883,10 @@ Mightyena
 Level: 28
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Mightyena
+Level: 28
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_GRUNT_SPACE_CENTER_7 ===
 Name: GRUNT
 Class: Team Magma
@@ -10829,6 +11900,10 @@ Baltoy
 Level: 28
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Baltoy
+Level: 28
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_MACEY ===
 Name: MACEY
 Class: Psychic
@@ -10837,6 +11912,10 @@ Gender: Female
 Music: Intense
 Double Battle: Yes
 AI: Smart Trainer
+
+Natu
+Level: 32
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Natu
 Level: 32
@@ -10901,6 +11980,10 @@ Gender: Female
 Music: Swimmer
 Double Battle: Yes
 AI: Smart Trainer
+
+Staryu
+Level: 30
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Staryu
 Level: 30
@@ -11091,6 +12174,10 @@ Marill
 Level: 8
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Marill
+Level: 8
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_VIVI ===
 Name: VIVI
 Class: Winstrate
@@ -11197,6 +12284,10 @@ Oddish
 Level: 14
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Oddish
+Level: 14
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_ROBIN ===
 Name: ROBIN
 Class: Lass
@@ -11226,6 +12317,10 @@ Gender: Female
 Music: Female
 Double Battle: Yes
 AI: Smart Trainer
+
+Luvdisc
+Level: 35
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Luvdisc
 Level: 35
@@ -11354,6 +12449,10 @@ Ninjask
 Level: 22
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Ninjask
+Level: 22
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_JAMES_1 ===
 Name: JAMES
 Class: Bug Catcher
@@ -11379,6 +12478,10 @@ Gender: Male
 Music: Male
 Double Battle: Yes
 AI: Smart Trainer
+
+Ninjask
+Level: 24
+IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 Ninjask
 Level: 24
@@ -11553,6 +12656,10 @@ Geodude
 Level: 7
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Geodude
+Level: 7
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_ERIC ===
 Name: ERIC
 Class: Hiker
@@ -11578,6 +12685,12 @@ Gender: Male
 Music: Hiker
 Double Battle: Yes
 AI: Smart Trainer
+
+Wailmer
+Level: 8
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Splash
+- Water Gun
 
 Wailmer
 Level: 8
@@ -11859,6 +12972,10 @@ Goldeen
 Level: 11
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Goldeen
+Level: 11
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_GERALD ===
 Name: GERALD
 Class: Cooltrainer
@@ -11868,6 +12985,14 @@ Music: Cool
 Items: Hyper Potion
 Double Battle: Yes
 AI: Smart Trainer
+
+Kecleon
+Level: 20
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Flamethrower
+- Fury Swipes
+- Feint Attack
+- Bind
 
 Kecleon
 Level: 20
@@ -11910,6 +13035,14 @@ Gender: Female
 Music: Intense
 Double Battle: Yes
 AI: Smart Trainer
+
+Meditite
+Level: 20
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Bide
+- Detect
+- Confusion
+- Fire Punch
 
 Meditite
 Level: 20
@@ -12040,6 +13173,10 @@ Gender: Male
 Music: Male
 Double Battle: Yes
 AI: Smart Trainer
+
+Ralts
+Level: 14
+IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 Ralts
 Level: 14
@@ -12503,6 +13640,10 @@ Machoke
 Level: 30
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Machoke
+Level: 30
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_WAYNE ===
 Name: WAYNE
 Class: Fisherman
@@ -12566,6 +13707,10 @@ Gender: Female
 Music: Swimmer
 Double Battle: Yes
 AI: Smart Trainer
+
+Chinchou
+Level: 30
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Chinchou
 Level: 30
@@ -12980,6 +14125,10 @@ Magikarp
 Level: 8
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Magikarp
+Level: 8
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_HAILEY ===
 Name: HAILEY
 Class: Tuber F
@@ -12988,6 +14137,10 @@ Gender: Female
 Music: Girl
 Double Battle: Yes
 AI: Smart Trainer
+
+Marill
+Level: 13
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Marill
 Level: 13
@@ -13057,6 +14210,10 @@ Magnemite
 Level: 13
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Magnemite
+Level: 13
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_MARCOS ===
 Name: MARCOS
 Class: Guitarist
@@ -13065,6 +14222,10 @@ Gender: Male
 Music: Intense
 Double Battle: Yes
 AI: Smart Trainer
+
+Voltorb
+Level: 13
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Voltorb
 Level: 13
@@ -13083,6 +14244,10 @@ Makuhita
 Level: 13
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
+Makuhita
+Level: 13
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+
 === TRAINER_TYRON ===
 Name: TYRON
 Class: Camper
@@ -13091,6 +14256,10 @@ Gender: Male
 Music: Male
 Double Battle: Yes
 AI: Smart Trainer
+
+Sandshrew
+Level: 17
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Sandshrew
 Level: 17
@@ -13109,6 +14278,10 @@ Roselia
 Level: 16
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Roselia
+Level: 16
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_BIANCA ===
 Name: BIANCA
 Class: Picnicker
@@ -13122,6 +14295,10 @@ Shroomish
 Level: 16
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Shroomish
+Level: 16
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_HAYDEN ===
 Name: HAYDEN
 Class: Kindler
@@ -13130,6 +14307,10 @@ Gender: Male
 Music: Hiker
 Double Battle: Yes
 AI: Smart Trainer
+
+Numel
+Level: 16
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Numel
 Level: 16
@@ -13233,6 +14414,10 @@ Barboach
 Level: 17
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Barboach
+Level: 17
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_CHARLOTTE ===
 Name: CHARLOTTE
 Class: Picnicker
@@ -13241,6 +14426,10 @@ Gender: Female
 Music: Girl
 Double Battle: Yes
 AI: Smart Trainer
+
+Nuzleaf
+Level: 17
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Nuzleaf
 Level: 17
@@ -13280,6 +14469,10 @@ Zubat
 Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Zubat
+Level: 26
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_GRUNT_MAGMA_HIDEOUT_2 ===
 Name: GRUNT
 Class: Team Magma
@@ -13293,6 +14486,10 @@ Poochyena
 Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Poochyena
+Level: 26
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_GRUNT_MAGMA_HIDEOUT_3 ===
 Name: GRUNT
 Class: Team Magma
@@ -13301,6 +14498,10 @@ Gender: Male
 Music: Magma
 Double Battle: Yes
 AI: Smart Trainer
+
+Numel
+Level: 26
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Numel
 Level: 26
@@ -13353,6 +14554,10 @@ Mightyena
 Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Mightyena
+Level: 26
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_GRUNT_MAGMA_HIDEOUT_7 ===
 Name: GRUNT
 Class: Team Magma
@@ -13361,6 +14566,10 @@ Gender: Male
 Music: Magma
 Double Battle: Yes
 AI: Smart Trainer
+
+Zubat
+Level: 26
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Zubat
 Level: 26
@@ -13379,6 +14588,10 @@ Poochyena
 Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Poochyena
+Level: 26
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_GRUNT_MAGMA_HIDEOUT_9 ===
 Name: GRUNT
 Class: Team Magma
@@ -13387,6 +14600,10 @@ Gender: Male
 Music: Magma
 Double Battle: Yes
 AI: Smart Trainer
+
+Zubat
+Level: 26
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Zubat
 Level: 26
@@ -13405,6 +14622,10 @@ Mightyena
 Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Mightyena
+Level: 26
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_GRUNT_MAGMA_HIDEOUT_11 ===
 Name: GRUNT
 Class: Team Magma
@@ -13413,6 +14634,10 @@ Gender: Male
 Music: Magma
 Double Battle: Yes
 AI: Smart Trainer
+
+Baltoy
+Level: 26
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Baltoy
 Level: 26
@@ -13431,6 +14656,10 @@ Numel
 Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Numel
+Level: 26
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_GRUNT_MAGMA_HIDEOUT_13 ===
 Name: GRUNT
 Class: Team Magma
@@ -13439,6 +14668,10 @@ Gender: Male
 Music: Magma
 Double Battle: Yes
 AI: Smart Trainer
+
+Zubat
+Level: 26
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Zubat
 Level: 26
@@ -13457,6 +14690,10 @@ Mightyena
 Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Mightyena
+Level: 26
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_GRUNT_MAGMA_HIDEOUT_15 ===
 Name: GRUNT
 Class: Team Magma
@@ -13470,6 +14707,10 @@ Numel
 Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Numel
+Level: 26
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_GRUNT_MAGMA_HIDEOUT_16 ===
 Name: GRUNT
 Class: Team Magma
@@ -13478,6 +14719,10 @@ Gender: Female
 Music: Magma
 Double Battle: Yes
 AI: Smart Trainer
+
+Baltoy
+Level: 26
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Baltoy
 Level: 26
@@ -13560,6 +14805,10 @@ Tentacool
 Level: 13
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Tentacool
+Level: 13
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_ISABELLE ===
 Name: ISABELLE
 Class: Swimmer F
@@ -13568,6 +14817,10 @@ Gender: Female
 Music: Swimmer
 Double Battle: Yes
 AI: Smart Trainer
+
+Marill
+Level: 13
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Marill
 Level: 13
@@ -13615,6 +14868,10 @@ Gender: Male
 Music: Swimmer
 Double Battle: Yes
 AI: Smart Trainer
+
+Staryu
+Level: 23
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Staryu
 Level: 23
@@ -13897,6 +15154,10 @@ Doduo
 Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Doduo
+Level: 15
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_BRANDI ===
 Name: BRANDI
 Class: Psychic
@@ -13910,6 +15171,10 @@ Ralts
 Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Ralts
+Level: 15
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_AISHA ===
 Name: AISHA
 Class: Battle Girl
@@ -13918,6 +15183,10 @@ Gender: Female
 Music: Intense
 Double Battle: Yes
 AI: Smart Trainer
+
+Meditite
+Level: 15
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Meditite
 Level: 15
@@ -13954,6 +15223,10 @@ Manectric
 Level: 23
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Manectric
+Level: 23
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_DAYTON ===
 Name: DAYTON
 Class: Kindler
@@ -13984,6 +15257,10 @@ Goldeen
 Level: 23
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Goldeen
+Level: 23
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_LEONEL ===
 Name: LEONEL
 Class: Cooltrainer
@@ -13993,6 +15270,13 @@ Music: Cool
 Items: Hyper Potion
 Double Battle: Yes
 AI: Smart Trainer
+
+Manectric
+Level: 26
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Thunder
+- Quick Attack
+- Thunder Wave
 
 Manectric
 Level: 26
@@ -15853,6 +17137,10 @@ Tropius
 Level: 26
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
+Tropius
+Level: 26
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+
 === TRAINER_STEVEN ===
 Name: STEVEN
 Class: Rival
@@ -15924,6 +17212,10 @@ Beldum
 Level: 4
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Beldum
+Level: 4
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_TUCKER ===
 Name: TUCKER
 Class: Dome Ace
@@ -15932,6 +17224,10 @@ Gender: Male
 Music: Male
 Double Battle: Yes
 AI: Smart Trainer
+
+Beldum
+Level: 4
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Beldum
 Level: 4
@@ -15950,6 +17246,10 @@ Beldum
 Level: 4
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Beldum
+Level: 4
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_GRETA ===
 Name: GRETA
 Class: Arena Tycoon
@@ -15958,6 +17258,10 @@ Gender: Female
 Music: Male
 Double Battle: Yes
 AI: Smart Trainer
+
+Beldum
+Level: 4
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Beldum
 Level: 4
@@ -15976,6 +17280,10 @@ Beldum
 Level: 4
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Beldum
+Level: 4
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_LUCY ===
 Name: LUCY
 Class: Pike Queen
@@ -15989,6 +17297,10 @@ Beldum
 Level: 4
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Beldum
+Level: 4
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_BRANDON ===
 Name: BRANDON
 Class: Pyramid King
@@ -15997,6 +17309,10 @@ Gender: Male
 Music: Male
 Double Battle: Yes
 AI: Smart Trainer
+
+Beldum
+Level: 4
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Beldum
 Level: 4
@@ -16798,6 +18114,10 @@ Chimecho
 Level: 36
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+Chimecho
+Level: 36
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_ALVARO ===
 Name: ALVARO
 Class: Psychic
@@ -16821,6 +18141,10 @@ Pic: Gentleman
 Gender: Male
 Music: Rich
 Double Battle: No
+
+Wobbuffet
+Level: 36
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Wobbuffet
 Level: 36
