@@ -9,15 +9,20 @@ u32 GetCurrentLevelCap(void)
 {
     static const u32 sLevelCapFlagMap[][2] =
     {
+        {FLAG_DEFEATED_RIVAL_ROUTE103, 5},
         {FLAG_BADGE01_GET, 15},
         {FLAG_BADGE02_GET, 19},
+        {FLAG_ENABLE_PROF_BIRCH_MATCH_CALL, 20},
         {FLAG_BADGE03_GET, 24},
         {FLAG_BADGE04_GET, 29},
         {FLAG_BADGE05_GET, 31},
         {FLAG_BADGE06_GET, 33},
+        {FLAG_GROUDON_AWAKENED_MAGMA_HIDEOUT, 39},
         {FLAG_BADGE07_GET, 42},
+        {FLAG_DEFEATED_MAGMA_SPACE_CENTER, 44},
         {FLAG_BADGE08_GET, 46},
         {FLAG_IS_CHAMPION, 58},
+        {FLAG_DEFEATED_METEOR_FALLS_STEVEN, 78},
     };
 
     u32 i;
