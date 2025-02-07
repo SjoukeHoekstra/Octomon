@@ -1750,10 +1750,6 @@ F_TRAINER_FEMALE |
             .lvl = 43,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 757
-                MOVE_PSYCHIC,
-            },
             },
             {
 #line 759
@@ -1765,11 +1761,6 @@ F_TRAINER_FEMALE |
             .lvl = 43,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 762
-                MOVE_SKILL_SWAP,
-                MOVE_EARTHQUAKE,
-            },
             },
         },
     },
@@ -2060,13 +2051,6 @@ F_TRAINER_FEMALE |
             .lvl = 20,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 874
-                MOVE_DIG,
-                MOVE_SLASH,
-                MOVE_SAND_ATTACK,
-                MOVE_POISON_STING,
-            },
             },
             {
 #line 879
@@ -2078,13 +2062,6 @@ F_TRAINER_FEMALE |
             .lvl = 20,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 882
-                MOVE_DIG,
-                MOVE_SLASH,
-                MOVE_SAND_ATTACK,
-                MOVE_POISON_STING,
-            },
             },
         },
     },
@@ -2117,13 +2094,6 @@ F_TRAINER_FEMALE |
             .lvl = 27,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 899
-                MOVE_PSYBEAM,
-                MOVE_SELF_DESTRUCT,
-                MOVE_SANDSTORM,
-                MOVE_ANCIENT_POWER,
-            },
             },
             {
 #line 904
@@ -2135,13 +2105,6 @@ F_TRAINER_FEMALE |
             .lvl = 27,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 907
-                MOVE_DIG,
-                MOVE_SLASH,
-                MOVE_SAND_ATTACK,
-                MOVE_POISON_STING,
-            },
             },
             {
 #line 912
@@ -2153,13 +2116,6 @@ F_TRAINER_FEMALE |
             .lvl = 27,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 915
-                MOVE_DIG,
-                MOVE_SLASH,
-                MOVE_SAND_ATTACK,
-                MOVE_POISON_STING,
-            },
             },
         },
     },
@@ -2192,13 +2148,6 @@ F_TRAINER_FEMALE |
             .lvl = 25,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 932
-                MOVE_DIG,
-                MOVE_SLASH,
-                MOVE_SAND_ATTACK,
-                MOVE_POISON_STING,
-            },
             },
             {
 #line 937
@@ -2210,13 +2159,6 @@ F_TRAINER_FEMALE |
             .lvl = 25,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 940
-                MOVE_DIG,
-                MOVE_SLASH,
-                MOVE_SAND_ATTACK,
-                MOVE_POISON_STING,
-            },
             },
         },
     },
@@ -2249,13 +2191,6 @@ F_TRAINER_FEMALE |
             .lvl = 24,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 957
-                MOVE_DIG,
-                MOVE_SLASH,
-                MOVE_SAND_ATTACK,
-                MOVE_POISON_STING,
-            },
             },
             {
 #line 962
@@ -2267,13 +2202,6 @@ F_TRAINER_FEMALE |
             .lvl = 24,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 965
-                MOVE_DIG,
-                MOVE_SLASH,
-                MOVE_SAND_ATTACK,
-                MOVE_POISON_STING,
-            },
             },
         },
     },
@@ -2306,13 +2234,6 @@ F_TRAINER_FEMALE |
             .lvl = 26,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 982
-                MOVE_DIG,
-                MOVE_SLASH,
-                MOVE_SAND_ATTACK,
-                MOVE_POISON_STING,
-            },
             },
             {
 #line 987
@@ -2324,13 +2245,6 @@ F_TRAINER_FEMALE |
             .lvl = 26,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 990
-                MOVE_DIG,
-                MOVE_SLASH,
-                MOVE_SAND_ATTACK,
-                MOVE_POISON_STING,
-            },
             },
         },
     },
@@ -2363,13 +2277,6 @@ F_TRAINER_FEMALE |
             .lvl = 29,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 1007
-                MOVE_DIG,
-                MOVE_SLASH,
-                MOVE_SAND_ATTACK,
-                MOVE_POISON_STING,
-            },
             },
             {
 #line 1012
@@ -2381,13 +2288,6 @@ F_TRAINER_FEMALE |
             .lvl = 29,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 1015
-                MOVE_DIG,
-                MOVE_SLASH,
-                MOVE_SAND_ATTACK,
-                MOVE_POISON_STING,
-            },
             },
         },
     },
@@ -2420,13 +2320,6 @@ F_TRAINER_FEMALE |
             .lvl = 32,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 1032
-                MOVE_DIG,
-                MOVE_SLASH,
-                MOVE_SAND_ATTACK,
-                MOVE_POISON_STING,
-            },
             },
             {
 #line 1037
@@ -2438,13 +2331,6 @@ F_TRAINER_FEMALE |
             .lvl = 32,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 1040
-                MOVE_DIG,
-                MOVE_SLASH,
-                MOVE_SAND_ATTACK,
-                MOVE_POISON_STING,
-            },
             },
         },
     },
@@ -2692,13 +2578,6 @@ F_TRAINER_FEMALE |
             .lvl = 39,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 1142
-                MOVE_SONIC_BOOM,
-                MOVE_THUNDER_WAVE,
-                MOVE_METAL_SOUND,
-                MOVE_THUNDERBOLT,
-            },
             },
             {
 #line 1147
@@ -2710,13 +2589,6 @@ F_TRAINER_FEMALE |
             .lvl = 39,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 1150
-                MOVE_ASTONISH,
-                MOVE_STOMP,
-                MOVE_SUPERSONIC,
-                MOVE_HYPER_VOICE,
-            },
             },
         },
     },
@@ -3064,13 +2936,6 @@ F_TRAINER_FEMALE |
             .lvl = 11,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 1286
-                MOVE_SAND_ATTACK,
-                MOVE_HEADBUTT,
-                MOVE_TAIL_WHIP,
-                MOVE_SURF,
-            },
             },
             {
 #line 1291
@@ -3082,13 +2947,6 @@ F_TRAINER_FEMALE |
             .lvl = 11,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 1294
-                MOVE_SAND_ATTACK,
-                MOVE_HEADBUTT,
-                MOVE_TAIL_WHIP,
-                MOVE_SURF,
-            },
             },
         },
     },
@@ -3207,13 +3065,6 @@ F_TRAINER_FEMALE |
             .lvl = 24,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 1345
-                MOVE_SAND_ATTACK,
-                MOVE_PIN_MISSILE,
-                MOVE_TAIL_WHIP,
-                MOVE_SURF,
-            },
             },
             {
 #line 1350
@@ -3225,13 +3076,6 @@ F_TRAINER_FEMALE |
             .lvl = 24,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 1353
-                MOVE_SAND_ATTACK,
-                MOVE_PIN_MISSILE,
-                MOVE_TAIL_WHIP,
-                MOVE_SURF,
-            },
             },
         },
     },
@@ -3264,13 +3108,6 @@ F_TRAINER_FEMALE |
             .lvl = 26,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 1370
-                MOVE_SAND_ATTACK,
-                MOVE_PIN_MISSILE,
-                MOVE_TAIL_WHIP,
-                MOVE_SURF,
-            },
             },
             {
 #line 1375
@@ -3282,13 +3119,6 @@ F_TRAINER_FEMALE |
             .lvl = 26,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 1378
-                MOVE_SAND_ATTACK,
-                MOVE_PIN_MISSILE,
-                MOVE_TAIL_WHIP,
-                MOVE_SURF,
-            },
             },
         },
     },
@@ -3321,13 +3151,6 @@ F_TRAINER_FEMALE |
             .lvl = 29,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 1395
-                MOVE_SAND_ATTACK,
-                MOVE_PIN_MISSILE,
-                MOVE_TAIL_WHIP,
-                MOVE_SURF,
-            },
             },
             {
 #line 1400
@@ -3339,13 +3162,6 @@ F_TRAINER_FEMALE |
             .lvl = 29,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 1403
-                MOVE_SAND_ATTACK,
-                MOVE_PIN_MISSILE,
-                MOVE_TAIL_WHIP,
-                MOVE_SURF,
-            },
             },
         },
     },
@@ -3378,13 +3194,6 @@ F_TRAINER_FEMALE |
             .lvl = 32,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 1420
-                MOVE_SAND_ATTACK,
-                MOVE_PIN_MISSILE,
-                MOVE_TAIL_WHIP,
-                MOVE_SURF,
-            },
             },
             {
 #line 1425
@@ -3396,13 +3205,6 @@ F_TRAINER_FEMALE |
             .lvl = 32,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 1428
-                MOVE_SAND_ATTACK,
-                MOVE_PIN_MISSILE,
-                MOVE_TAIL_WHIP,
-                MOVE_SURF,
-            },
             },
         },
     },
@@ -3437,12 +3239,6 @@ F_TRAINER_FEMALE |
             .lvl = 23,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 1446
-                MOVE_QUICK_ATTACK,
-                MOVE_AGILITY,
-                MOVE_WING_ATTACK,
-            },
             },
             {
 #line 1450
@@ -3454,12 +3250,6 @@ F_TRAINER_FEMALE |
             .lvl = 23,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 1453
-                MOVE_QUICK_ATTACK,
-                MOVE_AGILITY,
-                MOVE_WING_ATTACK,
-            },
             },
         },
     },
@@ -3494,12 +3284,6 @@ F_TRAINER_FEMALE |
             .lvl = 23,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 1470
-                MOVE_TEETER_DANCE,
-                MOVE_DIZZY_PUNCH,
-                MOVE_FOCUS_PUNCH,
-            },
             },
             {
 #line 1474
@@ -3511,12 +3295,6 @@ F_TRAINER_FEMALE |
             .lvl = 23,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 1477
-                MOVE_TEETER_DANCE,
-                MOVE_DIZZY_PUNCH,
-                MOVE_FOCUS_PUNCH,
-            },
             },
         },
     },
@@ -3553,12 +3331,6 @@ F_TRAINER_FEMALE |
             .lvl = 23,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 1494
-                MOVE_SLACK_OFF,
-                MOVE_COUNTER,
-                MOVE_SHADOW_BALL,
-            },
             },
             {
 #line 1498
@@ -3572,12 +3344,6 @@ F_TRAINER_FEMALE |
             .lvl = 23,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 1501
-                MOVE_SLACK_OFF,
-                MOVE_COUNTER,
-                MOVE_SHADOW_BALL,
-            },
             },
         },
     },
@@ -3612,11 +3378,6 @@ F_TRAINER_FEMALE |
             .lvl = 23,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 1518
-                MOVE_FOCUS_ENERGY,
-                MOVE_SLASH,
-            },
             },
             {
 #line 1521
@@ -3628,11 +3389,6 @@ F_TRAINER_FEMALE |
             .lvl = 23,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 1524
-                MOVE_FOCUS_ENERGY,
-                MOVE_SLASH,
-            },
             },
         },
     },
@@ -3667,13 +3423,6 @@ F_TRAINER_FEMALE |
             .lvl = 28,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 1540
-                MOVE_FOCUS_ENERGY,
-                MOVE_QUICK_ATTACK,
-                MOVE_WING_ATTACK,
-                MOVE_ENDEAVOR,
-            },
             },
             {
 #line 1545
@@ -3685,13 +3434,6 @@ F_TRAINER_FEMALE |
             .lvl = 28,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 1548
-                MOVE_BITE,
-                MOVE_DIG,
-                MOVE_FEINT_ATTACK,
-                MOVE_SAND_TOMB,
-            },
             },
             {
 #line 1553
@@ -3703,13 +3445,6 @@ F_TRAINER_FEMALE |
             .lvl = 28,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 1556
-                MOVE_ROLLOUT,
-                MOVE_WHIRLPOOL,
-                MOVE_ASTONISH,
-                MOVE_WATER_PULSE,
-            },
             },
             {
 #line 1561
@@ -3721,13 +3456,6 @@ F_TRAINER_FEMALE |
             .lvl = 28,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 1564
-                MOVE_THUNDERBOLT,
-                MOVE_SUPERSONIC,
-                MOVE_THUNDER_WAVE,
-                MOVE_SONIC_BOOM,
-            },
             },
             {
 #line 1569
@@ -3739,13 +3467,6 @@ F_TRAINER_FEMALE |
             .lvl = 28,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 1572
-                MOVE_GIGA_DRAIN,
-                MOVE_FEINT_ATTACK,
-                MOVE_DOUBLE_TEAM,
-                MOVE_SWAGGER,
-            },
             },
         },
     },
@@ -4477,11 +4198,6 @@ F_TRAINER_FEMALE |
             .lvl = 23,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 1864
-                MOVE_FEINT_ATTACK,
-                MOVE_SHOCK_WAVE,
-            },
             },
             {
 #line 1867
@@ -4493,11 +4209,6 @@ F_TRAINER_FEMALE |
             .lvl = 23,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 1870
-                MOVE_FEINT_ATTACK,
-                MOVE_SHOCK_WAVE,
-            },
             },
         },
     },
@@ -4534,12 +4245,6 @@ F_TRAINER_FEMALE |
             .lvl = 23,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 1886
-                MOVE_DEFENSE_CURL,
-                MOVE_DOUBLE_EDGE,
-                MOVE_SHADOW_BALL,
-            },
             },
             {
 #line 1890
@@ -4551,12 +4256,6 @@ F_TRAINER_FEMALE |
             .lvl = 23,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 1893
-                MOVE_DEFENSE_CURL,
-                MOVE_DOUBLE_EDGE,
-                MOVE_SHADOW_BALL,
-            },
             },
         },
     },
@@ -4593,11 +4292,6 @@ F_TRAINER_FEMALE |
             .lvl = 23,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 1910
-                MOVE_SWORDS_DANCE,
-                MOVE_SLASH,
-            },
             },
             {
 #line 1913
@@ -4609,11 +4303,6 @@ F_TRAINER_FEMALE |
             .lvl = 23,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 1916
-                MOVE_SWORDS_DANCE,
-                MOVE_SLASH,
-            },
             },
         },
     },
@@ -4650,13 +4339,6 @@ F_TRAINER_FEMALE |
             .lvl = 29,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 1932
-                MOVE_BATON_PASS,
-                MOVE_FEINT_ATTACK,
-                MOVE_FAKE_TEARS,
-                MOVE_BITE,
-            },
             },
             {
 #line 1937
@@ -4668,13 +4350,6 @@ F_TRAINER_FEMALE |
             .lvl = 29,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 1940
-                MOVE_MEGA_DRAIN,
-                MOVE_MAGICAL_LEAF,
-                MOVE_GRASS_WHISTLE,
-                MOVE_LEECH_SEED,
-            },
             },
             {
 #line 1945
@@ -4686,13 +4361,6 @@ F_TRAINER_FEMALE |
             .lvl = 29,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 1948
-                MOVE_FLY,
-                MOVE_WATER_GUN,
-                MOVE_MIST,
-                MOVE_PROTECT,
-            },
             },
         },
     },
@@ -5839,13 +5507,6 @@ F_TRAINER_FEMALE |
             .lvl = 39,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 2385
-                MOVE_ATTRACT,
-                MOVE_SWEET_KISS,
-                MOVE_FLAIL,
-                MOVE_WATER_PULSE,
-            },
             },
             {
 #line 2390
@@ -5859,13 +5520,6 @@ F_TRAINER_FEMALE |
             .lvl = 39,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 2393
-                MOVE_ATTRACT,
-                MOVE_SAFEGUARD,
-                MOVE_TAKE_DOWN,
-                MOVE_WATER_PULSE,
-            },
             },
         },
     },
@@ -5958,11 +5612,6 @@ F_TRAINER_FEMALE |
             .lvl = 9,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 2432
-                MOVE_TACKLE,
-                MOVE_TAIL_WHIP,
-            },
             },
             {
 #line 2435
@@ -5976,11 +5625,6 @@ F_TRAINER_FEMALE |
             .lvl = 9,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 2438
-                MOVE_TACKLE,
-                MOVE_TAIL_WHIP,
-            },
             },
         },
     },
@@ -6274,13 +5918,6 @@ F_TRAINER_FEMALE |
             .lvl = 32,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 2544
-                MOVE_FURY_SWIPES,
-                MOVE_MUD_SPORT,
-                MOVE_ODOR_SLEUTH,
-                MOVE_SAND_ATTACK,
-            },
             },
             {
 #line 2549
@@ -6294,13 +5931,6 @@ F_TRAINER_FEMALE |
             .lvl = 32,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 2552
-                MOVE_FURY_SWIPES,
-                MOVE_MUD_SPORT,
-                MOVE_ODOR_SLEUTH,
-                MOVE_SAND_ATTACK,
-            },
             },
         },
     },
@@ -6470,13 +6100,6 @@ F_TRAINER_FEMALE |
             .lvl = 29,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 2620
-                MOVE_BIND,
-                MOVE_LICK,
-                MOVE_FURY_SWIPES,
-                MOVE_FEINT_ATTACK,
-            },
             },
             {
 #line 2625
@@ -6488,13 +6111,6 @@ F_TRAINER_FEMALE |
             .lvl = 29,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 2628
-                MOVE_POISON_TAIL,
-                MOVE_SCREECH,
-                MOVE_GLARE,
-                MOVE_CRUNCH,
-            },
             },
         },
     },
@@ -6619,13 +6235,6 @@ F_TRAINER_FEMALE |
             .lvl = 35,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 2679
-                MOVE_IRON_DEFENSE,
-                MOVE_WHIRLPOOL,
-                MOVE_RAIN_DANCE,
-                MOVE_WATER_PULSE,
-            },
             },
             {
 #line 2684
@@ -6637,12 +6246,6 @@ F_TRAINER_FEMALE |
             .lvl = 37,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 2687
-                MOVE_TAUNT,
-                MOVE_CRABHAMMER,
-                MOVE_WATER_PULSE,
-            },
             },
             {
 #line 2691
@@ -6654,13 +6257,6 @@ F_TRAINER_FEMALE |
             .lvl = 39,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 2694
-                MOVE_UPROAR,
-                MOVE_FURY_SWIPES,
-                MOVE_FAKE_OUT,
-                MOVE_WATER_PULSE,
-            },
             },
         },
     },
@@ -6740,13 +6336,6 @@ F_TRAINER_FEMALE |
             .lvl = 35,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 2728
-                MOVE_BIND,
-                MOVE_LICK,
-                MOVE_FURY_SWIPES,
-                MOVE_FEINT_ATTACK,
-            },
             },
             {
 #line 2733
@@ -6758,13 +6347,6 @@ F_TRAINER_FEMALE |
             .lvl = 35,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 2736
-                MOVE_POISON_TAIL,
-                MOVE_SCREECH,
-                MOVE_GLARE,
-                MOVE_CRUNCH,
-            },
             },
         },
     },
@@ -6799,13 +6381,6 @@ F_TRAINER_FEMALE |
             .lvl = 38,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 2753
-                MOVE_BIND,
-                MOVE_LICK,
-                MOVE_FURY_SWIPES,
-                MOVE_FEINT_ATTACK,
-            },
             },
             {
 #line 2758
@@ -6817,13 +6392,6 @@ F_TRAINER_FEMALE |
             .lvl = 38,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 2761
-                MOVE_POISON_TAIL,
-                MOVE_SCREECH,
-                MOVE_GLARE,
-                MOVE_CRUNCH,
-            },
             },
         },
     },
@@ -6858,13 +6426,6 @@ F_TRAINER_FEMALE |
             .lvl = 41,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 2778
-                MOVE_BIND,
-                MOVE_LICK,
-                MOVE_FURY_SWIPES,
-                MOVE_FEINT_ATTACK,
-            },
             },
             {
 #line 2783
@@ -6876,13 +6437,6 @@ F_TRAINER_FEMALE |
             .lvl = 41,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 2786
-                MOVE_POISON_TAIL,
-                MOVE_SCREECH,
-                MOVE_GLARE,
-                MOVE_CRUNCH,
-            },
             },
         },
     },
@@ -6917,13 +6471,6 @@ F_TRAINER_FEMALE |
             .lvl = 44,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 2803
-                MOVE_BIND,
-                MOVE_LICK,
-                MOVE_FURY_SWIPES,
-                MOVE_FEINT_ATTACK,
-            },
             },
             {
 #line 2808
@@ -6935,13 +6482,6 @@ F_TRAINER_FEMALE |
             .lvl = 44,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 2811
-                MOVE_POISON_TAIL,
-                MOVE_SCREECH,
-                MOVE_GLARE,
-                MOVE_CRUNCH,
-            },
             },
         },
     },
@@ -7268,13 +6808,6 @@ F_TRAINER_FEMALE |
             .lvl = 32,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 2936
-                MOVE_FURY_SWIPES,
-                MOVE_MUD_SPORT,
-                MOVE_ODOR_SLEUTH,
-                MOVE_SAND_ATTACK,
-            },
             },
             {
 #line 2941
@@ -7288,13 +6821,6 @@ F_TRAINER_FEMALE |
             .lvl = 32,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 2944
-                MOVE_FURY_SWIPES,
-                MOVE_MUD_SPORT,
-                MOVE_ODOR_SLEUTH,
-                MOVE_SAND_ATTACK,
-            },
             },
         },
     },
@@ -9463,13 +8989,6 @@ F_TRAINER_FEMALE |
             .lvl = 17,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 3801
-                MOVE_QUICK_ATTACK,
-                MOVE_THUNDER_WAVE,
-                MOVE_SPARK,
-                MOVE_LEER,
-            },
             },
             {
 #line 3806
@@ -9481,12 +9000,6 @@ F_TRAINER_FEMALE |
             .lvl = 17,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 3809
-                MOVE_CHARGE,
-                MOVE_SHOCK_WAVE,
-                MOVE_SCREECH,
-            },
             },
         },
     },
@@ -10382,13 +9895,6 @@ F_TRAINER_FEMALE |
             .lvl = 20,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 4164
-                MOVE_DIG,
-                MOVE_SAND_ATTACK,
-                MOVE_POISON_STING,
-                MOVE_SLASH,
-            },
             },
             {
 #line 4169
@@ -10400,13 +9906,6 @@ F_TRAINER_FEMALE |
             .lvl = 20,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 4172
-                MOVE_DIG,
-                MOVE_SAND_ATTACK,
-                MOVE_POISON_STING,
-                MOVE_SLASH,
-            },
             },
         },
     },
@@ -10439,13 +9938,6 @@ F_TRAINER_FEMALE |
             .lvl = 21,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 4189
-                MOVE_RAPID_SPIN,
-                MOVE_MUD_SLAP,
-                MOVE_PSYBEAM,
-                MOVE_ROCK_TOMB,
-            },
             },
             {
 #line 4194
@@ -10457,13 +9949,6 @@ F_TRAINER_FEMALE |
             .lvl = 21,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 4197
-                MOVE_POISON_STING,
-                MOVE_SAND_ATTACK,
-                MOVE_SCRATCH,
-                MOVE_DIG,
-            },
             },
             {
 #line 4202
@@ -10475,13 +9960,6 @@ F_TRAINER_FEMALE |
             .lvl = 21,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 4205
-                MOVE_RAPID_SPIN,
-                MOVE_MUD_SLAP,
-                MOVE_PSYBEAM,
-                MOVE_ROCK_TOMB,
-            },
             },
         },
     },
@@ -11467,10 +10945,6 @@ F_TRAINER_FEMALE |
             .lvl = 13,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 4593
-                MOVE_HIDDEN_POWER,
-            },
             },
             {
 #line 4595
@@ -11482,10 +10956,6 @@ F_TRAINER_FEMALE |
             .lvl = 13,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 4598
-                MOVE_HIDDEN_POWER,
-            },
             },
         },
     },
@@ -11961,10 +11431,6 @@ F_TRAINER_FEMALE |
             .lvl = 14,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 4786
-                MOVE_HIDDEN_POWER,
-            },
             },
             {
 #line 4788
@@ -11976,10 +11442,6 @@ F_TRAINER_FEMALE |
             .lvl = 14,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 4791
-                MOVE_HIDDEN_POWER,
-            },
             },
         },
     },
@@ -12645,13 +12107,6 @@ F_TRAINER_FEMALE |
             .lvl = 36,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5047
-                MOVE_HEADBUTT,
-                MOVE_SAND_ATTACK,
-                MOVE_ODOR_SLEUTH,
-                MOVE_FURY_SWIPES,
-            },
             },
             {
 #line 5052
@@ -12663,13 +12118,6 @@ F_TRAINER_FEMALE |
             .lvl = 36,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5055
-                MOVE_QUICK_ATTACK,
-                MOVE_SPARK,
-                MOVE_ODOR_SLEUTH,
-                MOVE_ROAR,
-            },
             },
         },
     },
@@ -12702,13 +12150,6 @@ F_TRAINER_FEMALE |
             .lvl = 39,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5072
-                MOVE_HEADBUTT,
-                MOVE_SAND_ATTACK,
-                MOVE_ODOR_SLEUTH,
-                MOVE_FURY_SWIPES,
-            },
             },
             {
 #line 5077
@@ -12720,12 +12161,6 @@ F_TRAINER_FEMALE |
             .lvl = 39,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5080
-                MOVE_QUICK_ATTACK,
-                MOVE_SPARK,
-                MOVE_ODOR_SLEUTH,
-            },
             },
         },
     },
@@ -12758,13 +12193,6 @@ F_TRAINER_FEMALE |
             .lvl = 41,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5096
-                MOVE_HEADBUTT,
-                MOVE_SAND_ATTACK,
-                MOVE_ODOR_SLEUTH,
-                MOVE_FURY_SWIPES,
-            },
             },
             {
 #line 5101
@@ -12776,13 +12204,6 @@ F_TRAINER_FEMALE |
             .lvl = 41,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5104
-                MOVE_FURY_SWIPES,
-                MOVE_DISABLE,
-                MOVE_CONFUSION,
-                MOVE_PSYCH_UP,
-            },
             },
             {
 #line 5109
@@ -12794,13 +12215,6 @@ F_TRAINER_FEMALE |
             .lvl = 41,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5112
-                MOVE_QUICK_ATTACK,
-                MOVE_SPARK,
-                MOVE_ODOR_SLEUTH,
-                MOVE_ROAR,
-            },
             },
         },
     },
@@ -12838,13 +12252,6 @@ F_TRAINER_FEMALE |
             .lvl = 46,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5131
-                MOVE_ROAR,
-                MOVE_DOUBLE_EDGE,
-                MOVE_SAND_ATTACK,
-                MOVE_CRUNCH,
-            },
             },
             {
 #line 5136
@@ -12856,13 +12263,6 @@ F_TRAINER_FEMALE |
             .lvl = 48,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5139
-                MOVE_TORMENT,
-                MOVE_DOUBLE_TEAM,
-                MOVE_SWAGGER,
-                MOVE_EXTRASENSORY,
-            },
             },
             {
 #line 5144
@@ -12874,13 +12274,6 @@ F_TRAINER_FEMALE |
             .lvl = 46,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5147
-                MOVE_LEECH_SEED,
-                MOVE_FEINT_ATTACK,
-                MOVE_NEEDLE_ARM,
-                MOVE_COTTON_SPORE,
-            },
             },
             {
 #line 5152
@@ -12892,13 +12285,6 @@ F_TRAINER_FEMALE |
             .lvl = 48,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5155
-                MOVE_SURF,
-                MOVE_SWORDS_DANCE,
-                MOVE_STRENGTH,
-                MOVE_FACADE,
-            },
             },
             {
 #line 5160
@@ -12912,13 +12298,6 @@ F_TRAINER_FEMALE |
             .lvl = 49,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5163
-                MOVE_AERIAL_ACE,
-                MOVE_ROCK_SLIDE,
-                MOVE_SWORDS_DANCE,
-                MOVE_SLASH,
-            },
             },
         },
     },
@@ -12958,13 +12337,6 @@ F_TRAINER_FEMALE |
             .lvl = 48,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5182
-                MOVE_SHADOW_PUNCH,
-                MOVE_CONFUSE_RAY,
-                MOVE_CURSE,
-                MOVE_PROTECT,
-            },
             },
             {
 #line 5187
@@ -12976,13 +12348,6 @@ F_TRAINER_FEMALE |
             .lvl = 49,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5190
-                MOVE_SHADOW_BALL,
-                MOVE_GRUDGE,
-                MOVE_WILL_O_WISP,
-                MOVE_FEINT_ATTACK,
-            },
             },
             {
 #line 5195
@@ -12994,13 +12359,6 @@ F_TRAINER_FEMALE |
             .lvl = 50,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5198
-                MOVE_SHADOW_BALL,
-                MOVE_DOUBLE_TEAM,
-                MOVE_NIGHT_SHADE,
-                MOVE_FEINT_ATTACK,
-            },
             },
             {
 #line 5203
@@ -13012,13 +12370,6 @@ F_TRAINER_FEMALE |
             .lvl = 49,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5206
-                MOVE_SHADOW_BALL,
-                MOVE_PSYCHIC,
-                MOVE_THUNDERBOLT,
-                MOVE_FACADE,
-            },
             },
             {
 #line 5211
@@ -13032,13 +12383,6 @@ F_TRAINER_FEMALE |
             .lvl = 51,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5214
-                MOVE_SHADOW_BALL,
-                MOVE_ICE_BEAM,
-                MOVE_ROCK_SLIDE,
-                MOVE_EARTHQUAKE,
-            },
             },
         },
     },
@@ -13078,13 +12422,6 @@ F_TRAINER_FEMALE |
             .lvl = 50,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5233
-                MOVE_ENCORE,
-                MOVE_BODY_SLAM,
-                MOVE_HAIL,
-                MOVE_ICE_BALL,
-            },
             },
             {
 #line 5238
@@ -13096,13 +12433,6 @@ F_TRAINER_FEMALE |
             .lvl = 50,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5241
-                MOVE_LIGHT_SCREEN,
-                MOVE_CRUNCH,
-                MOVE_ICY_WIND,
-                MOVE_ICE_BEAM,
-            },
             },
             {
 #line 5246
@@ -13114,13 +12444,6 @@ F_TRAINER_FEMALE |
             .lvl = 52,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5249
-                MOVE_ATTRACT,
-                MOVE_DOUBLE_EDGE,
-                MOVE_HAIL,
-                MOVE_BLIZZARD,
-            },
             },
             {
 #line 5254
@@ -13132,13 +12455,6 @@ F_TRAINER_FEMALE |
             .lvl = 52,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5257
-                MOVE_SHADOW_BALL,
-                MOVE_EXPLOSION,
-                MOVE_HAIL,
-                MOVE_ICE_BEAM,
-            },
             },
             {
 #line 5262
@@ -13152,13 +12468,6 @@ F_TRAINER_FEMALE |
             .lvl = 53,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5265
-                MOVE_SURF,
-                MOVE_BODY_SLAM,
-                MOVE_ICE_BEAM,
-                MOVE_SHEER_COLD,
-            },
             },
         },
     },
@@ -13196,13 +12505,6 @@ F_TRAINER_FEMALE |
             .lvl = 52,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5284
-                MOVE_ROCK_TOMB,
-                MOVE_DRAGON_CLAW,
-                MOVE_PROTECT,
-                MOVE_DOUBLE_EDGE,
-            },
             },
             {
 #line 5289
@@ -13214,13 +12516,6 @@ F_TRAINER_FEMALE |
             .lvl = 54,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5292
-                MOVE_DOUBLE_EDGE,
-                MOVE_DRAGON_BREATH,
-                MOVE_DRAGON_DANCE,
-                MOVE_AERIAL_ACE,
-            },
             },
             {
 #line 5297
@@ -13232,13 +12527,6 @@ F_TRAINER_FEMALE |
             .lvl = 53,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5300
-                MOVE_SMOKESCREEN,
-                MOVE_DRAGON_DANCE,
-                MOVE_SURF,
-                MOVE_BODY_SLAM,
-            },
             },
             {
 #line 5305
@@ -13250,13 +12538,6 @@ F_TRAINER_FEMALE |
             .lvl = 53,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5308
-                MOVE_FLAMETHROWER,
-                MOVE_CRUNCH,
-                MOVE_DRAGON_BREATH,
-                MOVE_EARTHQUAKE,
-            },
             },
             {
 #line 5313
@@ -13270,13 +12551,6 @@ F_TRAINER_FEMALE |
             .lvl = 55,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5316
-                MOVE_FLAMETHROWER,
-                MOVE_DRAGON_CLAW,
-                MOVE_ROCK_SLIDE,
-                MOVE_CRUNCH,
-            },
             },
         },
     },
@@ -13313,13 +12587,6 @@ F_TRAINER_FEMALE |
             .lvl = 12,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5334
-                MOVE_TACKLE,
-                MOVE_DEFENSE_CURL,
-                MOVE_ROCK_THROW,
-                MOVE_ROCK_TOMB,
-            },
             },
             {
 #line 5339
@@ -13331,13 +12598,6 @@ F_TRAINER_FEMALE |
             .lvl = 12,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5342
-                MOVE_TACKLE,
-                MOVE_DEFENSE_CURL,
-                MOVE_ROCK_THROW,
-                MOVE_ROCK_TOMB,
-            },
             },
             {
 #line 5347
@@ -13351,13 +12611,6 @@ F_TRAINER_FEMALE |
             .lvl = 15,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5350
-                MOVE_BLOCK,
-                MOVE_HARDEN,
-                MOVE_TACKLE,
-                MOVE_ROCK_TOMB,
-            },
             },
         },
     },
@@ -13392,13 +12645,6 @@ F_TRAINER_FEMALE |
             .lvl = 16,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5368
-                MOVE_KARATE_CHOP,
-                MOVE_LOW_KICK,
-                MOVE_SEISMIC_TOSS,
-                MOVE_BULK_UP,
-            },
             },
             {
 #line 5373
@@ -13410,13 +12656,6 @@ F_TRAINER_FEMALE |
             .lvl = 16,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5376
-                MOVE_FOCUS_PUNCH,
-                MOVE_LIGHT_SCREEN,
-                MOVE_REFLECT,
-                MOVE_BULK_UP,
-            },
             },
             {
 #line 5381
@@ -13430,13 +12669,6 @@ F_TRAINER_FEMALE |
             .lvl = 19,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5384
-                MOVE_ARM_THRUST,
-                MOVE_VITAL_THROW,
-                MOVE_REVERSAL,
-                MOVE_BULK_UP,
-            },
             },
         },
     },
@@ -13471,13 +12703,6 @@ F_TRAINER_FEMALE |
             .lvl = 20,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5402
-                MOVE_ROLLOUT,
-                MOVE_SPARK,
-                MOVE_SELF_DESTRUCT,
-                MOVE_SHOCK_WAVE,
-            },
             },
             {
 #line 5407
@@ -13489,13 +12714,6 @@ F_TRAINER_FEMALE |
             .lvl = 20,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5410
-                MOVE_SHOCK_WAVE,
-                MOVE_LEER,
-                MOVE_QUICK_ATTACK,
-                MOVE_HOWL,
-            },
             },
             {
 #line 5415
@@ -13507,13 +12725,6 @@ F_TRAINER_FEMALE |
             .lvl = 22,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5418
-                MOVE_SUPERSONIC,
-                MOVE_SHOCK_WAVE,
-                MOVE_THUNDER_WAVE,
-                MOVE_SONIC_BOOM,
-            },
             },
             {
 #line 5423
@@ -13527,13 +12738,6 @@ F_TRAINER_FEMALE |
             .lvl = 24,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5426
-                MOVE_QUICK_ATTACK,
-                MOVE_THUNDER_WAVE,
-                MOVE_SHOCK_WAVE,
-                MOVE_HOWL,
-            },
             },
         },
     },
@@ -13570,13 +12774,6 @@ F_TRAINER_FEMALE |
             .lvl = 24,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5444
-                MOVE_OVERHEAT,
-                MOVE_TAKE_DOWN,
-                MOVE_MAGNITUDE,
-                MOVE_SUNNY_DAY,
-            },
             },
             {
 #line 5449
@@ -13588,13 +12785,6 @@ F_TRAINER_FEMALE |
             .lvl = 24,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5452
-                MOVE_OVERHEAT,
-                MOVE_SMOG,
-                MOVE_LIGHT_SCREEN,
-                MOVE_SUNNY_DAY,
-            },
             },
             {
 #line 5457
@@ -13606,13 +12796,6 @@ F_TRAINER_FEMALE |
             .lvl = 26,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5460
-                MOVE_OVERHEAT,
-                MOVE_TACKLE,
-                MOVE_SUNNY_DAY,
-                MOVE_ATTRACT,
-            },
             },
             {
 #line 5465
@@ -13626,13 +12809,6 @@ F_TRAINER_FEMALE |
             .lvl = 29,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5468
-                MOVE_OVERHEAT,
-                MOVE_SUNNY_DAY,
-                MOVE_BODY_SLAM,
-                MOVE_ATTRACT,
-            },
             },
         },
     },
@@ -13667,13 +12843,6 @@ F_TRAINER_FEMALE |
             .lvl = 27,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5486
-                MOVE_TEETER_DANCE,
-                MOVE_PSYBEAM,
-                MOVE_FACADE,
-                MOVE_ENCORE,
-            },
             },
             {
 #line 5491
@@ -13685,13 +12854,6 @@ F_TRAINER_FEMALE |
             .lvl = 27,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5494
-                MOVE_SLASH,
-                MOVE_FACADE,
-                MOVE_ENCORE,
-                MOVE_FEINT_ATTACK,
-            },
             },
             {
 #line 5499
@@ -13703,13 +12865,6 @@ F_TRAINER_FEMALE |
             .lvl = 29,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5502
-                MOVE_SLASH,
-                MOVE_BELLY_DRUM,
-                MOVE_FACADE,
-                MOVE_HEADBUTT,
-            },
             },
             {
 #line 5507
@@ -13723,13 +12878,6 @@ F_TRAINER_FEMALE |
             .lvl = 31,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5510
-                MOVE_COUNTER,
-                MOVE_YAWN,
-                MOVE_FACADE,
-                MOVE_FEINT_ATTACK,
-            },
             },
         },
     },
@@ -13766,13 +12914,6 @@ F_TRAINER_FEMALE |
             .lvl = 29,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5528
-                MOVE_PERISH_SONG,
-                MOVE_MIRROR_MOVE,
-                MOVE_SAFEGUARD,
-                MOVE_AERIAL_ACE,
-            },
             },
             {
 #line 5533
@@ -13784,13 +12925,6 @@ F_TRAINER_FEMALE |
             .lvl = 29,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5536
-                MOVE_SUNNY_DAY,
-                MOVE_AERIAL_ACE,
-                MOVE_SOLAR_BEAM,
-                MOVE_SYNTHESIS,
-            },
             },
             {
 #line 5541
@@ -13802,13 +12936,6 @@ F_TRAINER_FEMALE |
             .lvl = 30,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5544
-                MOVE_WATER_GUN,
-                MOVE_SUPERSONIC,
-                MOVE_PROTECT,
-                MOVE_AERIAL_ACE,
-            },
             },
             {
 #line 5549
@@ -13820,13 +12947,6 @@ F_TRAINER_FEMALE |
             .lvl = 31,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5552
-                MOVE_SAND_ATTACK,
-                MOVE_FURY_ATTACK,
-                MOVE_STEEL_WING,
-                MOVE_AERIAL_ACE,
-            },
             },
             {
 #line 5557
@@ -13840,13 +12960,6 @@ F_TRAINER_FEMALE |
             .lvl = 33,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5560
-                MOVE_EARTHQUAKE,
-                MOVE_DRAGON_BREATH,
-                MOVE_DRAGON_DANCE,
-                MOVE_AERIAL_ACE,
-            },
             },
         },
     },
@@ -13881,13 +12994,6 @@ F_TRAINER_FEMALE |
             .lvl = 41,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5578
-                MOVE_EARTHQUAKE,
-                MOVE_ANCIENT_POWER,
-                MOVE_PSYCHIC,
-                MOVE_LIGHT_SCREEN,
-            },
             },
             {
 #line 5583
@@ -13899,13 +13005,6 @@ F_TRAINER_FEMALE |
             .lvl = 41,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5586
-                MOVE_PSYCHIC,
-                MOVE_SUNNY_DAY,
-                MOVE_CONFUSE_RAY,
-                MOVE_CALM_MIND,
-            },
             },
             {
 #line 5591
@@ -13919,13 +13018,6 @@ F_TRAINER_FEMALE |
             .lvl = 42,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5594
-                MOVE_LIGHT_SCREEN,
-                MOVE_PSYCHIC,
-                MOVE_HYPNOSIS,
-                MOVE_CALM_MIND,
-            },
             },
             {
 #line 5599
@@ -13939,13 +13031,6 @@ F_TRAINER_FEMALE |
             .lvl = 42,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5602
-                MOVE_SUNNY_DAY,
-                MOVE_SOLAR_BEAM,
-                MOVE_PSYCHIC,
-                MOVE_FLAMETHROWER,
-            },
             },
         },
     },
@@ -13980,13 +13065,6 @@ F_TRAINER_FEMALE |
             .lvl = 41,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5620
-                MOVE_WATER_PULSE,
-                MOVE_ATTRACT,
-                MOVE_SWEET_KISS,
-                MOVE_FLAIL,
-            },
             },
             {
 #line 5625
@@ -13998,13 +13076,6 @@ F_TRAINER_FEMALE |
             .lvl = 41,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5628
-                MOVE_RAIN_DANCE,
-                MOVE_WATER_PULSE,
-                MOVE_AMNESIA,
-                MOVE_EARTHQUAKE,
-            },
             },
             {
 #line 5633
@@ -14016,13 +13087,6 @@ F_TRAINER_FEMALE |
             .lvl = 43,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5636
-                MOVE_ENCORE,
-                MOVE_BODY_SLAM,
-                MOVE_AURORA_BEAM,
-                MOVE_WATER_PULSE,
-            },
             },
             {
 #line 5641
@@ -14034,13 +13098,6 @@ F_TRAINER_FEMALE |
             .lvl = 43,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5644
-                MOVE_WATER_PULSE,
-                MOVE_CRABHAMMER,
-                MOVE_TAUNT,
-                MOVE_LEER,
-            },
             },
             {
 #line 5649
@@ -14054,13 +13111,6 @@ F_TRAINER_FEMALE |
             .lvl = 46,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5652
-                MOVE_WATER_PULSE,
-                MOVE_DOUBLE_TEAM,
-                MOVE_ICE_BEAM,
-                MOVE_REST,
-            },
             },
         },
     },
@@ -14686,13 +13736,6 @@ F_TRAINER_FEMALE |
             .lvl = 30,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5898
-                MOVE_HYPNOSIS,
-                MOVE_PSYBEAM,
-                MOVE_DIZZY_PUNCH,
-                MOVE_TEETER_DANCE,
-            },
             },
             {
 #line 5903
@@ -14704,13 +13747,6 @@ F_TRAINER_FEMALE |
             .lvl = 32,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5906
-                MOVE_FOCUS_PUNCH,
-                MOVE_YAWN,
-                MOVE_SLACK_OFF,
-                MOVE_FEINT_ATTACK,
-            },
             },
         },
     },
@@ -14743,13 +13779,6 @@ F_TRAINER_FEMALE |
             .lvl = 15,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5923
-                MOVE_GROWL,
-                MOVE_TAIL_WHIP,
-                MOVE_HEADBUTT,
-                MOVE_ODOR_SLEUTH,
-            },
             },
             {
 #line 5928
@@ -14761,12 +13790,6 @@ F_TRAINER_FEMALE |
             .lvl = 17,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5931
-                MOVE_TACKLE,
-                MOVE_FOCUS_ENERGY,
-                MOVE_ARM_THRUST,
-            },
             },
         },
     },
@@ -14799,13 +13822,6 @@ F_TRAINER_FEMALE |
             .lvl = 28,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5947
-                MOVE_GROWL,
-                MOVE_TAIL_WHIP,
-                MOVE_HEADBUTT,
-                MOVE_ODOR_SLEUTH,
-            },
             },
             {
 #line 5952
@@ -14817,12 +13833,6 @@ F_TRAINER_FEMALE |
             .lvl = 30,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5955
-                MOVE_TACKLE,
-                MOVE_FOCUS_ENERGY,
-                MOVE_ARM_THRUST,
-            },
             },
         },
     },
@@ -14855,13 +13865,6 @@ F_TRAINER_FEMALE |
             .lvl = 31,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5971
-                MOVE_GROWL,
-                MOVE_TAIL_WHIP,
-                MOVE_HEADBUTT,
-                MOVE_ODOR_SLEUTH,
-            },
             },
             {
 #line 5976
@@ -14873,12 +13876,6 @@ F_TRAINER_FEMALE |
             .lvl = 33,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5979
-                MOVE_TACKLE,
-                MOVE_FOCUS_ENERGY,
-                MOVE_ARM_THRUST,
-            },
             },
         },
     },
@@ -14911,13 +13908,6 @@ F_TRAINER_FEMALE |
             .lvl = 34,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 5995
-                MOVE_GROWL,
-                MOVE_TAIL_WHIP,
-                MOVE_HEADBUTT,
-                MOVE_ODOR_SLEUTH,
-            },
             },
             {
 #line 6000
@@ -14929,12 +13919,6 @@ F_TRAINER_FEMALE |
             .lvl = 36,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 6003
-                MOVE_TACKLE,
-                MOVE_FOCUS_ENERGY,
-                MOVE_ARM_THRUST,
-            },
             },
         },
     },
@@ -14967,13 +13951,6 @@ F_TRAINER_FEMALE |
             .lvl = 36,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 6019
-                MOVE_GROWL,
-                MOVE_TAIL_WHIP,
-                MOVE_HEADBUTT,
-                MOVE_ODOR_SLEUTH,
-            },
             },
             {
 #line 6024
@@ -14985,12 +13962,6 @@ F_TRAINER_FEMALE |
             .lvl = 38,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 6027
-                MOVE_TACKLE,
-                MOVE_FOCUS_ENERGY,
-                MOVE_ARM_THRUST,
-            },
             },
         },
     },
@@ -15119,13 +14090,6 @@ F_TRAINER_FEMALE |
             .lvl = 22,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 6077
-                MOVE_ASSIST,
-                MOVE_CHARM,
-                MOVE_FEINT_ATTACK,
-                MOVE_HEAL_BELL,
-            },
             },
             {
 #line 6082
@@ -15139,13 +14103,6 @@ F_TRAINER_FEMALE |
             .lvl = 36,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 6085
-                MOVE_ASSIST,
-                MOVE_CHARM,
-                MOVE_FEINT_ATTACK,
-                MOVE_HEAL_BELL,
-            },
             },
             {
 #line 6090
@@ -15159,13 +14116,6 @@ F_TRAINER_FEMALE |
             .lvl = 40,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 6093
-                MOVE_ASSIST,
-                MOVE_CHARM,
-                MOVE_FEINT_ATTACK,
-                MOVE_HEAL_BELL,
-            },
             },
             {
 #line 6098
@@ -15179,13 +14129,6 @@ F_TRAINER_FEMALE |
             .lvl = 12,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 6101
-                MOVE_ASSIST,
-                MOVE_CHARM,
-                MOVE_FEINT_ATTACK,
-                MOVE_HEAL_BELL,
-            },
             },
             {
 #line 6106
@@ -15199,13 +14142,6 @@ F_TRAINER_FEMALE |
             .lvl = 30,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 6109
-                MOVE_ASSIST,
-                MOVE_CHARM,
-                MOVE_FEINT_ATTACK,
-                MOVE_HEAL_BELL,
-            },
             },
             {
 #line 6114
@@ -15219,13 +14155,6 @@ F_TRAINER_FEMALE |
             .lvl = 42,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 6117
-                MOVE_ASSIST,
-                MOVE_CHARM,
-                MOVE_FEINT_ATTACK,
-                MOVE_HEAL_BELL,
-            },
             },
         },
     },
@@ -15894,13 +14823,6 @@ F_TRAINER_FEMALE |
             .lvl = 29,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 6359
-                MOVE_ARM_THRUST,
-                MOVE_KNOCK_OFF,
-                MOVE_SAND_ATTACK,
-                MOVE_DIG,
-            },
             },
             {
 #line 6364
@@ -15912,13 +14834,6 @@ F_TRAINER_FEMALE |
             .lvl = 29,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 6367
-                MOVE_ARM_THRUST,
-                MOVE_KNOCK_OFF,
-                MOVE_SAND_ATTACK,
-                MOVE_DIG,
-            },
             },
         },
     },
@@ -15951,13 +14866,6 @@ F_TRAINER_FEMALE |
             .lvl = 32,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 6384
-                MOVE_ARM_THRUST,
-                MOVE_KNOCK_OFF,
-                MOVE_SAND_ATTACK,
-                MOVE_DIG,
-            },
             },
             {
 #line 6389
@@ -15969,13 +14877,6 @@ F_TRAINER_FEMALE |
             .lvl = 32,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 6392
-                MOVE_ARM_THRUST,
-                MOVE_KNOCK_OFF,
-                MOVE_SAND_ATTACK,
-                MOVE_DIG,
-            },
             },
         },
     },
@@ -16008,13 +14909,6 @@ F_TRAINER_FEMALE |
             .lvl = 35,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 6409
-                MOVE_ARM_THRUST,
-                MOVE_BELLY_DRUM,
-                MOVE_SAND_ATTACK,
-                MOVE_DIG,
-            },
             },
             {
 #line 6414
@@ -16026,13 +14920,6 @@ F_TRAINER_FEMALE |
             .lvl = 35,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 6417
-                MOVE_ARM_THRUST,
-                MOVE_BELLY_DRUM,
-                MOVE_SAND_ATTACK,
-                MOVE_DIG,
-            },
             },
         },
     },
@@ -16065,13 +14952,6 @@ F_TRAINER_FEMALE |
             .lvl = 37,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 6434
-                MOVE_ARM_THRUST,
-                MOVE_BELLY_DRUM,
-                MOVE_SAND_ATTACK,
-                MOVE_DIG,
-            },
             },
             {
 #line 6439
@@ -16083,13 +14963,6 @@ F_TRAINER_FEMALE |
             .lvl = 37,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 6442
-                MOVE_ARM_THRUST,
-                MOVE_BELLY_DRUM,
-                MOVE_SAND_ATTACK,
-                MOVE_DIG,
-            },
             },
         },
     },
@@ -16124,13 +14997,6 @@ F_TRAINER_FEMALE |
             .lvl = 16,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 6459
-                MOVE_HIGH_JUMP_KICK,
-                MOVE_MEDITATE,
-                MOVE_CONFUSION,
-                MOVE_DETECT,
-            },
             },
             {
 #line 6464
@@ -16142,13 +15008,6 @@ F_TRAINER_FEMALE |
             .lvl = 16,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 6467
-                MOVE_HIGH_JUMP_KICK,
-                MOVE_MEDITATE,
-                MOVE_CONFUSION,
-                MOVE_DETECT,
-            },
             },
         },
     },
@@ -16492,10 +15351,6 @@ F_TRAINER_FEMALE |
             .lvl = 8,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 6603
-                MOVE_TACKLE,
-            },
             },
             {
 #line 6605
@@ -16507,10 +15362,6 @@ F_TRAINER_FEMALE |
             .lvl = 8,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 6608
-                MOVE_TACKLE,
-            },
             },
         },
     },
@@ -16629,13 +15480,6 @@ F_TRAINER_FEMALE |
             .lvl = 17,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 6656
-                MOVE_HEADBUTT,
-                MOVE_SAND_ATTACK,
-                MOVE_GROWL,
-                MOVE_THUNDERBOLT,
-            },
             },
             {
 #line 6661
@@ -16647,13 +15491,6 @@ F_TRAINER_FEMALE |
             .lvl = 17,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 6664
-                MOVE_AMNESIA,
-                MOVE_SLUDGE,
-                MOVE_YAWN,
-                MOVE_POUND,
-            },
             },
         },
     },
@@ -16688,13 +15525,6 @@ F_TRAINER_FEMALE |
             .lvl = 43,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 6682
-                MOVE_ATTRACT,
-                MOVE_ICE_BEAM,
-                MOVE_THUNDERBOLT,
-                MOVE_FLAMETHROWER,
-            },
             },
             {
 #line 6687
@@ -16706,13 +15536,6 @@ F_TRAINER_FEMALE |
             .lvl = 43,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 6690
-                MOVE_SKILL_SWAP,
-                MOVE_PROTECT,
-                MOVE_WILL_O_WISP,
-                MOVE_TOXIC,
-            },
             },
         },
     },
@@ -16749,13 +15572,6 @@ F_TRAINER_FEMALE |
             .lvl = 43,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 6708
-                MOVE_SKILL_SWAP,
-                MOVE_PSYCHIC,
-                MOVE_THUNDERBOLT,
-                MOVE_CALM_MIND,
-            },
             },
             {
 #line 6713
@@ -16767,13 +15583,6 @@ F_TRAINER_FEMALE |
             .lvl = 43,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 6716
-                MOVE_EARTHQUAKE,
-                MOVE_SHADOW_BALL,
-                MOVE_AERIAL_ACE,
-                MOVE_BRICK_BREAK,
-            },
             },
         },
     },
@@ -17220,13 +16029,6 @@ F_TRAINER_FEMALE |
             .lvl = 57,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 6896
-                MOVE_RAIN_DANCE,
-                MOVE_WATER_SPOUT,
-                MOVE_DOUBLE_EDGE,
-                MOVE_BLIZZARD,
-            },
             },
             {
 #line 6901
@@ -17238,13 +16040,6 @@ F_TRAINER_FEMALE |
             .lvl = 55,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 6904
-                MOVE_TOXIC,
-                MOVE_HYDRO_PUMP,
-                MOVE_SLUDGE_BOMB,
-                MOVE_ICE_BEAM,
-            },
             },
             {
 #line 6909
@@ -17256,13 +16051,6 @@ F_TRAINER_FEMALE |
             .lvl = 56,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 6912
-                MOVE_GIGA_DRAIN,
-                MOVE_SURF,
-                MOVE_LEECH_SEED,
-                MOVE_DOUBLE_TEAM,
-            },
             },
             {
 #line 6917
@@ -17274,13 +16062,6 @@ F_TRAINER_FEMALE |
             .lvl = 56,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 6920
-                MOVE_EARTHQUAKE,
-                MOVE_SURF,
-                MOVE_AMNESIA,
-                MOVE_HYPER_BEAM,
-            },
             },
             {
 #line 6925
@@ -17292,13 +16073,6 @@ F_TRAINER_FEMALE |
             .lvl = 56,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 6928
-                MOVE_DRAGON_DANCE,
-                MOVE_EARTHQUAKE,
-                MOVE_HYPER_BEAM,
-                MOVE_SURF,
-            },
             },
             {
 #line 6933
@@ -17312,13 +16086,6 @@ F_TRAINER_FEMALE |
             .lvl = 58,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 6936
-                MOVE_RECOVER,
-                MOVE_SURF,
-                MOVE_ICE_BEAM,
-                MOVE_TOXIC,
-            },
             },
         },
     },
@@ -20247,13 +19014,6 @@ F_TRAINER_FEMALE |
             .lvl = 30,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 8074
-                MOVE_DRAGON_BREATH,
-                MOVE_HEADBUTT,
-                MOVE_FOCUS_ENERGY,
-                MOVE_EMBER,
-            },
             },
             {
 #line 8079
@@ -20265,13 +19025,6 @@ F_TRAINER_FEMALE |
             .lvl = 30,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 8082
-                MOVE_DRAGON_BREATH,
-                MOVE_HEADBUTT,
-                MOVE_FOCUS_ENERGY,
-                MOVE_EMBER,
-            },
             },
         },
     },
@@ -21145,11 +19898,6 @@ F_TRAINER_FEMALE |
             .lvl = 43,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 8430
-                MOVE_SKILL_SWAP,
-                MOVE_EARTHQUAKE,
-            },
             },
             {
 #line 8433
@@ -21161,11 +19909,6 @@ F_TRAINER_FEMALE |
             .lvl = 43,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 8436
-                MOVE_THUNDERBOLT,
-                MOVE_EARTHQUAKE,
-            },
             },
         },
     },
@@ -21239,13 +19982,6 @@ F_TRAINER_FEMALE |
             .lvl = 17,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 8466
-                MOVE_POISON_GAS,
-                MOVE_TACKLE,
-                MOVE_SMOG,
-                MOVE_SELF_DESTRUCT,
-            },
             },
             {
 #line 8471
@@ -21257,13 +19993,6 @@ F_TRAINER_FEMALE |
             .lvl = 17,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 8474
-                MOVE_POISON_GAS,
-                MOVE_TACKLE,
-                MOVE_SMOG,
-                MOVE_SELF_DESTRUCT,
-            },
             },
             {
 #line 8479
@@ -21275,13 +20004,6 @@ F_TRAINER_FEMALE |
             .lvl = 17,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 8482
-                MOVE_POISON_GAS,
-                MOVE_TACKLE,
-                MOVE_SLUDGE,
-                MOVE_SELF_DESTRUCT,
-            },
             },
         },
     },
@@ -21353,13 +20075,6 @@ F_TRAINER_FEMALE |
             .lvl = 24,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 8514
-                MOVE_POISON_GAS,
-                MOVE_TACKLE,
-                MOVE_SLUDGE,
-                MOVE_SELF_DESTRUCT,
-            },
             },
             {
 #line 8519
@@ -21371,12 +20086,6 @@ F_TRAINER_FEMALE |
             .lvl = 24,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 8522
-                MOVE_POISON_GAS,
-                MOVE_TACKLE,
-                MOVE_SLUDGE,
-            },
             },
             {
 #line 8526
@@ -21388,13 +20097,6 @@ F_TRAINER_FEMALE |
             .lvl = 24,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 8529
-                MOVE_POISON_GAS,
-                MOVE_TACKLE,
-                MOVE_SLUDGE,
-                MOVE_SELF_DESTRUCT,
-            },
             },
             {
 #line 8534
@@ -21406,11 +20108,6 @@ F_TRAINER_FEMALE |
             .lvl = 26,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 8537
-                MOVE_TACKLE,
-                MOVE_SLUDGE,
-            },
             },
         },
     },
@@ -21441,13 +20138,6 @@ F_TRAINER_FEMALE |
             .lvl = 27,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 8551
-                MOVE_POISON_GAS,
-                MOVE_TACKLE,
-                MOVE_SLUDGE,
-                MOVE_SELF_DESTRUCT,
-            },
             },
             {
 #line 8556
@@ -21459,13 +20149,6 @@ F_TRAINER_FEMALE |
             .lvl = 27,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 8559
-                MOVE_POISON_GAS,
-                MOVE_TACKLE,
-                MOVE_SLUDGE,
-                MOVE_SELF_DESTRUCT,
-            },
             },
             {
 #line 8564
@@ -21477,12 +20160,6 @@ F_TRAINER_FEMALE |
             .lvl = 27,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 8567
-                MOVE_POISON_GAS,
-                MOVE_TACKLE,
-                MOVE_SLUDGE,
-            },
             },
             {
 #line 8571
@@ -21494,11 +20171,6 @@ F_TRAINER_FEMALE |
             .lvl = 29,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 8574
-                MOVE_TACKLE,
-                MOVE_SLUDGE,
-            },
             },
         },
     },
@@ -21529,12 +20201,6 @@ F_TRAINER_FEMALE |
             .lvl = 30,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 8588
-                MOVE_POISON_GAS,
-                MOVE_TACKLE,
-                MOVE_SLUDGE,
-            },
             },
             {
 #line 8592
@@ -21546,12 +20212,6 @@ F_TRAINER_FEMALE |
             .lvl = 30,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 8595
-                MOVE_POISON_GAS,
-                MOVE_TACKLE,
-                MOVE_SLUDGE,
-            },
             },
             {
 #line 8599
@@ -21563,12 +20223,6 @@ F_TRAINER_FEMALE |
             .lvl = 30,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 8602
-                MOVE_POISON_GAS,
-                MOVE_TACKLE,
-                MOVE_SLUDGE,
-            },
             },
             {
 #line 8606
@@ -21580,11 +20234,6 @@ F_TRAINER_FEMALE |
             .lvl = 32,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 8609
-                MOVE_TACKLE,
-                MOVE_SLUDGE,
-            },
             },
         },
     },
@@ -21615,12 +20264,6 @@ F_TRAINER_FEMALE |
             .lvl = 33,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 8623
-                MOVE_POISON_GAS,
-                MOVE_TACKLE,
-                MOVE_SLUDGE,
-            },
             },
             {
 #line 8627
@@ -21632,13 +20275,6 @@ F_TRAINER_FEMALE |
             .lvl = 33,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 8630
-                MOVE_POISON_GAS,
-                MOVE_TACKLE,
-                MOVE_SLUDGE,
-                MOVE_SELF_DESTRUCT,
-            },
             },
             {
 #line 8635
@@ -21650,13 +20286,6 @@ F_TRAINER_FEMALE |
             .lvl = 33,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 8638
-                MOVE_POISON_GAS,
-                MOVE_TACKLE,
-                MOVE_SLUDGE,
-                MOVE_SELF_DESTRUCT,
-            },
             },
             {
 #line 8643
@@ -21670,11 +20299,6 @@ F_TRAINER_FEMALE |
             .lvl = 35,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 8646
-                MOVE_TACKLE,
-                MOVE_SLUDGE,
-            },
             },
         },
     },
@@ -22114,13 +20738,6 @@ F_TRAINER_FEMALE |
             .lvl = 17,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 8814
-                MOVE_EMBER,
-                MOVE_TACKLE,
-                MOVE_MAGNITUDE,
-                MOVE_SUNNY_DAY,
-            },
             },
             {
 #line 8819
@@ -22132,13 +20749,6 @@ F_TRAINER_FEMALE |
             .lvl = 17,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 8822
-                MOVE_EMBER,
-                MOVE_TACKLE,
-                MOVE_MAGNITUDE,
-                MOVE_SUNNY_DAY,
-            },
             },
         },
     },
@@ -22218,13 +20828,6 @@ F_TRAINER_FEMALE |
             .lvl = 26,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 8856
-                MOVE_RAIN_DANCE,
-                MOVE_WEATHER_BALL,
-                MOVE_THUNDER,
-                MOVE_WATER_PULSE,
-            },
             },
             {
 #line 8861
@@ -22236,13 +20839,6 @@ F_TRAINER_FEMALE |
             .lvl = 26,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 8864
-                MOVE_RAIN_DANCE,
-                MOVE_WEATHER_BALL,
-                MOVE_THUNDER,
-                MOVE_WATER_PULSE,
-            },
             },
         },
     },
@@ -22277,13 +20873,6 @@ F_TRAINER_FEMALE |
             .lvl = 26,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 8881
-                MOVE_EMBER,
-                MOVE_TACKLE,
-                MOVE_MAGNITUDE,
-                MOVE_SUNNY_DAY,
-            },
             },
             {
 #line 8886
@@ -22295,13 +20884,6 @@ F_TRAINER_FEMALE |
             .lvl = 26,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 8889
-                MOVE_EMBER,
-                MOVE_TACKLE,
-                MOVE_MAGNITUDE,
-                MOVE_SUNNY_DAY,
-            },
             },
         },
     },
@@ -22336,13 +20918,6 @@ F_TRAINER_FEMALE |
             .lvl = 28,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 8906
-                MOVE_EMBER,
-                MOVE_TAKE_DOWN,
-                MOVE_MAGNITUDE,
-                MOVE_SUNNY_DAY,
-            },
             },
             {
 #line 8911
@@ -22354,13 +20929,6 @@ F_TRAINER_FEMALE |
             .lvl = 28,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 8914
-                MOVE_EMBER,
-                MOVE_TAKE_DOWN,
-                MOVE_MAGNITUDE,
-                MOVE_SUNNY_DAY,
-            },
             },
         },
     },
@@ -22395,13 +20963,6 @@ F_TRAINER_FEMALE |
             .lvl = 34,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 8931
-                MOVE_LEECH_SEED,
-                MOVE_MEGA_DRAIN,
-                MOVE_GRASS_WHISTLE,
-                MOVE_SUNNY_DAY,
-            },
             },
             {
 #line 8936
@@ -22413,13 +20974,6 @@ F_TRAINER_FEMALE |
             .lvl = 34,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 8939
-                MOVE_FLAMETHROWER,
-                MOVE_TAKE_DOWN,
-                MOVE_MAGNITUDE,
-                MOVE_SUNNY_DAY,
-            },
             },
         },
     },
@@ -22454,13 +21008,6 @@ F_TRAINER_FEMALE |
             .lvl = 37,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 8956
-                MOVE_LEECH_SEED,
-                MOVE_GIGA_DRAIN,
-                MOVE_SOLAR_BEAM,
-                MOVE_SUNNY_DAY,
-            },
             },
             {
 #line 8961
@@ -22472,13 +21019,6 @@ F_TRAINER_FEMALE |
             .lvl = 37,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 8964
-                MOVE_FLAMETHROWER,
-                MOVE_TAKE_DOWN,
-                MOVE_EARTHQUAKE,
-                MOVE_SUNNY_DAY,
-            },
             },
         },
     },
@@ -23795,13 +22335,6 @@ F_TRAINER_FEMALE |
             .lvl = 22,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 9465
-                MOVE_DIG,
-                MOVE_SAND_ATTACK,
-                MOVE_POISON_STING,
-                MOVE_SLASH,
-            },
             },
             {
 #line 9470
@@ -23813,13 +22346,6 @@ F_TRAINER_FEMALE |
             .lvl = 22,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 9473
-                MOVE_RAPID_SPIN,
-                MOVE_MUD_SLAP,
-                MOVE_PSYBEAM,
-                MOVE_ROCK_TOMB,
-            },
             },
         },
     },
@@ -23854,13 +22380,6 @@ F_TRAINER_FEMALE |
             .lvl = 22,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 9490
-                MOVE_SAND_ATTACK,
-                MOVE_POISON_STING,
-                MOVE_SLASH,
-                MOVE_DIG,
-            },
             },
             {
 #line 9495
@@ -23872,13 +22391,6 @@ F_TRAINER_FEMALE |
             .lvl = 22,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 9498
-                MOVE_ROLLOUT,
-                MOVE_BUBBLE_BEAM,
-                MOVE_TAIL_WHIP,
-                MOVE_DEFENSE_CURL,
-            },
             },
         },
     },
@@ -24102,13 +22614,6 @@ F_TRAINER_FEMALE |
             .lvl = 28,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 9587
-                MOVE_DESTINY_BOND,
-                MOVE_SAFEGUARD,
-                MOVE_COUNTER,
-                MOVE_MIRROR_COAT,
-            },
             },
             {
 #line 9592
@@ -24120,13 +22625,6 @@ F_TRAINER_FEMALE |
             .lvl = 28,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 9595
-                MOVE_DESTINY_BOND,
-                MOVE_SAFEGUARD,
-                MOVE_COUNTER,
-                MOVE_MIRROR_COAT,
-            },
             },
         },
     },
@@ -24643,11 +23141,6 @@ F_TRAINER_FEMALE |
             .lvl = 10,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 9798
-                MOVE_NIGHT_SHADE,
-                MOVE_DISABLE,
-            },
             },
             {
 #line 9801
@@ -24659,11 +23152,6 @@ F_TRAINER_FEMALE |
             .lvl = 10,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 9804
-                MOVE_ABSORB,
-                MOVE_LEECH_SEED,
-            },
             },
         },
     },
@@ -24739,13 +23227,6 @@ F_TRAINER_FEMALE |
             .lvl = 33,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 9836
-                MOVE_SPARK,
-                MOVE_CHARGE,
-                MOVE_FAKE_TEARS,
-                MOVE_HELPING_HAND,
-            },
             },
             {
 #line 9841
@@ -24757,13 +23238,6 @@ F_TRAINER_FEMALE |
             .lvl = 33,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 9844
-                MOVE_SPARK,
-                MOVE_CHARGE,
-                MOVE_CHARM,
-                MOVE_HELPING_HAND,
-            },
             },
         },
     },
@@ -24796,13 +23270,6 @@ F_TRAINER_FEMALE |
             .lvl = 36,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 9861
-                MOVE_THUNDER,
-                MOVE_CHARGE,
-                MOVE_FAKE_TEARS,
-                MOVE_HELPING_HAND,
-            },
             },
             {
 #line 9866
@@ -24814,13 +23281,6 @@ F_TRAINER_FEMALE |
             .lvl = 36,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 9869
-                MOVE_THUNDER,
-                MOVE_CHARGE,
-                MOVE_CHARM,
-                MOVE_HELPING_HAND,
-            },
             },
         },
     },
@@ -25439,13 +23899,6 @@ F_TRAINER_FEMALE |
             .lvl = 39,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 10114
-                MOVE_FLAIL,
-                MOVE_WATER_PULSE,
-                MOVE_RETURN,
-                MOVE_ATTRACT,
-            },
             },
             {
 #line 10119
@@ -25459,13 +23912,6 @@ F_TRAINER_FEMALE |
             .lvl = 39,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 10122
-                MOVE_FLAIL,
-                MOVE_WATER_PULSE,
-                MOVE_RETURN,
-                MOVE_ATTRACT,
-            },
             },
         },
     },
@@ -25545,13 +23991,6 @@ F_TRAINER_FEMALE |
             .lvl = 27,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 10157
-                MOVE_TOXIC,
-                MOVE_THUNDER,
-                MOVE_SELF_DESTRUCT,
-                MOVE_SLUDGE_BOMB,
-            },
             },
             {
 #line 10162
@@ -25563,13 +24002,6 @@ F_TRAINER_FEMALE |
             .lvl = 27,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 10165
-                MOVE_TOXIC,
-                MOVE_THUNDER,
-                MOVE_SELF_DESTRUCT,
-                MOVE_SLUDGE_BOMB,
-            },
             },
         },
     },
@@ -25604,13 +24036,6 @@ F_TRAINER_FEMALE |
             .lvl = 27,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 10182
-                MOVE_SUNNY_DAY,
-                MOVE_WEATHER_BALL,
-                MOVE_FLAMETHROWER,
-                MOVE_SOLAR_BEAM,
-            },
             },
             {
 #line 10187
@@ -25622,13 +24047,6 @@ F_TRAINER_FEMALE |
             .lvl = 27,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 10190
-                MOVE_SUNNY_DAY,
-                MOVE_WEATHER_BALL,
-                MOVE_FLAMETHROWER,
-                MOVE_SOLAR_BEAM,
-            },
             },
         },
     },
@@ -25751,13 +24169,6 @@ F_TRAINER_FEMALE |
             .lvl = 30,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 10242
-                MOVE_BITE,
-                MOVE_ROAR,
-                MOVE_THUNDER_WAVE,
-                MOVE_THUNDERBOLT,
-            },
             },
             {
 #line 10247
@@ -25769,13 +24180,6 @@ F_TRAINER_FEMALE |
             .lvl = 30,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 10250
-                MOVE_BITE,
-                MOVE_ROAR,
-                MOVE_THUNDER_WAVE,
-                MOVE_THUNDERBOLT,
-            },
             },
         },
     },
@@ -26253,13 +24657,6 @@ F_TRAINER_FEMALE |
             .lvl = 44,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 10442
-                MOVE_AERIAL_ACE,
-                MOVE_SAFEGUARD,
-                MOVE_DRAGON_BREATH,
-                MOVE_DRAGON_DANCE,
-            },
             },
             {
 #line 10447
@@ -26271,13 +24668,6 @@ F_TRAINER_FEMALE |
             .lvl = 43,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 10450
-                MOVE_SING,
-                MOVE_ASSIST,
-                MOVE_CHARM,
-                MOVE_FEINT_ATTACK,
-            },
             },
             {
 #line 10455
@@ -26289,13 +24679,6 @@ F_TRAINER_FEMALE |
             .lvl = 44,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 10458
-                MOVE_MAGICAL_LEAF,
-                MOVE_LEECH_SEED,
-                MOVE_GIGA_DRAIN,
-                MOVE_TOXIC,
-            },
             },
             {
 #line 10463
@@ -26307,13 +24690,6 @@ F_TRAINER_FEMALE |
             .lvl = 41,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 10466
-                MOVE_SUPERSONIC,
-                MOVE_THUNDERBOLT,
-                MOVE_TRI_ATTACK,
-                MOVE_SCREECH,
-            },
             },
             {
 #line 10471
@@ -26325,13 +24701,6 @@ F_TRAINER_FEMALE |
             .lvl = 45,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 10474
-                MOVE_DOUBLE_TEAM,
-                MOVE_CALM_MIND,
-                MOVE_PSYCHIC,
-                MOVE_FUTURE_SIGHT,
-            },
             },
         },
     },
@@ -27352,13 +25721,6 @@ F_TRAINER_FEMALE |
             .lvl = 43,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 10871
-                MOVE_EXPLOSION,
-                MOVE_REFLECT,
-                MOVE_LIGHT_SCREEN,
-                MOVE_PSYCHIC,
-            },
             },
             {
 #line 10876
@@ -27370,13 +25732,6 @@ F_TRAINER_FEMALE |
             .lvl = 43,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 10879
-                MOVE_EXPLOSION,
-                MOVE_REFLECT,
-                MOVE_LIGHT_SCREEN,
-                MOVE_SHADOW_BALL,
-            },
             },
         },
     },
@@ -29443,12 +27798,6 @@ F_TRAINER_FEMALE |
             .lvl = 32,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 11676
-                MOVE_THUNDER,
-                MOVE_THUNDER_WAVE,
-                MOVE_QUICK_ATTACK,
-            },
             },
             {
 #line 11680
@@ -29460,11 +27809,6 @@ F_TRAINER_FEMALE |
             .lvl = 32,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 11683
-                MOVE_SURF,
-                MOVE_THIEF,
-            },
             },
         },
     },
@@ -32060,11 +30404,6 @@ F_TRAINER_FEMALE |
             .lvl = 8,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 12692
-                MOVE_SPLASH,
-                MOVE_WATER_GUN,
-            },
             },
             {
 #line 12695
@@ -32076,11 +30415,6 @@ F_TRAINER_FEMALE |
             .lvl = 8,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 12698
-                MOVE_SPLASH,
-                MOVE_WATER_GUN,
-            },
             },
         },
     },
@@ -32113,11 +30447,6 @@ F_TRAINER_FEMALE |
             .lvl = 10,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 12713
-                MOVE_GUST,
-                MOVE_GROWL,
-            },
             },
             {
 #line 12716
@@ -32129,11 +30458,6 @@ F_TRAINER_FEMALE |
             .lvl = 10,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 12719
-                MOVE_BITE,
-                MOVE_SCARY_FACE,
-            },
             },
         },
     },
@@ -32828,13 +31152,6 @@ F_TRAINER_FEMALE |
             .lvl = 20,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 12992
-                MOVE_FLAMETHROWER,
-                MOVE_FURY_SWIPES,
-                MOVE_FEINT_ATTACK,
-                MOVE_BIND,
-            },
             },
             {
 #line 12997
@@ -32846,13 +31163,6 @@ F_TRAINER_FEMALE |
             .lvl = 20,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 13000
-                MOVE_FLAMETHROWER,
-                MOVE_FURY_SWIPES,
-                MOVE_FEINT_ATTACK,
-                MOVE_BIND,
-            },
             },
         },
     },
@@ -32887,13 +31197,6 @@ F_TRAINER_FEMALE |
             .lvl = 17,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 13017
-                MOVE_BIDE,
-                MOVE_DETECT,
-                MOVE_CONFUSION,
-                MOVE_THUNDER_PUNCH,
-            },
             },
             {
 #line 13022
@@ -32905,13 +31208,6 @@ F_TRAINER_FEMALE |
             .lvl = 17,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 13025
-                MOVE_THUNDER_PUNCH,
-                MOVE_DETECT,
-                MOVE_CONFUSION,
-                MOVE_MEDITATE,
-            },
             },
         },
     },
@@ -32946,13 +31242,6 @@ F_TRAINER_FEMALE |
             .lvl = 20,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 13042
-                MOVE_BIDE,
-                MOVE_DETECT,
-                MOVE_CONFUSION,
-                MOVE_FIRE_PUNCH,
-            },
             },
             {
 #line 13047
@@ -32964,13 +31253,6 @@ F_TRAINER_FEMALE |
             .lvl = 20,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 13050
-                MOVE_BIDE,
-                MOVE_DETECT,
-                MOVE_CONFUSION,
-                MOVE_FIRE_PUNCH,
-            },
             },
         },
     },
@@ -33003,13 +31285,6 @@ F_TRAINER_FEMALE |
             .lvl = 25,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 13067
-                MOVE_TACKLE,
-                MOVE_SELF_DESTRUCT,
-                MOVE_SLUDGE,
-                MOVE_SMOKESCREEN,
-            },
             },
             {
 #line 13072
@@ -33021,13 +31296,6 @@ F_TRAINER_FEMALE |
             .lvl = 25,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 13075
-                MOVE_TACKLE,
-                MOVE_POISON_GAS,
-                MOVE_SLUDGE,
-                MOVE_SMOKESCREEN,
-            },
             },
         },
     },
@@ -33060,13 +31328,6 @@ F_TRAINER_FEMALE |
             .lvl = 28,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 13092
-                MOVE_POISON_GAS,
-                MOVE_SELF_DESTRUCT,
-                MOVE_SLUDGE,
-                MOVE_SMOKESCREEN,
-            },
             },
             {
 #line 13097
@@ -33078,13 +31339,6 @@ F_TRAINER_FEMALE |
             .lvl = 28,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 13100
-                MOVE_SAND_ATTACK,
-                MOVE_DOUBLE_TEAM,
-                MOVE_FURY_CUTTER,
-                MOVE_SWORDS_DANCE,
-            },
             },
         },
     },
@@ -33117,13 +31371,6 @@ F_TRAINER_FEMALE |
             .lvl = 28,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 13117
-                MOVE_LEECH_LIFE,
-                MOVE_FURY_SWIPES,
-                MOVE_MIND_READER,
-                MOVE_DIG,
-            },
             },
             {
 #line 13122
@@ -33135,13 +31382,6 @@ F_TRAINER_FEMALE |
             .lvl = 28,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 13125
-                MOVE_TACKLE,
-                MOVE_SELF_DESTRUCT,
-                MOVE_SLUDGE,
-                MOVE_SMOKESCREEN,
-            },
             },
         },
     },
@@ -33318,13 +31558,6 @@ F_TRAINER_FEMALE |
             .lvl = 47,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 13198
-                MOVE_AERIAL_ACE,
-                MOVE_SAFEGUARD,
-                MOVE_DRAGON_BREATH,
-                MOVE_DRAGON_DANCE,
-            },
             },
             {
 #line 13203
@@ -33336,13 +31569,6 @@ F_TRAINER_FEMALE |
             .lvl = 46,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 13206
-                MOVE_SING,
-                MOVE_ASSIST,
-                MOVE_CHARM,
-                MOVE_FEINT_ATTACK,
-            },
             },
             {
 #line 13211
@@ -33354,13 +31580,6 @@ F_TRAINER_FEMALE |
             .lvl = 47,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 13214
-                MOVE_MAGICAL_LEAF,
-                MOVE_LEECH_SEED,
-                MOVE_GIGA_DRAIN,
-                MOVE_TOXIC,
-            },
             },
             {
 #line 13219
@@ -33372,13 +31591,6 @@ F_TRAINER_FEMALE |
             .lvl = 44,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 13222
-                MOVE_SUPERSONIC,
-                MOVE_THUNDERBOLT,
-                MOVE_TRI_ATTACK,
-                MOVE_SCREECH,
-            },
             },
             {
 #line 13227
@@ -33390,13 +31602,6 @@ F_TRAINER_FEMALE |
             .lvl = 48,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 13230
-                MOVE_DOUBLE_TEAM,
-                MOVE_CALM_MIND,
-                MOVE_PSYCHIC,
-                MOVE_FUTURE_SIGHT,
-            },
             },
         },
     },
@@ -33431,13 +31636,6 @@ F_TRAINER_FEMALE |
             .lvl = 50,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 13248
-                MOVE_AERIAL_ACE,
-                MOVE_SAFEGUARD,
-                MOVE_DRAGON_BREATH,
-                MOVE_DRAGON_DANCE,
-            },
             },
             {
 #line 13253
@@ -33449,13 +31647,6 @@ F_TRAINER_FEMALE |
             .lvl = 49,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 13256
-                MOVE_SING,
-                MOVE_ASSIST,
-                MOVE_CHARM,
-                MOVE_FEINT_ATTACK,
-            },
             },
             {
 #line 13261
@@ -33467,13 +31658,6 @@ F_TRAINER_FEMALE |
             .lvl = 50,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 13264
-                MOVE_MAGICAL_LEAF,
-                MOVE_LEECH_SEED,
-                MOVE_GIGA_DRAIN,
-                MOVE_TOXIC,
-            },
             },
             {
 #line 13269
@@ -33485,13 +31669,6 @@ F_TRAINER_FEMALE |
             .lvl = 47,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 13272
-                MOVE_SUPERSONIC,
-                MOVE_THUNDERBOLT,
-                MOVE_TRI_ATTACK,
-                MOVE_SCREECH,
-            },
             },
             {
 #line 13277
@@ -33503,13 +31680,6 @@ F_TRAINER_FEMALE |
             .lvl = 51,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 13280
-                MOVE_DOUBLE_TEAM,
-                MOVE_CALM_MIND,
-                MOVE_PSYCHIC,
-                MOVE_FUTURE_SIGHT,
-            },
             },
         },
     },
@@ -33544,13 +31714,6 @@ F_TRAINER_FEMALE |
             .lvl = 53,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 13298
-                MOVE_AERIAL_ACE,
-                MOVE_SAFEGUARD,
-                MOVE_DRAGON_BREATH,
-                MOVE_DRAGON_DANCE,
-            },
             },
             {
 #line 13303
@@ -33562,13 +31725,6 @@ F_TRAINER_FEMALE |
             .lvl = 52,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 13306
-                MOVE_SING,
-                MOVE_ASSIST,
-                MOVE_CHARM,
-                MOVE_FEINT_ATTACK,
-            },
             },
             {
 #line 13311
@@ -33580,13 +31736,6 @@ F_TRAINER_FEMALE |
             .lvl = 53,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 13314
-                MOVE_MAGICAL_LEAF,
-                MOVE_LEECH_SEED,
-                MOVE_GIGA_DRAIN,
-                MOVE_TOXIC,
-            },
             },
             {
 #line 13319
@@ -33598,13 +31747,6 @@ F_TRAINER_FEMALE |
             .lvl = 50,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 13322
-                MOVE_SUPERSONIC,
-                MOVE_THUNDERBOLT,
-                MOVE_TRI_ATTACK,
-                MOVE_SCREECH,
-            },
             },
             {
 #line 13327
@@ -33616,13 +31758,6 @@ F_TRAINER_FEMALE |
             .lvl = 54,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 13330
-                MOVE_DOUBLE_TEAM,
-                MOVE_CALM_MIND,
-                MOVE_PSYCHIC,
-                MOVE_FUTURE_SIGHT,
-            },
             },
         },
     },
@@ -33657,13 +31792,6 @@ F_TRAINER_FEMALE |
             .lvl = 56,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 13348
-                MOVE_AERIAL_ACE,
-                MOVE_SAFEGUARD,
-                MOVE_DRAGON_BREATH,
-                MOVE_DRAGON_DANCE,
-            },
             },
             {
 #line 13353
@@ -33675,13 +31803,6 @@ F_TRAINER_FEMALE |
             .lvl = 55,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 13356
-                MOVE_SING,
-                MOVE_ASSIST,
-                MOVE_CHARM,
-                MOVE_FEINT_ATTACK,
-            },
             },
             {
 #line 13361
@@ -33693,13 +31814,6 @@ F_TRAINER_FEMALE |
             .lvl = 56,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 13364
-                MOVE_MAGICAL_LEAF,
-                MOVE_LEECH_SEED,
-                MOVE_GIGA_DRAIN,
-                MOVE_TOXIC,
-            },
             },
             {
 #line 13369
@@ -33711,13 +31825,6 @@ F_TRAINER_FEMALE |
             .lvl = 53,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 13372
-                MOVE_SUPERSONIC,
-                MOVE_THUNDERBOLT,
-                MOVE_TRI_ATTACK,
-                MOVE_SCREECH,
-            },
             },
             {
 #line 13377
@@ -33729,13 +31836,6 @@ F_TRAINER_FEMALE |
             .lvl = 57,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 13380
-                MOVE_DOUBLE_TEAM,
-                MOVE_CALM_MIND,
-                MOVE_PSYCHIC,
-                MOVE_FUTURE_SIGHT,
-            },
             },
         },
     },
@@ -34678,13 +32778,6 @@ F_TRAINER_FEMALE |
             .lvl = 32,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 13748
-                MOVE_SING,
-                MOVE_FURY_ATTACK,
-                MOVE_SAFEGUARD,
-                MOVE_AERIAL_ACE,
-            },
             },
             {
 #line 13753
@@ -34696,13 +32789,6 @@ F_TRAINER_FEMALE |
             .lvl = 35,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 13756
-                MOVE_FLAMETHROWER,
-                MOVE_TAKE_DOWN,
-                MOVE_REST,
-                MOVE_EARTHQUAKE,
-            },
             },
         },
     },
@@ -34735,13 +32821,6 @@ F_TRAINER_FEMALE |
             .lvl = 18,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 13773
-                MOVE_GROWTH,
-                MOVE_STUN_SPORE,
-                MOVE_MEGA_DRAIN,
-                MOVE_LEECH_SEED,
-            },
             },
             {
 #line 13778
@@ -34753,13 +32832,6 @@ F_TRAINER_FEMALE |
             .lvl = 20,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 13781
-                MOVE_DEFENSE_CURL,
-                MOVE_ROLLOUT,
-                MOVE_MUD_SPORT,
-                MOVE_ROCK_THROW,
-            },
             },
         },
     },
@@ -34792,13 +32864,6 @@ F_TRAINER_FEMALE |
             .lvl = 27,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 13798
-                MOVE_GUST,
-                MOVE_PSYBEAM,
-                MOVE_TOXIC,
-                MOVE_PROTECT,
-            },
             },
             {
 #line 13803
@@ -34810,13 +32875,6 @@ F_TRAINER_FEMALE |
             .lvl = 27,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 13806
-                MOVE_GUST,
-                MOVE_MEGA_DRAIN,
-                MOVE_ATTRACT,
-                MOVE_STUN_SPORE,
-            },
             },
         },
     },
@@ -34849,13 +32907,6 @@ F_TRAINER_FEMALE |
             .lvl = 39,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 13823
-                MOVE_PSYCHIC,
-                MOVE_FIRE_PUNCH,
-                MOVE_PSYCH_UP,
-                MOVE_PROTECT,
-            },
             },
             {
 #line 13828
@@ -34867,13 +32918,6 @@ F_TRAINER_FEMALE |
             .lvl = 39,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 13831
-                MOVE_FOCUS_PUNCH,
-                MOVE_ROCK_TOMB,
-                MOVE_REST,
-                MOVE_BELLY_DRUM,
-            },
             },
         },
     },
@@ -34906,13 +32950,6 @@ F_TRAINER_FEMALE |
             .lvl = 43,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 13848
-                MOVE_PSYCHIC,
-                MOVE_FIRE_PUNCH,
-                MOVE_PSYCH_UP,
-                MOVE_PROTECT,
-            },
             },
             {
 #line 13853
@@ -34924,13 +32961,6 @@ F_TRAINER_FEMALE |
             .lvl = 43,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 13856
-                MOVE_FOCUS_PUNCH,
-                MOVE_ROCK_TOMB,
-                MOVE_REST,
-                MOVE_BELLY_DRUM,
-            },
             },
         },
     },
@@ -34963,13 +32993,6 @@ F_TRAINER_FEMALE |
             .lvl = 46,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 13873
-                MOVE_PSYCHIC,
-                MOVE_FIRE_PUNCH,
-                MOVE_PSYCH_UP,
-                MOVE_PROTECT,
-            },
             },
             {
 #line 13878
@@ -34981,13 +33004,6 @@ F_TRAINER_FEMALE |
             .lvl = 46,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 13881
-                MOVE_FOCUS_PUNCH,
-                MOVE_ROCK_TOMB,
-                MOVE_REST,
-                MOVE_BELLY_DRUM,
-            },
             },
         },
     },
@@ -35020,13 +33036,6 @@ F_TRAINER_FEMALE |
             .lvl = 49,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 13898
-                MOVE_PSYCHIC,
-                MOVE_FIRE_PUNCH,
-                MOVE_PSYCH_UP,
-                MOVE_PROTECT,
-            },
             },
             {
 #line 13903
@@ -35038,13 +33047,6 @@ F_TRAINER_FEMALE |
             .lvl = 49,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 13906
-                MOVE_FOCUS_PUNCH,
-                MOVE_ROCK_TOMB,
-                MOVE_REST,
-                MOVE_BELLY_DRUM,
-            },
             },
         },
     },
@@ -35077,13 +33079,6 @@ F_TRAINER_FEMALE |
             .lvl = 52,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 13923
-                MOVE_PSYCHIC,
-                MOVE_FIRE_PUNCH,
-                MOVE_PSYCH_UP,
-                MOVE_PROTECT,
-            },
             },
             {
 #line 13928
@@ -35095,13 +33090,6 @@ F_TRAINER_FEMALE |
             .lvl = 52,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 13931
-                MOVE_FOCUS_PUNCH,
-                MOVE_ROCK_TOMB,
-                MOVE_REST,
-                MOVE_BELLY_DRUM,
-            },
             },
         },
     },
@@ -38558,12 +36546,6 @@ F_TRAINER_FEMALE |
             .lvl = 26,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15277
-                MOVE_THUNDER,
-                MOVE_QUICK_ATTACK,
-                MOVE_THUNDER_WAVE,
-            },
             },
             {
 #line 15281
@@ -38575,12 +36557,6 @@ F_TRAINER_FEMALE |
             .lvl = 26,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15284
-                MOVE_THUNDER,
-                MOVE_QUICK_ATTACK,
-                MOVE_THUNDER_WAVE,
-            },
             },
         },
     },
@@ -39018,13 +36994,6 @@ F_TRAINER_FEMALE |
             .lvl = 32,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15453
-                MOVE_PROTECT,
-                MOVE_ROLLOUT,
-                MOVE_MAGNITUDE,
-                MOVE_EXPLOSION,
-            },
             },
             {
 #line 15458
@@ -39038,13 +37007,6 @@ F_TRAINER_FEMALE |
             .lvl = 35,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15461
-                MOVE_SWORDS_DANCE,
-                MOVE_ICE_BEAM,
-                MOVE_SURF,
-                MOVE_ROCK_SLIDE,
-            },
             },
             {
 #line 15466
@@ -39056,13 +37018,6 @@ F_TRAINER_FEMALE |
             .lvl = 35,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15469
-                MOVE_IRON_TAIL,
-                MOVE_EXPLOSION,
-                MOVE_ROAR,
-                MOVE_ROCK_SLIDE,
-            },
             },
             {
 #line 15474
@@ -39076,13 +37031,6 @@ F_TRAINER_FEMALE |
             .lvl = 37,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15477
-                MOVE_DOUBLE_TEAM,
-                MOVE_EXPLOSION,
-                MOVE_PROTECT,
-                MOVE_ROCK_SLIDE,
-            },
             },
         },
     },
@@ -39119,13 +37067,6 @@ F_TRAINER_FEMALE |
             .lvl = 37,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15495
-                MOVE_PROTECT,
-                MOVE_ICE_BEAM,
-                MOVE_ROCK_SLIDE,
-                MOVE_SURF,
-            },
             },
             {
 #line 15500
@@ -39137,13 +37078,6 @@ F_TRAINER_FEMALE |
             .lvl = 37,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15503
-                MOVE_PROTECT,
-                MOVE_ROLLOUT,
-                MOVE_MAGNITUDE,
-                MOVE_EXPLOSION,
-            },
             },
             {
 #line 15508
@@ -39157,13 +37091,6 @@ F_TRAINER_FEMALE |
             .lvl = 40,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15511
-                MOVE_SWORDS_DANCE,
-                MOVE_ICE_BEAM,
-                MOVE_SURF,
-                MOVE_ROCK_SLIDE,
-            },
             },
             {
 #line 15516
@@ -39175,13 +37102,6 @@ F_TRAINER_FEMALE |
             .lvl = 40,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15519
-                MOVE_IRON_TAIL,
-                MOVE_EXPLOSION,
-                MOVE_ROAR,
-                MOVE_ROCK_SLIDE,
-            },
             },
             {
 #line 15524
@@ -39195,13 +37115,6 @@ F_TRAINER_FEMALE |
             .lvl = 42,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15527
-                MOVE_DOUBLE_TEAM,
-                MOVE_EXPLOSION,
-                MOVE_PROTECT,
-                MOVE_ROCK_SLIDE,
-            },
             },
         },
     },
@@ -39238,13 +37151,6 @@ F_TRAINER_FEMALE |
             .lvl = 42,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15545
-                MOVE_PROTECT,
-                MOVE_ICE_BEAM,
-                MOVE_ROCK_SLIDE,
-                MOVE_SURF,
-            },
             },
             {
 #line 15550
@@ -39256,13 +37162,6 @@ F_TRAINER_FEMALE |
             .lvl = 42,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15553
-                MOVE_PROTECT,
-                MOVE_ROLLOUT,
-                MOVE_EARTHQUAKE,
-                MOVE_EXPLOSION,
-            },
             },
             {
 #line 15558
@@ -39276,13 +37175,6 @@ F_TRAINER_FEMALE |
             .lvl = 45,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15561
-                MOVE_SWORDS_DANCE,
-                MOVE_ICE_BEAM,
-                MOVE_SURF,
-                MOVE_ROCK_SLIDE,
-            },
             },
             {
 #line 15566
@@ -39294,13 +37186,6 @@ F_TRAINER_FEMALE |
             .lvl = 45,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15569
-                MOVE_IRON_TAIL,
-                MOVE_EXPLOSION,
-                MOVE_ROAR,
-                MOVE_ROCK_SLIDE,
-            },
             },
             {
 #line 15574
@@ -39314,13 +37199,6 @@ F_TRAINER_FEMALE |
             .lvl = 47,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15577
-                MOVE_DOUBLE_TEAM,
-                MOVE_EXPLOSION,
-                MOVE_PROTECT,
-                MOVE_ROCK_SLIDE,
-            },
             },
         },
     },
@@ -39357,13 +37235,6 @@ F_TRAINER_FEMALE |
             .lvl = 47,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15595
-                MOVE_ROCK_SLIDE,
-                MOVE_HYPER_BEAM,
-                MOVE_SUPERSONIC,
-                MOVE_PROTECT,
-            },
             },
             {
 #line 15600
@@ -39375,13 +37246,6 @@ F_TRAINER_FEMALE |
             .lvl = 47,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15603
-                MOVE_FOCUS_PUNCH,
-                MOVE_ROLLOUT,
-                MOVE_EARTHQUAKE,
-                MOVE_EXPLOSION,
-            },
             },
             {
 #line 15608
@@ -39393,13 +37257,6 @@ F_TRAINER_FEMALE |
             .lvl = 47,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15611
-                MOVE_PROTECT,
-                MOVE_ICE_BEAM,
-                MOVE_ROCK_SLIDE,
-                MOVE_SURF,
-            },
             },
             {
 #line 15616
@@ -39413,13 +37270,6 @@ F_TRAINER_FEMALE |
             .lvl = 50,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15619
-                MOVE_SWORDS_DANCE,
-                MOVE_ICE_BEAM,
-                MOVE_SURF,
-                MOVE_ROCK_SLIDE,
-            },
             },
             {
 #line 15624
@@ -39431,13 +37281,6 @@ F_TRAINER_FEMALE |
             .lvl = 50,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15627
-                MOVE_IRON_TAIL,
-                MOVE_EXPLOSION,
-                MOVE_ROAR,
-                MOVE_ROCK_SLIDE,
-            },
             },
             {
 #line 15632
@@ -39451,13 +37294,6 @@ F_TRAINER_FEMALE |
             .lvl = 52,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15635
-                MOVE_DOUBLE_TEAM,
-                MOVE_EXPLOSION,
-                MOVE_PROTECT,
-                MOVE_ROCK_SLIDE,
-            },
             },
         },
     },
@@ -39494,13 +37330,6 @@ F_TRAINER_FEMALE |
             .lvl = 33,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15653
-                MOVE_KARATE_CHOP,
-                MOVE_ROCK_SLIDE,
-                MOVE_FOCUS_PUNCH,
-                MOVE_BULK_UP,
-            },
             },
             {
 #line 15658
@@ -39512,13 +37341,6 @@ F_TRAINER_FEMALE |
             .lvl = 33,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15661
-                MOVE_PSYCHIC,
-                MOVE_LIGHT_SCREEN,
-                MOVE_REFLECT,
-                MOVE_FOCUS_PUNCH,
-            },
             },
             {
 #line 15666
@@ -39530,13 +37352,6 @@ F_TRAINER_FEMALE |
             .lvl = 35,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15669
-                MOVE_PURSUIT,
-                MOVE_COUNTER,
-                MOVE_PROTECT,
-                MOVE_TRIPLE_KICK,
-            },
             },
             {
 #line 15674
@@ -39550,13 +37365,6 @@ F_TRAINER_FEMALE |
             .lvl = 37,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15677
-                MOVE_FAKE_OUT,
-                MOVE_FOCUS_PUNCH,
-                MOVE_BELLY_DRUM,
-                MOVE_EARTHQUAKE,
-            },
             },
         },
     },
@@ -39593,13 +37401,6 @@ F_TRAINER_FEMALE |
             .lvl = 38,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15695
-                MOVE_KARATE_CHOP,
-                MOVE_ROCK_SLIDE,
-                MOVE_FOCUS_PUNCH,
-                MOVE_BULK_UP,
-            },
             },
             {
 #line 15700
@@ -39611,13 +37412,6 @@ F_TRAINER_FEMALE |
             .lvl = 38,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15703
-                MOVE_PSYCHIC,
-                MOVE_LIGHT_SCREEN,
-                MOVE_REFLECT,
-                MOVE_FOCUS_PUNCH,
-            },
             },
             {
 #line 15708
@@ -39629,13 +37423,6 @@ F_TRAINER_FEMALE |
             .lvl = 40,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15711
-                MOVE_PURSUIT,
-                MOVE_COUNTER,
-                MOVE_PROTECT,
-                MOVE_TRIPLE_KICK,
-            },
             },
             {
 #line 15716
@@ -39649,13 +37436,6 @@ F_TRAINER_FEMALE |
             .lvl = 42,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15719
-                MOVE_FAKE_OUT,
-                MOVE_FOCUS_PUNCH,
-                MOVE_BELLY_DRUM,
-                MOVE_EARTHQUAKE,
-            },
             },
         },
     },
@@ -39690,13 +37470,6 @@ F_TRAINER_FEMALE |
             .lvl = 40,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15737
-                MOVE_SKY_UPPERCUT,
-                MOVE_PROTECT,
-                MOVE_FIRE_PUNCH,
-                MOVE_ICE_PUNCH,
-            },
             },
             {
 #line 15742
@@ -39710,13 +37483,6 @@ F_TRAINER_FEMALE |
             .lvl = 43,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15745
-                MOVE_KARATE_CHOP,
-                MOVE_ROCK_SLIDE,
-                MOVE_FOCUS_PUNCH,
-                MOVE_BULK_UP,
-            },
             },
             {
 #line 15750
@@ -39728,13 +37494,6 @@ F_TRAINER_FEMALE |
             .lvl = 43,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15753
-                MOVE_FOCUS_PUNCH,
-                MOVE_LIGHT_SCREEN,
-                MOVE_REFLECT,
-                MOVE_PSYCHIC,
-            },
             },
             {
 #line 15758
@@ -39746,13 +37505,6 @@ F_TRAINER_FEMALE |
             .lvl = 45,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15761
-                MOVE_PURSUIT,
-                MOVE_COUNTER,
-                MOVE_PROTECT,
-                MOVE_TRIPLE_KICK,
-            },
             },
             {
 #line 15766
@@ -39766,13 +37518,6 @@ F_TRAINER_FEMALE |
             .lvl = 47,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15769
-                MOVE_FAKE_OUT,
-                MOVE_FOCUS_PUNCH,
-                MOVE_BELLY_DRUM,
-                MOVE_EARTHQUAKE,
-            },
             },
         },
     },
@@ -39807,13 +37552,6 @@ F_TRAINER_FEMALE |
             .lvl = 46,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15787
-                MOVE_MEGA_KICK,
-                MOVE_FOCUS_PUNCH,
-                MOVE_EARTHQUAKE,
-                MOVE_BULK_UP,
-            },
             },
             {
 #line 15792
@@ -39825,13 +37563,6 @@ F_TRAINER_FEMALE |
             .lvl = 46,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15795
-                MOVE_SKY_UPPERCUT,
-                MOVE_PROTECT,
-                MOVE_FIRE_PUNCH,
-                MOVE_ICE_PUNCH,
-            },
             },
             {
 #line 15800
@@ -39845,13 +37576,6 @@ F_TRAINER_FEMALE |
             .lvl = 48,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15803
-                MOVE_CROSS_CHOP,
-                MOVE_ROCK_SLIDE,
-                MOVE_FOCUS_PUNCH,
-                MOVE_BULK_UP,
-            },
             },
             {
 #line 15808
@@ -39863,13 +37587,6 @@ F_TRAINER_FEMALE |
             .lvl = 48,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15811
-                MOVE_FOCUS_PUNCH,
-                MOVE_LIGHT_SCREEN,
-                MOVE_REFLECT,
-                MOVE_PSYCHIC,
-            },
             },
             {
 #line 15816
@@ -39881,13 +37598,6 @@ F_TRAINER_FEMALE |
             .lvl = 50,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15819
-                MOVE_PURSUIT,
-                MOVE_COUNTER,
-                MOVE_PROTECT,
-                MOVE_TRIPLE_KICK,
-            },
             },
             {
 #line 15824
@@ -39901,13 +37611,6 @@ F_TRAINER_FEMALE |
             .lvl = 52,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15827
-                MOVE_FAKE_OUT,
-                MOVE_FOCUS_PUNCH,
-                MOVE_BELLY_DRUM,
-                MOVE_EARTHQUAKE,
-            },
             },
         },
     },
@@ -39942,13 +37645,6 @@ F_TRAINER_FEMALE |
             .lvl = 36,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15845
-                MOVE_THUNDER,
-                MOVE_PROTECT,
-                MOVE_THUNDER_WAVE,
-                MOVE_LIGHT_SCREEN,
-            },
             },
             {
 #line 15850
@@ -39960,13 +37656,6 @@ F_TRAINER_FEMALE |
             .lvl = 36,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15853
-                MOVE_ROLLOUT,
-                MOVE_THUNDER,
-                MOVE_EXPLOSION,
-                MOVE_RAIN_DANCE,
-            },
             },
             {
 #line 15858
@@ -39980,13 +37669,6 @@ F_TRAINER_FEMALE |
             .lvl = 38,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15861
-                MOVE_SUPERSONIC,
-                MOVE_PROTECT,
-                MOVE_THUNDER,
-                MOVE_RAIN_DANCE,
-            },
             },
             {
 #line 15866
@@ -40000,13 +37682,6 @@ F_TRAINER_FEMALE |
             .lvl = 40,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15869
-                MOVE_BITE,
-                MOVE_THUNDER_WAVE,
-                MOVE_THUNDER,
-                MOVE_PROTECT,
-            },
             },
         },
     },
@@ -40041,13 +37716,6 @@ F_TRAINER_FEMALE |
             .lvl = 39,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15887
-                MOVE_THUNDER,
-                MOVE_SLAM,
-                MOVE_RAIN_DANCE,
-                MOVE_SHOCK_WAVE,
-            },
             },
             {
 #line 15892
@@ -40059,13 +37727,6 @@ F_TRAINER_FEMALE |
             .lvl = 41,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15895
-                MOVE_THUNDER,
-                MOVE_PROTECT,
-                MOVE_THUNDER_WAVE,
-                MOVE_LIGHT_SCREEN,
-            },
             },
             {
 #line 15900
@@ -40077,13 +37738,6 @@ F_TRAINER_FEMALE |
             .lvl = 41,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15903
-                MOVE_ROLLOUT,
-                MOVE_THUNDER,
-                MOVE_EXPLOSION,
-                MOVE_RAIN_DANCE,
-            },
             },
             {
 #line 15908
@@ -40097,13 +37751,6 @@ F_TRAINER_FEMALE |
             .lvl = 43,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15911
-                MOVE_SUPERSONIC,
-                MOVE_PROTECT,
-                MOVE_THUNDER,
-                MOVE_RAIN_DANCE,
-            },
             },
             {
 #line 15916
@@ -40117,13 +37764,6 @@ F_TRAINER_FEMALE |
             .lvl = 45,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15919
-                MOVE_BITE,
-                MOVE_THUNDER_WAVE,
-                MOVE_THUNDER,
-                MOVE_PROTECT,
-            },
             },
         },
     },
@@ -40158,13 +37798,6 @@ F_TRAINER_FEMALE |
             .lvl = 44,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15937
-                MOVE_THUNDER,
-                MOVE_SLAM,
-                MOVE_RAIN_DANCE,
-                MOVE_PROTECT,
-            },
             },
             {
 #line 15942
@@ -40176,13 +37809,6 @@ F_TRAINER_FEMALE |
             .lvl = 46,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15945
-                MOVE_THUNDER,
-                MOVE_PROTECT,
-                MOVE_THUNDER_WAVE,
-                MOVE_LIGHT_SCREEN,
-            },
             },
             {
 #line 15950
@@ -40194,13 +37820,6 @@ F_TRAINER_FEMALE |
             .lvl = 46,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15953
-                MOVE_ROLLOUT,
-                MOVE_THUNDER,
-                MOVE_EXPLOSION,
-                MOVE_RAIN_DANCE,
-            },
             },
             {
 #line 15958
@@ -40214,13 +37833,6 @@ F_TRAINER_FEMALE |
             .lvl = 48,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15961
-                MOVE_SUPERSONIC,
-                MOVE_PROTECT,
-                MOVE_THUNDER,
-                MOVE_RAIN_DANCE,
-            },
             },
             {
 #line 15966
@@ -40234,13 +37846,6 @@ F_TRAINER_FEMALE |
             .lvl = 50,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15969
-                MOVE_BITE,
-                MOVE_THUNDER_WAVE,
-                MOVE_THUNDER,
-                MOVE_PROTECT,
-            },
             },
         },
     },
@@ -40275,13 +37880,6 @@ F_TRAINER_FEMALE |
             .lvl = 50,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15987
-                MOVE_SWIFT,
-                MOVE_FOCUS_PUNCH,
-                MOVE_THUNDER_PUNCH,
-                MOVE_LIGHT_SCREEN,
-            },
             },
             {
 #line 15992
@@ -40293,13 +37891,6 @@ F_TRAINER_FEMALE |
             .lvl = 51,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 15995
-                MOVE_THUNDER,
-                MOVE_SLAM,
-                MOVE_RAIN_DANCE,
-                MOVE_PROTECT,
-            },
             },
             {
 #line 16000
@@ -40311,13 +37902,6 @@ F_TRAINER_FEMALE |
             .lvl = 51,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16003
-                MOVE_THUNDER,
-                MOVE_PROTECT,
-                MOVE_THUNDER_WAVE,
-                MOVE_LIGHT_SCREEN,
-            },
             },
             {
 #line 16008
@@ -40329,13 +37913,6 @@ F_TRAINER_FEMALE |
             .lvl = 53,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16011
-                MOVE_ROLLOUT,
-                MOVE_THUNDER,
-                MOVE_EXPLOSION,
-                MOVE_RAIN_DANCE,
-            },
             },
             {
 #line 16016
@@ -40349,13 +37926,6 @@ F_TRAINER_FEMALE |
             .lvl = 53,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16019
-                MOVE_SUPERSONIC,
-                MOVE_PROTECT,
-                MOVE_THUNDER,
-                MOVE_RAIN_DANCE,
-            },
             },
             {
 #line 16024
@@ -40369,13 +37939,6 @@ F_TRAINER_FEMALE |
             .lvl = 55,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16027
-                MOVE_BITE,
-                MOVE_THUNDER_WAVE,
-                MOVE_THUNDER,
-                MOVE_PROTECT,
-            },
             },
         },
     },
@@ -40414,13 +37977,6 @@ F_TRAINER_FEMALE |
             .lvl = 38,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16045
-                MOVE_OVERHEAT,
-                MOVE_ATTRACT,
-                MOVE_LIGHT_SCREEN,
-                MOVE_ROCK_SLIDE,
-            },
             },
             {
 #line 16050
@@ -40432,13 +37988,6 @@ F_TRAINER_FEMALE |
             .lvl = 36,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16053
-                MOVE_FLAMETHROWER,
-                MOVE_ATTRACT,
-                MOVE_SOLAR_BEAM,
-                MOVE_BOUNCE,
-            },
             },
             {
 #line 16058
@@ -40452,13 +38001,6 @@ F_TRAINER_FEMALE |
             .lvl = 38,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16061
-                MOVE_OVERHEAT,
-                MOVE_SUNNY_DAY,
-                MOVE_EARTHQUAKE,
-                MOVE_ATTRACT,
-            },
             },
             {
 #line 16066
@@ -40472,13 +38014,6 @@ F_TRAINER_FEMALE |
             .lvl = 40,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16069
-                MOVE_OVERHEAT,
-                MOVE_SUNNY_DAY,
-                MOVE_EXPLOSION,
-                MOVE_ATTRACT,
-            },
             },
         },
     },
@@ -40515,13 +38050,6 @@ F_TRAINER_FEMALE |
             .lvl = 41,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16087
-                MOVE_HELPING_HAND,
-                MOVE_FLAMETHROWER,
-                MOVE_ROAR,
-                MOVE_SUNNY_DAY,
-            },
             },
             {
 #line 16092
@@ -40535,13 +38063,6 @@ F_TRAINER_FEMALE |
             .lvl = 43,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16095
-                MOVE_OVERHEAT,
-                MOVE_ATTRACT,
-                MOVE_LIGHT_SCREEN,
-                MOVE_ROCK_SLIDE,
-            },
             },
             {
 #line 16100
@@ -40553,13 +38074,6 @@ F_TRAINER_FEMALE |
             .lvl = 41,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16103
-                MOVE_FLAMETHROWER,
-                MOVE_ATTRACT,
-                MOVE_SOLAR_BEAM,
-                MOVE_BOUNCE,
-            },
             },
             {
 #line 16108
@@ -40573,13 +38087,6 @@ F_TRAINER_FEMALE |
             .lvl = 43,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16111
-                MOVE_OVERHEAT,
-                MOVE_SUNNY_DAY,
-                MOVE_EARTHQUAKE,
-                MOVE_ATTRACT,
-            },
             },
             {
 #line 16116
@@ -40593,13 +38100,6 @@ F_TRAINER_FEMALE |
             .lvl = 45,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16119
-                MOVE_OVERHEAT,
-                MOVE_SUNNY_DAY,
-                MOVE_EXPLOSION,
-                MOVE_ATTRACT,
-            },
             },
         },
     },
@@ -40636,13 +38136,6 @@ F_TRAINER_FEMALE |
             .lvl = 46,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16137
-                MOVE_ROAR,
-                MOVE_SOLAR_BEAM,
-                MOVE_TAUNT,
-                MOVE_SUNNY_DAY,
-            },
             },
             {
 #line 16142
@@ -40654,13 +38147,6 @@ F_TRAINER_FEMALE |
             .lvl = 46,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16145
-                MOVE_HELPING_HAND,
-                MOVE_FLAMETHROWER,
-                MOVE_SUNNY_DAY,
-                MOVE_ROAR,
-            },
             },
             {
 #line 16150
@@ -40674,13 +38160,6 @@ F_TRAINER_FEMALE |
             .lvl = 48,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16153
-                MOVE_OVERHEAT,
-                MOVE_ATTRACT,
-                MOVE_LIGHT_SCREEN,
-                MOVE_ROCK_SLIDE,
-            },
             },
             {
 #line 16158
@@ -40692,13 +38171,6 @@ F_TRAINER_FEMALE |
             .lvl = 46,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16161
-                MOVE_FLAMETHROWER,
-                MOVE_ATTRACT,
-                MOVE_SOLAR_BEAM,
-                MOVE_BOUNCE,
-            },
             },
             {
 #line 16166
@@ -40712,13 +38184,6 @@ F_TRAINER_FEMALE |
             .lvl = 48,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16169
-                MOVE_OVERHEAT,
-                MOVE_SUNNY_DAY,
-                MOVE_EARTHQUAKE,
-                MOVE_ATTRACT,
-            },
             },
             {
 #line 16174
@@ -40732,13 +38197,6 @@ F_TRAINER_FEMALE |
             .lvl = 50,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16177
-                MOVE_OVERHEAT,
-                MOVE_SUNNY_DAY,
-                MOVE_EXPLOSION,
-                MOVE_ATTRACT,
-            },
             },
         },
     },
@@ -40775,13 +38233,6 @@ F_TRAINER_FEMALE |
             .lvl = 51,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16195
-                MOVE_HELPING_HAND,
-                MOVE_FLAMETHROWER,
-                MOVE_SUNNY_DAY,
-                MOVE_ROAR,
-            },
             },
             {
 #line 16200
@@ -40795,13 +38246,6 @@ F_TRAINER_FEMALE |
             .lvl = 53,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16203
-                MOVE_OVERHEAT,
-                MOVE_ATTRACT,
-                MOVE_LIGHT_SCREEN,
-                MOVE_ROCK_SLIDE,
-            },
             },
             {
 #line 16208
@@ -40813,13 +38257,6 @@ F_TRAINER_FEMALE |
             .lvl = 51,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16211
-                MOVE_ROAR,
-                MOVE_SOLAR_BEAM,
-                MOVE_TAUNT,
-                MOVE_SUNNY_DAY,
-            },
             },
             {
 #line 16216
@@ -40831,13 +38268,6 @@ F_TRAINER_FEMALE |
             .lvl = 51,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16219
-                MOVE_FLAMETHROWER,
-                MOVE_ATTRACT,
-                MOVE_SOLAR_BEAM,
-                MOVE_BOUNCE,
-            },
             },
             {
 #line 16224
@@ -40851,13 +38281,6 @@ F_TRAINER_FEMALE |
             .lvl = 53,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16227
-                MOVE_OVERHEAT,
-                MOVE_SUNNY_DAY,
-                MOVE_EARTHQUAKE,
-                MOVE_ATTRACT,
-            },
             },
             {
 #line 16232
@@ -40871,13 +38294,6 @@ F_TRAINER_FEMALE |
             .lvl = 55,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16235
-                MOVE_OVERHEAT,
-                MOVE_SUNNY_DAY,
-                MOVE_EXPLOSION,
-                MOVE_ATTRACT,
-            },
             },
         },
     },
@@ -40912,13 +38328,6 @@ F_TRAINER_FEMALE |
             .lvl = 42,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16253
-                MOVE_LIGHT_SCREEN,
-                MOVE_SING,
-                MOVE_SKILL_SWAP,
-                MOVE_FOCUS_PUNCH,
-            },
             },
             {
 #line 16258
@@ -40932,13 +38341,6 @@ F_TRAINER_FEMALE |
             .lvl = 42,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16261
-                MOVE_BLIZZARD,
-                MOVE_SHADOW_BALL,
-                MOVE_DOUBLE_EDGE,
-                MOVE_FIRE_BLAST,
-            },
             },
             {
 #line 16266
@@ -40950,13 +38352,6 @@ F_TRAINER_FEMALE |
             .lvl = 43,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16269
-                MOVE_TEETER_DANCE,
-                MOVE_SKILL_SWAP,
-                MOVE_FACADE,
-                MOVE_HYPNOSIS,
-            },
             },
             {
 #line 16274
@@ -40970,13 +38365,6 @@ F_TRAINER_FEMALE |
             .lvl = 45,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16277
-                MOVE_HYPER_BEAM,
-                MOVE_FLAMETHROWER,
-                MOVE_THUNDERBOLT,
-                MOVE_SHADOW_BALL,
-            },
             },
         },
     },
@@ -41013,13 +38401,6 @@ F_TRAINER_FEMALE |
             .lvl = 47,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16295
-                MOVE_BLIZZARD,
-                MOVE_SHADOW_BALL,
-                MOVE_DOUBLE_EDGE,
-                MOVE_FIRE_BLAST,
-            },
             },
             {
 #line 16300
@@ -41031,13 +38412,6 @@ F_TRAINER_FEMALE |
             .lvl = 47,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16303
-                MOVE_LIGHT_SCREEN,
-                MOVE_SING,
-                MOVE_SKILL_SWAP,
-                MOVE_FOCUS_PUNCH,
-            },
             },
             {
 #line 16308
@@ -41049,13 +38423,6 @@ F_TRAINER_FEMALE |
             .lvl = 45,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16311
-                MOVE_FAKE_OUT,
-                MOVE_DIZZY_PUNCH,
-                MOVE_ENDURE,
-                MOVE_REVERSAL,
-            },
             },
             {
 #line 16316
@@ -41067,13 +38434,6 @@ F_TRAINER_FEMALE |
             .lvl = 48,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16319
-                MOVE_TEETER_DANCE,
-                MOVE_SKILL_SWAP,
-                MOVE_FACADE,
-                MOVE_HYPNOSIS,
-            },
             },
             {
 #line 16324
@@ -41087,13 +38447,6 @@ F_TRAINER_FEMALE |
             .lvl = 50,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16327
-                MOVE_HYPER_BEAM,
-                MOVE_FLAMETHROWER,
-                MOVE_THUNDERBOLT,
-                MOVE_SHADOW_BALL,
-            },
             },
         },
     },
@@ -41130,13 +38483,6 @@ F_TRAINER_FEMALE |
             .lvl = 52,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16345
-                MOVE_BLIZZARD,
-                MOVE_SHADOW_BALL,
-                MOVE_DOUBLE_EDGE,
-                MOVE_FIRE_BLAST,
-            },
             },
             {
 #line 16350
@@ -41148,13 +38494,6 @@ F_TRAINER_FEMALE |
             .lvl = 52,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16353
-                MOVE_LIGHT_SCREEN,
-                MOVE_SING,
-                MOVE_SKILL_SWAP,
-                MOVE_FOCUS_PUNCH,
-            },
             },
             {
 #line 16358
@@ -41166,13 +38505,6 @@ F_TRAINER_FEMALE |
             .lvl = 50,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16361
-                MOVE_FAKE_OUT,
-                MOVE_DIZZY_PUNCH,
-                MOVE_ENDURE,
-                MOVE_REVERSAL,
-            },
             },
             {
 #line 16366
@@ -41184,13 +38516,6 @@ F_TRAINER_FEMALE |
             .lvl = 53,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16369
-                MOVE_TEETER_DANCE,
-                MOVE_SKILL_SWAP,
-                MOVE_FACADE,
-                MOVE_HYPNOSIS,
-            },
             },
             {
 #line 16374
@@ -41204,13 +38529,6 @@ F_TRAINER_FEMALE |
             .lvl = 55,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16377
-                MOVE_HYPER_BEAM,
-                MOVE_FLAMETHROWER,
-                MOVE_THUNDERBOLT,
-                MOVE_SHADOW_BALL,
-            },
             },
         },
     },
@@ -41247,13 +38565,6 @@ F_TRAINER_FEMALE |
             .lvl = 57,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16395
-                MOVE_BLIZZARD,
-                MOVE_SHADOW_BALL,
-                MOVE_DOUBLE_EDGE,
-                MOVE_FIRE_BLAST,
-            },
             },
             {
 #line 16400
@@ -41265,13 +38576,6 @@ F_TRAINER_FEMALE |
             .lvl = 57,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16403
-                MOVE_PROTECT,
-                MOVE_SING,
-                MOVE_SKILL_SWAP,
-                MOVE_FOCUS_PUNCH,
-            },
             },
             {
 #line 16408
@@ -41283,13 +38587,6 @@ F_TRAINER_FEMALE |
             .lvl = 55,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16411
-                MOVE_FAKE_OUT,
-                MOVE_DIZZY_PUNCH,
-                MOVE_ENDURE,
-                MOVE_REVERSAL,
-            },
             },
             {
 #line 16416
@@ -41301,13 +38598,6 @@ F_TRAINER_FEMALE |
             .lvl = 57,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16419
-                MOVE_TAKE_DOWN,
-                MOVE_PROTECT,
-                MOVE_FIRE_BLAST,
-                MOVE_EARTHQUAKE,
-            },
             },
             {
 #line 16424
@@ -41319,13 +38609,6 @@ F_TRAINER_FEMALE |
             .lvl = 58,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16427
-                MOVE_TEETER_DANCE,
-                MOVE_SKILL_SWAP,
-                MOVE_FACADE,
-                MOVE_HYPNOSIS,
-            },
             },
             {
 #line 16432
@@ -41339,13 +38622,6 @@ F_TRAINER_FEMALE |
             .lvl = 60,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16435
-                MOVE_HYPER_BEAM,
-                MOVE_FLAMETHROWER,
-                MOVE_THUNDERBOLT,
-                MOVE_SHADOW_BALL,
-            },
             },
         },
     },
@@ -41384,13 +38660,6 @@ F_TRAINER_FEMALE |
             .lvl = 40,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16453
-                MOVE_THUNDER_WAVE,
-                MOVE_THUNDERBOLT,
-                MOVE_PROTECT,
-                MOVE_ICE_BEAM,
-            },
             },
             {
 #line 16458
@@ -41402,13 +38671,6 @@ F_TRAINER_FEMALE |
             .lvl = 38,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16461
-                MOVE_SUNNY_DAY,
-                MOVE_AERIAL_ACE,
-                MOVE_SOLAR_BEAM,
-                MOVE_EARTHQUAKE,
-            },
             },
             {
 #line 16466
@@ -41420,13 +38682,6 @@ F_TRAINER_FEMALE |
             .lvl = 41,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16469
-                MOVE_SURF,
-                MOVE_SUPERSONIC,
-                MOVE_PROTECT,
-                MOVE_AERIAL_ACE,
-            },
             },
             {
 #line 16474
@@ -41438,13 +38693,6 @@ F_TRAINER_FEMALE |
             .lvl = 43,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16477
-                MOVE_WHIRLWIND,
-                MOVE_SPIKES,
-                MOVE_STEEL_WING,
-                MOVE_AERIAL_ACE,
-            },
             },
             {
 #line 16482
@@ -41458,13 +38706,6 @@ F_TRAINER_FEMALE |
             .lvl = 45,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16485
-                MOVE_AERIAL_ACE,
-                MOVE_REST,
-                MOVE_DRAGON_DANCE,
-                MOVE_EARTHQUAKE,
-            },
             },
         },
     },
@@ -41501,13 +38742,6 @@ F_TRAINER_FEMALE |
             .lvl = 43,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16503
-                MOVE_HYPNOSIS,
-                MOVE_PSYCHIC,
-                MOVE_REFLECT,
-                MOVE_DREAM_EATER,
-            },
             },
             {
 #line 16508
@@ -41519,13 +38753,6 @@ F_TRAINER_FEMALE |
             .lvl = 43,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16511
-                MOVE_SUNNY_DAY,
-                MOVE_AERIAL_ACE,
-                MOVE_SOLAR_BEAM,
-                MOVE_EARTHQUAKE,
-            },
             },
             {
 #line 16516
@@ -41539,13 +38766,6 @@ F_TRAINER_FEMALE |
             .lvl = 45,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16519
-                MOVE_THUNDER_WAVE,
-                MOVE_THUNDERBOLT,
-                MOVE_PROTECT,
-                MOVE_ICE_BEAM,
-            },
             },
             {
 #line 16524
@@ -41557,13 +38777,6 @@ F_TRAINER_FEMALE |
             .lvl = 46,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16527
-                MOVE_SURF,
-                MOVE_SUPERSONIC,
-                MOVE_PROTECT,
-                MOVE_AERIAL_ACE,
-            },
             },
             {
 #line 16532
@@ -41575,13 +38788,6 @@ F_TRAINER_FEMALE |
             .lvl = 48,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16535
-                MOVE_WHIRLWIND,
-                MOVE_SPIKES,
-                MOVE_STEEL_WING,
-                MOVE_AERIAL_ACE,
-            },
             },
             {
 #line 16540
@@ -41595,13 +38801,6 @@ F_TRAINER_FEMALE |
             .lvl = 50,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16543
-                MOVE_AERIAL_ACE,
-                MOVE_REST,
-                MOVE_DRAGON_DANCE,
-                MOVE_EARTHQUAKE,
-            },
             },
         },
     },
@@ -41638,13 +38837,6 @@ F_TRAINER_FEMALE |
             .lvl = 48,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16561
-                MOVE_HYPNOSIS,
-                MOVE_PSYCHIC,
-                MOVE_REFLECT,
-                MOVE_DREAM_EATER,
-            },
             },
             {
 #line 16566
@@ -41656,13 +38848,6 @@ F_TRAINER_FEMALE |
             .lvl = 49,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16569
-                MOVE_SUNNY_DAY,
-                MOVE_AERIAL_ACE,
-                MOVE_SOLAR_BEAM,
-                MOVE_EARTHQUAKE,
-            },
             },
             {
 #line 16574
@@ -41676,13 +38861,6 @@ F_TRAINER_FEMALE |
             .lvl = 50,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16577
-                MOVE_THUNDER_WAVE,
-                MOVE_THUNDERBOLT,
-                MOVE_PROTECT,
-                MOVE_ICE_BEAM,
-            },
             },
             {
 #line 16582
@@ -41694,13 +38872,6 @@ F_TRAINER_FEMALE |
             .lvl = 51,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16585
-                MOVE_SURF,
-                MOVE_SUPERSONIC,
-                MOVE_PROTECT,
-                MOVE_AERIAL_ACE,
-            },
             },
             {
 #line 16590
@@ -41712,13 +38883,6 @@ F_TRAINER_FEMALE |
             .lvl = 53,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16593
-                MOVE_WHIRLWIND,
-                MOVE_SPIKES,
-                MOVE_STEEL_WING,
-                MOVE_AERIAL_ACE,
-            },
             },
             {
 #line 16598
@@ -41732,13 +38896,6 @@ F_TRAINER_FEMALE |
             .lvl = 55,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16601
-                MOVE_AERIAL_ACE,
-                MOVE_REST,
-                MOVE_DRAGON_DANCE,
-                MOVE_EARTHQUAKE,
-            },
             },
         },
     },
@@ -41775,13 +38932,6 @@ F_TRAINER_FEMALE |
             .lvl = 53,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16619
-                MOVE_HYPNOSIS,
-                MOVE_PSYCHIC,
-                MOVE_REFLECT,
-                MOVE_DREAM_EATER,
-            },
             },
             {
 #line 16624
@@ -41793,13 +38943,6 @@ F_TRAINER_FEMALE |
             .lvl = 54,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16627
-                MOVE_SUNNY_DAY,
-                MOVE_AERIAL_ACE,
-                MOVE_SOLAR_BEAM,
-                MOVE_EARTHQUAKE,
-            },
             },
             {
 #line 16632
@@ -41811,13 +38954,6 @@ F_TRAINER_FEMALE |
             .lvl = 55,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16635
-                MOVE_SURF,
-                MOVE_SUPERSONIC,
-                MOVE_PROTECT,
-                MOVE_AERIAL_ACE,
-            },
             },
             {
 #line 16640
@@ -41831,13 +38967,6 @@ F_TRAINER_FEMALE |
             .lvl = 55,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16643
-                MOVE_HYPER_BEAM,
-                MOVE_THUNDERBOLT,
-                MOVE_EARTHQUAKE,
-                MOVE_ICE_BEAM,
-            },
             },
             {
 #line 16648
@@ -41849,13 +38978,6 @@ F_TRAINER_FEMALE |
             .lvl = 58,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16651
-                MOVE_WHIRLWIND,
-                MOVE_SPIKES,
-                MOVE_STEEL_WING,
-                MOVE_AERIAL_ACE,
-            },
             },
             {
 #line 16656
@@ -41869,13 +38991,6 @@ F_TRAINER_FEMALE |
             .lvl = 60,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16659
-                MOVE_SKY_ATTACK,
-                MOVE_REST,
-                MOVE_DRAGON_DANCE,
-                MOVE_EARTHQUAKE,
-            },
             },
         },
     },
@@ -41910,13 +39025,6 @@ F_TRAINER_FEMALE |
             .lvl = 48,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16677
-                MOVE_YAWN,
-                MOVE_PSYCHIC,
-                MOVE_CALM_MIND,
-                MOVE_PROTECT,
-            },
             },
             {
 #line 16682
@@ -41928,13 +39036,6 @@ F_TRAINER_FEMALE |
             .lvl = 49,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16685
-                MOVE_EARTHQUAKE,
-                MOVE_ANCIENT_POWER,
-                MOVE_PSYCHIC,
-                MOVE_LIGHT_SCREEN,
-            },
             },
             {
 #line 16690
@@ -41948,13 +39049,6 @@ F_TRAINER_FEMALE |
             .lvl = 49,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16693
-                MOVE_PSYCHIC,
-                MOVE_REST,
-                MOVE_CONFUSE_RAY,
-                MOVE_CALM_MIND,
-            },
             },
             {
 #line 16698
@@ -41968,13 +39062,6 @@ F_TRAINER_FEMALE |
             .lvl = 50,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16701
-                MOVE_EARTHQUAKE,
-                MOVE_PSYCHIC,
-                MOVE_REST,
-                MOVE_CALM_MIND,
-            },
             },
             {
 #line 16706
@@ -41988,13 +39075,6 @@ F_TRAINER_FEMALE |
             .lvl = 50,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16709
-                MOVE_SUNNY_DAY,
-                MOVE_SOLAR_BEAM,
-                MOVE_PSYCHIC,
-                MOVE_FLAMETHROWER,
-            },
             },
         },
     },
@@ -42029,13 +39109,6 @@ F_TRAINER_FEMALE |
             .lvl = 53,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16727
-                MOVE_HYPNOSIS,
-                MOVE_DREAM_EATER,
-                MOVE_HEADBUTT,
-                MOVE_PROTECT,
-            },
             },
             {
 #line 16732
@@ -42047,13 +39120,6 @@ F_TRAINER_FEMALE |
             .lvl = 53,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16735
-                MOVE_YAWN,
-                MOVE_PSYCHIC,
-                MOVE_CALM_MIND,
-                MOVE_PROTECT,
-            },
             },
             {
 #line 16740
@@ -42065,13 +39131,6 @@ F_TRAINER_FEMALE |
             .lvl = 54,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16743
-                MOVE_EARTHQUAKE,
-                MOVE_EXPLOSION,
-                MOVE_PSYCHIC,
-                MOVE_LIGHT_SCREEN,
-            },
             },
             {
 #line 16748
@@ -42085,13 +39144,6 @@ F_TRAINER_FEMALE |
             .lvl = 54,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16751
-                MOVE_PSYCHIC,
-                MOVE_REST,
-                MOVE_CONFUSE_RAY,
-                MOVE_CALM_MIND,
-            },
             },
             {
 #line 16756
@@ -42105,13 +39157,6 @@ F_TRAINER_FEMALE |
             .lvl = 55,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16759
-                MOVE_EARTHQUAKE,
-                MOVE_PSYCHIC,
-                MOVE_REST,
-                MOVE_CALM_MIND,
-            },
             },
             {
 #line 16764
@@ -42125,13 +39170,6 @@ F_TRAINER_FEMALE |
             .lvl = 55,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16767
-                MOVE_SUNNY_DAY,
-                MOVE_SOLAR_BEAM,
-                MOVE_PSYCHIC,
-                MOVE_FLAMETHROWER,
-            },
             },
         },
     },
@@ -42166,13 +39204,6 @@ F_TRAINER_FEMALE |
             .lvl = 58,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16785
-                MOVE_HYPNOSIS,
-                MOVE_DREAM_EATER,
-                MOVE_HEADBUTT,
-                MOVE_PROTECT,
-            },
             },
             {
 #line 16790
@@ -42184,13 +39215,6 @@ F_TRAINER_FEMALE |
             .lvl = 59,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16793
-                MOVE_EARTHQUAKE,
-                MOVE_EXPLOSION,
-                MOVE_PSYCHIC,
-                MOVE_LIGHT_SCREEN,
-            },
             },
             {
 #line 16798
@@ -42202,13 +39226,6 @@ F_TRAINER_FEMALE |
             .lvl = 58,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16801
-                MOVE_YAWN,
-                MOVE_PSYCHIC,
-                MOVE_CALM_MIND,
-                MOVE_PROTECT,
-            },
             },
             {
 #line 16806
@@ -42222,13 +39239,6 @@ F_TRAINER_FEMALE |
             .lvl = 59,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16809
-                MOVE_PSYCHIC,
-                MOVE_REST,
-                MOVE_CONFUSE_RAY,
-                MOVE_CALM_MIND,
-            },
             },
             {
 #line 16814
@@ -42242,13 +39252,6 @@ F_TRAINER_FEMALE |
             .lvl = 60,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16817
-                MOVE_EARTHQUAKE,
-                MOVE_PSYCHIC,
-                MOVE_REST,
-                MOVE_CALM_MIND,
-            },
             },
             {
 #line 16822
@@ -42262,13 +39265,6 @@ F_TRAINER_FEMALE |
             .lvl = 60,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16825
-                MOVE_SUNNY_DAY,
-                MOVE_SOLAR_BEAM,
-                MOVE_PSYCHIC,
-                MOVE_FLAMETHROWER,
-            },
             },
         },
     },
@@ -42303,13 +39299,6 @@ F_TRAINER_FEMALE |
             .lvl = 63,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16843
-                MOVE_HYPNOSIS,
-                MOVE_DREAM_EATER,
-                MOVE_HEADBUTT,
-                MOVE_PROTECT,
-            },
             },
             {
 #line 16848
@@ -42321,13 +39310,6 @@ F_TRAINER_FEMALE |
             .lvl = 64,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16851
-                MOVE_EARTHQUAKE,
-                MOVE_EXPLOSION,
-                MOVE_PSYCHIC,
-                MOVE_LIGHT_SCREEN,
-            },
             },
             {
 #line 16856
@@ -42339,13 +39321,6 @@ F_TRAINER_FEMALE |
             .lvl = 63,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16859
-                MOVE_YAWN,
-                MOVE_PSYCHIC,
-                MOVE_CALM_MIND,
-                MOVE_PROTECT,
-            },
             },
             {
 #line 16864
@@ -42359,13 +39334,6 @@ F_TRAINER_FEMALE |
             .lvl = 64,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16867
-                MOVE_PSYCHIC,
-                MOVE_REST,
-                MOVE_CONFUSE_RAY,
-                MOVE_CALM_MIND,
-            },
             },
             {
 #line 16872
@@ -42379,13 +39347,6 @@ F_TRAINER_FEMALE |
             .lvl = 65,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16875
-                MOVE_EARTHQUAKE,
-                MOVE_PSYCHIC,
-                MOVE_REST,
-                MOVE_CALM_MIND,
-            },
             },
             {
 #line 16880
@@ -42399,13 +39360,6 @@ F_TRAINER_FEMALE |
             .lvl = 65,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16883
-                MOVE_SUNNY_DAY,
-                MOVE_SOLAR_BEAM,
-                MOVE_PSYCHIC,
-                MOVE_FLAMETHROWER,
-            },
             },
         },
     },
@@ -42440,13 +39394,6 @@ F_TRAINER_FEMALE |
             .lvl = 46,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16901
-                MOVE_HYPNOSIS,
-                MOVE_RAIN_DANCE,
-                MOVE_PROTECT,
-                MOVE_HYDRO_PUMP,
-            },
             },
             {
 #line 16906
@@ -42458,13 +39405,6 @@ F_TRAINER_FEMALE |
             .lvl = 46,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16909
-                MOVE_RAIN_DANCE,
-                MOVE_WATER_PULSE,
-                MOVE_DOUBLE_TEAM,
-                MOVE_FISSURE,
-            },
             },
             {
 #line 16914
@@ -42476,13 +39416,6 @@ F_TRAINER_FEMALE |
             .lvl = 48,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16917
-                MOVE_WATER_PULSE,
-                MOVE_BODY_SLAM,
-                MOVE_PROTECT,
-                MOVE_ICE_BEAM,
-            },
             },
             {
 #line 16922
@@ -42496,13 +39429,6 @@ F_TRAINER_FEMALE |
             .lvl = 48,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16925
-                MOVE_REST,
-                MOVE_CRABHAMMER,
-                MOVE_TAUNT,
-                MOVE_DOUBLE_TEAM,
-            },
             },
             {
 #line 16930
@@ -42516,13 +39442,6 @@ F_TRAINER_FEMALE |
             .lvl = 51,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16933
-                MOVE_WATER_PULSE,
-                MOVE_DOUBLE_TEAM,
-                MOVE_ICE_BEAM,
-                MOVE_REST,
-            },
             },
         },
     },
@@ -42557,13 +39476,6 @@ F_TRAINER_FEMALE |
             .lvl = 50,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16951
-                MOVE_HYPNOSIS,
-                MOVE_RAIN_DANCE,
-                MOVE_PROTECT,
-                MOVE_HYDRO_PUMP,
-            },
             },
             {
 #line 16956
@@ -42575,13 +39487,6 @@ F_TRAINER_FEMALE |
             .lvl = 51,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16959
-                MOVE_RAIN_DANCE,
-                MOVE_WATER_PULSE,
-                MOVE_DOUBLE_TEAM,
-                MOVE_FISSURE,
-            },
             },
             {
 #line 16964
@@ -42593,13 +39498,6 @@ F_TRAINER_FEMALE |
             .lvl = 53,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16967
-                MOVE_WATER_PULSE,
-                MOVE_BODY_SLAM,
-                MOVE_PROTECT,
-                MOVE_ICE_BEAM,
-            },
             },
             {
 #line 16972
@@ -42613,13 +39511,6 @@ F_TRAINER_FEMALE |
             .lvl = 53,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16975
-                MOVE_REST,
-                MOVE_GUILLOTINE,
-                MOVE_TAUNT,
-                MOVE_DOUBLE_TEAM,
-            },
             },
             {
 #line 16980
@@ -42633,13 +39524,6 @@ F_TRAINER_FEMALE |
             .lvl = 56,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 16983
-                MOVE_WATER_PULSE,
-                MOVE_DOUBLE_TEAM,
-                MOVE_ICE_BEAM,
-                MOVE_REST,
-            },
             },
         },
     },
@@ -42674,13 +39558,6 @@ F_TRAINER_FEMALE |
             .lvl = 56,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 17001
-                MOVE_HYDRO_PUMP,
-                MOVE_PERISH_SONG,
-                MOVE_ICE_BEAM,
-                MOVE_CONFUSE_RAY,
-            },
             },
             {
 #line 17006
@@ -42692,13 +39569,6 @@ F_TRAINER_FEMALE |
             .lvl = 58,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 17009
-                MOVE_RAIN_DANCE,
-                MOVE_WATER_PULSE,
-                MOVE_DOUBLE_TEAM,
-                MOVE_FISSURE,
-            },
             },
             {
 #line 17014
@@ -42710,13 +39580,6 @@ F_TRAINER_FEMALE |
             .lvl = 56,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 17017
-                MOVE_HYPNOSIS,
-                MOVE_RAIN_DANCE,
-                MOVE_PROTECT,
-                MOVE_HYDRO_PUMP,
-            },
             },
             {
 #line 17022
@@ -42728,13 +39591,6 @@ F_TRAINER_FEMALE |
             .lvl = 58,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 17025
-                MOVE_WATER_PULSE,
-                MOVE_BODY_SLAM,
-                MOVE_PROTECT,
-                MOVE_ICE_BEAM,
-            },
             },
             {
 #line 17030
@@ -42748,13 +39604,6 @@ F_TRAINER_FEMALE |
             .lvl = 58,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 17033
-                MOVE_REST,
-                MOVE_GUILLOTINE,
-                MOVE_TAUNT,
-                MOVE_DOUBLE_TEAM,
-            },
             },
             {
 #line 17038
@@ -42768,13 +39617,6 @@ F_TRAINER_FEMALE |
             .lvl = 61,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 17041
-                MOVE_WATER_PULSE,
-                MOVE_DOUBLE_TEAM,
-                MOVE_ICE_BEAM,
-                MOVE_REST,
-            },
             },
         },
     },
@@ -42809,13 +39651,6 @@ F_TRAINER_FEMALE |
             .lvl = 61,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 17059
-                MOVE_HYDRO_PUMP,
-                MOVE_PERISH_SONG,
-                MOVE_ICE_BEAM,
-                MOVE_CONFUSE_RAY,
-            },
             },
             {
 #line 17064
@@ -42827,13 +39662,6 @@ F_TRAINER_FEMALE |
             .lvl = 63,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 17067
-                MOVE_RAIN_DANCE,
-                MOVE_WATER_PULSE,
-                MOVE_DOUBLE_TEAM,
-                MOVE_FISSURE,
-            },
             },
             {
 #line 17072
@@ -42845,13 +39673,6 @@ F_TRAINER_FEMALE |
             .lvl = 61,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 17075
-                MOVE_HYPNOSIS,
-                MOVE_RAIN_DANCE,
-                MOVE_HYDRO_PUMP,
-                MOVE_PERISH_SONG,
-            },
             },
             {
 #line 17080
@@ -42863,13 +39684,6 @@ F_TRAINER_FEMALE |
             .lvl = 63,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 17083
-                MOVE_WATER_PULSE,
-                MOVE_BODY_SLAM,
-                MOVE_PROTECT,
-                MOVE_SHEER_COLD,
-            },
             },
             {
 #line 17088
@@ -42883,13 +39697,6 @@ F_TRAINER_FEMALE |
             .lvl = 63,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 17091
-                MOVE_REST,
-                MOVE_GUILLOTINE,
-                MOVE_TAUNT,
-                MOVE_DOUBLE_TEAM,
-            },
             },
             {
 #line 17096
@@ -42903,13 +39710,6 @@ F_TRAINER_FEMALE |
             .lvl = 66,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 17099
-                MOVE_WATER_PULSE,
-                MOVE_DOUBLE_TEAM,
-                MOVE_ICE_BEAM,
-                MOVE_REST,
-            },
             },
         },
     },
@@ -42942,12 +39742,6 @@ F_TRAINER_FEMALE |
             .lvl = 17,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 17116
-                MOVE_SHOCK_WAVE,
-                MOVE_QUICK_ATTACK,
-                MOVE_CHARM,
-            },
             },
             {
 #line 17120
@@ -42959,12 +39753,6 @@ F_TRAINER_FEMALE |
             .lvl = 17,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 17123
-                MOVE_SHOCK_WAVE,
-                MOVE_QUICK_ATTACK,
-                MOVE_CONFUSE_RAY,
-            },
             },
         },
     },
@@ -43042,13 +39830,6 @@ F_TRAINER_FEMALE |
             .lvl = 77,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 17157
-                MOVE_TOXIC,
-                MOVE_AERIAL_ACE,
-                MOVE_SPIKES,
-                MOVE_STEEL_WING,
-            },
             },
             {
 #line 17162
@@ -43060,13 +39841,6 @@ F_TRAINER_FEMALE |
             .lvl = 75,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 17165
-                MOVE_REFLECT,
-                MOVE_LIGHT_SCREEN,
-                MOVE_ANCIENT_POWER,
-                MOVE_EARTHQUAKE,
-            },
             },
             {
 #line 17170
@@ -43078,13 +39852,6 @@ F_TRAINER_FEMALE |
             .lvl = 76,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 17173
-                MOVE_THUNDER,
-                MOVE_EARTHQUAKE,
-                MOVE_SOLAR_BEAM,
-                MOVE_DRAGON_CLAW,
-            },
             },
             {
 #line 17178
@@ -43096,13 +39863,6 @@ F_TRAINER_FEMALE |
             .lvl = 76,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 17181
-                MOVE_GIGA_DRAIN,
-                MOVE_ANCIENT_POWER,
-                MOVE_INGRAIN,
-                MOVE_CONFUSE_RAY,
-            },
             },
             {
 #line 17186
@@ -43114,13 +39874,6 @@ F_TRAINER_FEMALE |
             .lvl = 76,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 17189
-                MOVE_WATER_PULSE,
-                MOVE_ANCIENT_POWER,
-                MOVE_AERIAL_ACE,
-                MOVE_SLASH,
-            },
             },
             {
 #line 17194
@@ -43134,13 +39887,6 @@ F_TRAINER_FEMALE |
             .lvl = 78,
             .nature = NATURE_HARDY,
             .dynamaxLevel = MAX_DYNAMAX_LEVEL,
-            .moves = {
-#line 17197
-                MOVE_EARTHQUAKE,
-                MOVE_PSYCHIC,
-                MOVE_METEOR_MASH,
-                MOVE_SHADOW_BALL,
-            },
             },
         },
     },
