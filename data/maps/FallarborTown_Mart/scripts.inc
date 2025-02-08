@@ -16,7 +16,6 @@ FallarborTown_Mart_Pokemart:
 	.2byte ITEM_GREAT_BALL
 	.2byte ITEM_RARE_CANDY
 	.2byte ITEM_MAX_REPEL
-	.2byte ITEM_ESCAPE_ROPE
 	pokemartlistend
 
 FallarborTown_Mart_EventScript_Woman::
