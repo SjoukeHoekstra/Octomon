@@ -75,6 +75,8 @@
 #include "constants/party_menu.h"
 #include "constants/rgb.h"
 #include "constants/songs.h"
+#include "src/overworld.c"
+#include "src/party_menu.c"
 
 enum {
     MENU_SUMMARY,
@@ -5283,6 +5285,18 @@ bool8 MonKnowsMove(struct Pokemon *mon, u16 move)
     return FALSE;
 }
 
+bool8 BoxMonKnowsMove(struct BoxPokemon *boxMon, u16 move)
+{
+    u8 i;
+
+    for (i = 0; i < MAX_MON_MOVES; i++)
+    {
+        if (GetBoxMonData(boxMon, MON_DATA_MOVE1 + i) == move)
+            return TRUE;
+    }
+    return FALSE;
+}
+
 int MoveToHM(u16 move)
 {
     u8 i;
@@ -5321,19 +5335,6 @@ int MoveToHM(u16 move)
         break;
     }
     return item;
-}
-
-
-bool8 BoxMonKnowsMove(struct BoxPokemon *boxMon, u16 move)
-{
-    u8 i;
-
-    for (i = 0; i < MAX_MON_MOVES; i++)
-    {
-        if (GetBoxMonData(boxMon, MON_DATA_MOVE1 + i) == move)
-            return TRUE;
-    }
-    return FALSE;
 }
 
 static void DisplayLearnMoveMessage(const u8 *str)

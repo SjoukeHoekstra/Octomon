@@ -1048,7 +1048,6 @@ static bool8 CanLearnFlashInParty(void)
     return FALSE;
 }
 
-
 // Flash level of 0 is fully bright
 // Flash level of 1 is the largest flash radius
 // Flash level of 7 is the smallest flash radius
