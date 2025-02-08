@@ -76,7 +76,7 @@
 #include "constants/rgb.h"
 #include "constants/songs.h"
 #include "src/overworld.c"
-#include "src/party_menu.c"
+#include "src/scrcmd.c"
 
 enum {
     MENU_SUMMARY,
