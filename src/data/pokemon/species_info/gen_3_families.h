@@ -3806,7 +3806,7 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
         .levelUpLearnset = sNosepassLevelUpLearnset,
         .teachableLearnset = sNosepassTeachableLearnset,
         .eggMoveLearnset = sNosepassEggMoveLearnset,
-        .evolutions = EVOLUTION({EVO_LEVEL, 40, SPECIES_PROBOPASS},
+        .evolutions = EVOLUTION({EVO_LEVEL, 40, SPECIES_PROBOPASS}),
     },
 
 #if P_GEN_4_CROSS_EVOS
@@ -7952,7 +7952,7 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
         .levelUpLearnset = sFeebasLevelUpLearnset,
         .teachableLearnset = sFeebasTeachableLearnset,
         .eggMoveLearnset = sFeebasEggMoveLearnset,
-        .evolutions = EVOLUTION({EVO_LEVEL, 24, SPECIES_MILOTIC},
+        .evolutions = EVOLUTION({EVO_LEVEL, 24, SPECIES_MILOTIC}),
     },
 
     [SPECIES_MILOTIC] =
@@ -8709,7 +8709,7 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
         )
         .levelUpLearnset = sDusclopsLevelUpLearnset,
         .teachableLearnset = sDusclopsTeachableLearnset,
-        .evolutions = EVOLUTION({EVO_LEVEL, 54, SPECIES_DUSKNOIR},
+        .evolutions = EVOLUTION({EVO_LEVEL, 54, SPECIES_DUSKNOIR}),
     },
 
 #if P_GEN_4_CROSS_EVOS
