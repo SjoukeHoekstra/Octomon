@@ -4258,7 +4258,7 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         .levelUpLearnset = sGligarLevelUpLearnset,
         .teachableLearnset = sGligarTeachableLearnset,
         .eggMoveLearnset = sGligarEggMoveLearnset,
-        .evolutions = EVOLUTION({EVO_LEVEL, 38, SPECIES_GLISCOR},
+        .evolutions = EVOLUTION({EVO_LEVEL, 38, SPECIES_GLISCOR}),
     },
 
 #if P_GEN_4_CROSS_EVOS
@@ -4953,7 +4953,7 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         .teachableLearnset = sSneaselTeachableLearnset,
         .eggMoveLearnset = sSneaselEggMoveLearnset,
         .formSpeciesIdTable = sSneaselFormSpeciesIdTable,
-        .evolutions = EVOLUTION({EVO_LEVEL, 47, SPECIES_WEAVILE},
+        .evolutions = EVOLUTION({EVO_LEVEL, 47, SPECIES_WEAVILE}),
     },
 
 #if P_GEN_4_CROSS_EVOS
@@ -5322,7 +5322,7 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         .levelUpLearnset = sUrsaringLevelUpLearnset,
         .teachableLearnset = sUrsaringTeachableLearnset,
         .evolutions = EVOLUTION({EVO_LEVEL_FEMALE, 46, SPECIES_URSALUNA},
-                                {EVO_LEVEL_MALE, 47, SPECIES_URSALUNA_BLOODMOON}),          
+                                {EVO_LEVEL_MALE, 47, SPECIES_URSALUNA_BLOODMOON},          
                                 {EVO_NONE, 0, SPECIES_URSALUNA_BLOODMOON}),
     },
 
