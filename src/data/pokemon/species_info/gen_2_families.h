@@ -3541,7 +3541,7 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         .tmIlliterate = TRUE,                                                                                   \
         .formSpeciesIdTable = sUnownFormSpeciesIdTable,                                                         \
         .randomizerMode = rzMode,      
-    }
+    },
 
     [SPECIES_UNOWN]             = UNOWN_MISC_INFO(A,               FALSE, 24, 40, 24, 48,  8,   MON_RANDOMIZER_NORMAL ),
     [SPECIES_UNOWN_B]           = UNOWN_MISC_INFO(B,               TRUE,  24, 32, 40, 48,  9,  MON_RANDOMIZER_INVALID ),
