@@ -5282,9 +5282,10 @@ bool8 MonKnowsMove(struct Pokemon *mon, u16 move)
     return FALSE;
 }
 
-bool8 PlayerHasMove(u16 move)
+int MoveToHM(u16 move)
 {
-    u16 item;
+    u8 i;
+    int item;
     switch (move)
     {
     case MOVE_SECRET_POWER:
@@ -5315,12 +5316,11 @@ bool8 PlayerHasMove(u16 move)
         item = ITEM_HM08;
         break;
     default:
-        return FALSE;
+        item = 0;
         break;
     }
-    return CheckBagHasItem(item, 1);
+    return item;
 }
-
 
 bool8 BoxMonKnowsMove(struct BoxPokemon *boxMon, u16 move)
 {
