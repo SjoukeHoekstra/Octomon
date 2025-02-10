@@ -6956,7 +6956,7 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         .tmIlliterate = TRUE,
         .levelUpLearnset = sSmeargleLevelUpLearnset,
         .teachableLearnset = sSmeargleTeachableLearnset,
-        .randomizerMode = MON_RANDOMIZER_INVALID,
+        .randomizerMode = MON_RANDOMIZER_INVALID
     },
 #endif //P_FAMILY_SMEARGLE
 
