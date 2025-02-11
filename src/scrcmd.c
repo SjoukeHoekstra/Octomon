@@ -1863,25 +1863,18 @@ bool8 ScrCmd_checkpartymove(struct ScriptContext *ctx)
     u8 i;
     u16 moveId = ScriptReadHalfword(ctx);
 
-    gSpecialVar_Result = PARTY_SIZE;
-    for (i = 0; i < PARTY_SIZE; i++)
+    if (gSpecialVar_Result == PARTY_SIZE && (CheckBagHasItem(MoveToHM(moveId), 1)))
     {
-        u16 species = GetMonData(&gPlayerParty[i], MON_DATA_SPECIES, NULL);
-        if (!species)
-            break;
-        if (gSpecialVar_Result == PARTY_SIZE && (CheckBagHasItem(MoveToHM(moveId), 1)))
+    for (i = 0; i < PARTY_SIZE; i++)
         {
-            for (i = 0; i < PARTY_SIZE; i++)
-            {
-                u16 species = GetMonData(&gPlayerParty[i], MON_DATA_SPECIES, NULL);
-                if (!species)
-                    break;
+            u16 species = GetMonData(&gPlayerParty[i], MON_DATA_SPECIES, NULL);
+            if (!species)
+                break;
                 if (!GetMonData(&gPlayerParty[i], MON_DATA_IS_EGG) && CanLearnTeachableMove(GetMonData(&gPlayerParty[i], MON_DATA_SPECIES), MoveToHM(moveId) - ITEM_TM01))
-                {
-                    gSpecialVar_Result = i;
-                    gSpecialVar_0x8004 = species;
-                    break;
-                }
+            {
+                gSpecialVar_Result = i;
+                gSpecialVar_0x8004 = species;
+                break;
             }
         }
     }
