@@ -89,8 +89,8 @@ void SetBagItemsPointers(void)
     gBagPockets[BATTLEITEMS_POCKET].itemSlots = gSaveBlock1Ptr->bagPocket_BattleItems;
     gBagPockets[BATTLEITEMS_POCKET].capacity = BAG_BATTLEITEMS_COUNT;
 
-    gBagPockets[POWER_UP_POCKET].itemSlots = gSaveBlock1Ptr->bagPocket_PowerUp;
-    gBagPockets[POWER_UP_POCKET].capacity = BAG_POWERUP_COUNT;
+    gBagPockets[POWERUP_POCKET].itemSlots = gSaveBlock1Ptr->bagPocket_PowerUp;
+    gBagPockets[POWERUP_POCKET].capacity = BAG_POWERUP_COUNT;
 }
 
 u8 *CopyItemName(u16 itemId, u8 *dst)
