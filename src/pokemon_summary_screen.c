@@ -3625,7 +3625,7 @@ static void BufferIvOrEvStats(u8 mode)
 {
     u16 hp, hp2, atk, def, spA, spD, spe;
     u8 *currHPString = Alloc(20);
-    const s8 *natureMod = gNatureStatTable[sMonSummaryScreen->summary.nature];
+    const s8 *natureMod = gNaturesInfo[sMonSummaryScreen->summary.nature];
 
     switch (mode)
     {
@@ -3746,7 +3746,7 @@ static void PrintLeftColumnStats(void)
 
 static void BufferRightColumnStats(void)
 {
-    const s8 *natureMod = gNatureStatTable[sMonSummaryScreen->summary.nature];
+    const s8 *natureMod = gNaturesInfo[sMonSummaryScreen->summary.nature];
     // Reset to STATS graphics
     FillBgTilemapBufferRect(1, STATS_BLANK_BLOCK, STATS_CORD_X + 3, STATS_CORD_Y, 1, 1, 2);
     FillBgTilemapBufferRect(1, STATS_BLANK_BLOCK, STATS_CORD_X + 4, STATS_CORD_Y, 1, 1, 2);
