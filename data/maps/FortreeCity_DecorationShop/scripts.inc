@@ -41,6 +41,8 @@ FortreeCity_DecorationShop_EventScript_ClerkChairs::
 FortreeCity_DecorationShop_PokemartDecor_Chairs:
 	.2byte ITEM_RARE_CANDY
 	.2byte ITEM_MAX_REPEL
+	.2byte ITEM_FULL_RESTORE
+	.2byte ITEM_MAX_ELIXIR
 	pokemartlistend
 
 FortreeCity_DecorationShop_Text_MerchandiseSentToPC:
