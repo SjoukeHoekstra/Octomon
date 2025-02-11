@@ -12,7 +12,7 @@ u32 GetCurrentLevelCap(void)
         {FLAG_DEFEATED_RIVAL_ROUTE103, 10},
         {FLAG_BADGE01_GET, 15},
         {FLAG_BADGE02_GET, 19},
-        {FLAG_ENABLE_PROF_BIRCH_MATCH_CALL, 20},
+        {FLAG_RIVAL_110_DEFEATED, 20},
         {FLAG_BADGE03_GET, 24},
         {FLAG_BADGE04_GET, 29},
         {FLAG_BADGE05_GET, 31},
