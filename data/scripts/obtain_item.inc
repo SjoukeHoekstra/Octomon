@@ -23,7 +23,7 @@ EventScript_BufferPocketNameAndTryFanfare::
 	case POCKET_POKE_BALLS,   EventScript_BufferPokeballsPocket
 	case POCKET_BATTLE_ITEMS, EventScript_BufferBattleItemsPocket
 	case POCKET_BERRIES,      EventScript_BufferBerriesPocket
-	case POCKET_POWER_UP,    EventScript_BufferPowerUpPocket
+	case POCKET_POWER_UP,     EventScript_BufferPowerUpPocket
 	case POCKET_TM_HM,        EventScript_BufferTMHMsPocket
 	case POCKET_KEY_ITEMS,    EventScript_BufferKeyItemsPocket
 	end
@@ -63,7 +63,7 @@ EventScript_BufferBattleItemsPocket::
 	call_if_eq VAR_0x8007, TRUE, EventScript_PlayFanfareObtainedItem
 	return
 
-EventScript_BufferTreasuresPocket::
+EventScript_BufferPowerUpPocket::
 	bufferstdstring STR_VAR_3, STDSTRING_POWERUP
 	call_if_eq VAR_0x8007, TRUE, EventScript_PlayFanfareObtainedItem
 	return
