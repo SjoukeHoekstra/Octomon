@@ -8422,7 +8422,8 @@ Pic: Cooltrainer F
 Gender: Female
 Music: Cool
 Items: Full Restore
-Double Battle: No
+Double Battle: Yes
+AI: Smart Trainer
 
 Claydol
 Level: 43
@@ -8442,7 +8443,8 @@ Class: Tuber F
 Pic: Tuber F
 Gender: Female
 Music: Girl
-Double Battle: No
+Double Battle: Yes
+AI: Smart Trainer
 
 Marill
 Level: 23
@@ -8458,7 +8460,8 @@ Class: Ninja Boy
 Pic: Ninja Boy
 Gender: Male
 Music: Suspicious
-Double Battle: No
+Double Battle: Yes
+AI: Smart Trainer
 
 Koffing
 Level: 17
@@ -8490,7 +8493,8 @@ Class: Ninja Boy
 Pic: Ninja Boy
 Gender: Male
 Music: Suspicious
-Double Battle: No
+Double Battle: Yes
+AI: Smart Trainer
 
 Koffing
 Level: 18
@@ -8506,7 +8510,8 @@ Class: Ninja Boy
 Pic: Ninja Boy
 Gender: Male
 Music: Suspicious
-Double Battle: No
+Double Battle: Yes
+AI: Smart Trainer
 
 Koffing
 Level: 24
@@ -8543,7 +8548,8 @@ Class: Ninja Boy
 Pic: Ninja Boy
 Gender: Male
 Music: Suspicious
-Double Battle: No
+Double Battle: Yes
+AI: Smart Trainer
 
 Koffing
 Level: 27
@@ -8580,7 +8586,8 @@ Class: Ninja Boy
 Pic: Ninja Boy
 Gender: Male
 Music: Suspicious
-Double Battle: No
+Double Battle: Yes
+AI: Smart Trainer
 
 Koffing
 Level: 30
@@ -8615,7 +8622,8 @@ Class: Ninja Boy
 Pic: Ninja Boy
 Gender: Male
 Music: Suspicious
-Double Battle: No
+Double Battle: Yes
+AI: Smart Trainer
 
 Koffing
 Level: 33
@@ -18108,7 +18116,8 @@ Class: Psychic
 Pic: Psychic F
 Gender: Female
 Music: Intense
-Double Battle: No
+Double Battle: Yes
+AI: Smart Trainer
 
 Chimecho
 Level: 36
@@ -18124,7 +18133,8 @@ Class: Psychic
 Pic: Psychic M
 Gender: Male
 Music: Intense
-Double Battle: No
+Double Battle: Yes
+AI: Smart Trainer
 
 Banette
 Level: 41
@@ -18140,7 +18150,8 @@ Class: Gentleman
 Pic: Gentleman
 Gender: Male
 Music: Rich
-Double Battle: No
+Double Battle: Yes
+AI: Smart Trainer
 
 Wobbuffet
 Level: 36
@@ -18156,7 +18167,8 @@ Class: Rival
 Pic: Red
 Gender: Male
 Music: Male
-Double Battle: No
+Double Battle: Yes
+AI: Smart Trainer
 
 Charmander
 Level: 5
@@ -18168,7 +18180,8 @@ Class: Rival
 Pic: Leaf
 Gender: Female
 Music: Male
-Double Battle: No
+Double Battle: Yes
+AI: Smart Trainer
 
 Bulbasaur
 Level: 5
