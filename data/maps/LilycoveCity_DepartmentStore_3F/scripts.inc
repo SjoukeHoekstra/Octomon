@@ -15,6 +15,8 @@ LilycoveCity_DepartmentStore_3F_EventScript_ClerkLeft::
 LilycoveCity_DepartmentStore_3F_Pokemart_Vitamins:
 	.2byte ITEM_RARE_CANDY
 	.2byte ITEM_MAX_REPEL
+	.2byte ITEM_FULL_RESTORE
+	.2byte ITEM_MAX_ELIXIR
 	pokemartlistend
 
 LilycoveCity_DepartmentStore_3F_EventScript_ClerkRight::

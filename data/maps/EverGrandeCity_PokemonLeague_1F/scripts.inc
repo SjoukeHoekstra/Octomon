@@ -41,7 +41,8 @@ EverGrandeCity_PokemonLeague_1F_Pokemart:
 	.2byte ITEM_ULTRA_BALL
 	.2byte ITEM_RARE_CANDY
 	.2byte ITEM_MAX_REPEL
-	.2byte ITEM_ESCAPE_ROPE
+	.2byte ITEM_FULL_RESTORE
+	.2byte ITEM_MAX_ELIXIR
 	pokemartlistend
 
 @ The door guards only check for FLAG_BADGE06_GET because Winonas badge is the only one that can be skipped

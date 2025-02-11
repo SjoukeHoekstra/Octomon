@@ -30,6 +30,8 @@ LilycoveCity_DepartmentStoreRooftop_EventScript_SaleWoman::
 LilycoveCity_DepartmentStoreRooftop_PokemartDecor_ClearOutSale:
 	.2byte ITEM_RARE_CANDY
 	.2byte ITEM_MAX_REPEL
+	.2byte ITEM_FULL_RESTORE
+	.2byte ITEM_MAX_ELIXIR
 	.2byte 0
 	release
 	end

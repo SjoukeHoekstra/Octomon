@@ -21,6 +21,8 @@ RustboroCity_Mart_Pokemart_Basic:
 	.2byte ITEM_POKE_BALL
 	.2byte ITEM_RARE_CANDY
 	.2byte ITEM_MAX_REPEL
+	.2byte ITEM_FULL_RESTORE
+	.2byte ITEM_MAX_ELIXIR
 	pokemartlistend
 
 RustboroCity_Mart_EventScript_PokemartExpanded::
@@ -36,6 +38,8 @@ RustboroCity_Mart_Pokemart_Expanded:
 	.2byte ITEM_REPEAT_BALL
 	.2byte ITEM_RARE_CANDY
 	.2byte ITEM_MAX_REPEL
+	.2byte ITEM_FULL_RESTORE
+	.2byte ITEM_MAX_ELIXIR
 	pokemartlistend
 
 RustboroCity_Mart_EventScript_PokefanF::
