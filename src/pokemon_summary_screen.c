@@ -315,7 +315,6 @@ static void DestroyMoveSelectorSprites(u8);
 static void SetMainMoveSelectorColor(u8);
 static void KeepMoveSelectorVisible(u8);
 static void SummaryScreen_DestroyAnimDelayTask(void);
-static void BufferStat(u8 *dst, s8 natureMod, u32 stat, u32 strId, u32 n);
 static void BufferIvOrEvStats(u8 mode);
 static bool32 ShouldShowMoveRelearner(void);
 static bool32 ShouldShowRename(void);
@@ -3622,6 +3621,26 @@ static void PrintRibbonCount(void)
     PrintTextOnWindow(AddWindowFromTemplateList(sPageSkillsTemplate, PSS_DATA_WINDOW_SKILLS_RIBBON_COUNT), text, x, 1, 0, 0);
 }
 
+static void BufferStat(u8 *dst, u8 statIndex, u32 stat, u32 strId, u32 n)
+{
+    static const u8 sTextNatureDown[] = _("{COLOR}{08}");
+    static const u8 sTextNatureUp[] = _("{COLOR}{05}");
+    static const u8 sTextNatureNeutral[] = _("{COLOR}{01}");
+    u8 *txtPtr;
+
+    if (statIndex == 0 || !SUMMARY_SCREEN_NATURE_COLORS || gNaturesInfo[sMonSummaryScreen->summary.mintNature].statUp == gNaturesInfo[sMonSummaryScreen->summary.mintNature].statDown)
+        txtPtr = StringCopy(dst, sTextNatureNeutral);
+    else if (statIndex == gNaturesInfo[sMonSummaryScreen->summary.mintNature].statUp)
+        txtPtr = StringCopy(dst, sTextNatureUp);
+    else if (statIndex == gNaturesInfo[sMonSummaryScreen->summary.mintNature].statDown)
+        txtPtr = StringCopy(dst, sTextNatureDown);
+    else
+        txtPtr = StringCopy(dst, sTextNatureNeutral);
+
+    ConvertIntToDecimalStringN(txtPtr, stat, STR_CONV_MODE_RIGHT_ALIGN, n);
+    DynamicPlaceholderTextUtil_SetPlaceholderPtr(strId, dst);
+}
+
 static void BufferIvOrEvStats(u8 mode)
 {
     u16 hp, hp2, atk, def, spA, spD, spe;
@@ -3697,26 +3716,6 @@ static void BufferIvOrEvStats(u8 mode)
     }
 
     Free(currHPString);
-}
-
-static void BufferStat(u8 *dst, u8 statIndex, u32 stat, u32 strId, u32 n)
-{
-    static const u8 sTextNatureDown[] = _("{COLOR}{08}");
-    static const u8 sTextNatureUp[] = _("{COLOR}{05}");
-    static const u8 sTextNatureNeutral[] = _("{COLOR}{01}");
-    u8 *txtPtr;
-
-    if (statIndex == 0 || !SUMMARY_SCREEN_NATURE_COLORS || gNaturesInfo[sMonSummaryScreen->summary.mintNature].statUp == gNaturesInfo[sMonSummaryScreen->summary.mintNature].statDown)
-        txtPtr = StringCopy(dst, sTextNatureNeutral);
-    else if (statIndex == gNaturesInfo[sMonSummaryScreen->summary.mintNature].statUp)
-        txtPtr = StringCopy(dst, sTextNatureUp);
-    else if (statIndex == gNaturesInfo[sMonSummaryScreen->summary.mintNature].statDown)
-        txtPtr = StringCopy(dst, sTextNatureDown);
-    else
-        txtPtr = StringCopy(dst, sTextNatureNeutral);
-
-    ConvertIntToDecimalStringN(txtPtr, stat, STR_CONV_MODE_RIGHT_ALIGN, n);
-    DynamicPlaceholderTextUtil_SetPlaceholderPtr(strId, dst);
 }
 
 static void BufferLeftColumnStats(void)
