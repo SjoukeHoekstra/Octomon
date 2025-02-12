@@ -299,53 +299,19 @@ static u8 ChooseWildMonIndex_Fishing(u8 rod)
     return wildMonIndex;
 }
 
-static u8 ChooseWildMonLevel(const struct WildPokemon *wildPokemon, u8 wildMonIndex, enum WildArea area)
+static u8 ChooseWildMonLevel(void)
 {
-    u8 min;
-    u8 max;
-    u8 range;
-    u8 rand;
+    u8 level = GetHighestLevelInPlayerParty(); // Get highest level in the party
+    u8 wildMonLevel;
 
-    if (LURE_STEP_COUNT == 0)
-    {
-        // Make sure minimum level is less than maximum level
-        if (wildPokemon[wildMonIndex].maxLevel >= wildPokemon[wildMonIndex].minLevel)
-        {
-            min = wildPokemon[wildMonIndex].minLevel;
-            max = wildPokemon[wildMonIndex].maxLevel;
-        }
-        else
-        {
-            min = wildPokemon[wildMonIndex].maxLevel;
-            max = wildPokemon[wildMonIndex].minLevel;
-        }
-        range = max - min + 1;
-        rand = Random() % range;
+    // Ensure wildMonLevel is between (level - 3) and (level - 1)
+    wildMonLevel = level - (Random() % 3 + 1); // Randomly subtract 1, 2, or 3
 
-        // check ability for max level mon
-        if (!GetMonData(&gPlayerParty[0], MON_DATA_SANITY_IS_EGG))
-        {
-            u16 ability = GetMonAbility(&gPlayerParty[0]);
-            if (ability == ABILITY_HUSTLE || ability == ABILITY_VITAL_SPIRIT || ability == ABILITY_PRESSURE)
-            {
-                if (Random() % 2 == 0)
-                    return max;
+    // Ensure the level does not go below 1
+    if (wildMonLevel < 1)
+        wildMonLevel = 1;
 
-                if (rand != 0)
-                    rand--;
-            }
-        }
-        return min + rand;
-    }
-    else
-    {
-        // Looks for the max level of all slots that share the same species as the selected slot.
-        max = GetMaxLevelOfSpeciesInWildTable(wildPokemon, wildPokemon[wildMonIndex].species, area);
-        if (max > 0)
-            return max + 1;
-        else // Failsafe
-            return wildPokemon[wildMonIndex].maxLevel + 1;
-    }
+    return wildMonLevel;
 }
 
 static u16 GetCurrentMapWildMonHeaderId(void)
