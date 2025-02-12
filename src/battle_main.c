@@ -832,6 +832,7 @@ static void CB2_HandleStartBattle(void)
     RunTasks();
     AnimateSprites();
     BuildOamBuffer();
+    HealPlayerParty();
 
     playerMultiplayerId = GetMultiplayerId();
     gBattleScripting.multiplayerId = playerMultiplayerId;
@@ -1039,6 +1040,7 @@ static void CB2_HandleStartMultiPartnerBattle(void)
     RunTasks();
     AnimateSprites();
     BuildOamBuffer();
+    HealPlayerParty();
 
     playerMultiplayerId = GetMultiplayerId();
     gBattleScripting.multiplayerId = playerMultiplayerId;
@@ -1446,6 +1448,7 @@ static void CB2_HandleStartMultiBattle(void)
     RunTasks();
     AnimateSprites();
     BuildOamBuffer();
+    HealPlayerParty();
 
     switch (gBattleCommunication[MULTIUSE_STATE])
     {
