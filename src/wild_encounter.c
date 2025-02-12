@@ -300,7 +300,7 @@ static u8 ChooseWildMonIndex_Fishing(u8 rod)
     return wildMonIndex;
 }
 
-static u8 ChooseWildMonLevel(struct WildPokemon *wildPokemon, u8 wildMonIndex, u8 area)
+static u8 ChooseWildMonLevel(const struct WildPokemon *wildPokemon, u8 wildMonIndex, enum WildArea area)
 {
     u8 level = GetHighestLevelInPlayerParty(); // Get highest level in the party
     u8 wildMonLevel;
