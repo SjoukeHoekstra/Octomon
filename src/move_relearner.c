@@ -636,7 +636,7 @@ static void DoMoveRelearnerMain(void)
                 }
                 sMoveRelearnerStruct->state = MENU_STATE_PRINT_TRYING_TO_LEARN_PROMPT;
             }
-            else if (var == MENU_B_PRESSED || var == 1)
+            else if (selection == MENU_B_PRESSED || selection == 1)
             {
                 sMoveRelearnerStruct->state = MENU_STATE_CHOOSE_SETUP_STATE;
             }
