@@ -1981,13 +1981,11 @@ u8 CreateNPCTrainerPartyFromTrainer(struct Pokemon *party, const struct Trainer 
             u8 reallevel = 0;
             u8 fixedLVL = 0;
 
-            {
-                min = fixedLVL-1;
-                max = fixedLVL+0;
-                    range = max - min + 1;
-                    rand = Random() % range;
-            }
-
+            min = fixedLVL-1;
+            max = fixedLVL+0;
+                range = max - min + 1;
+                rand = Random() % range;
+            
             if (min <=0)
                 min=1;
             reallevel = min + rand;
