@@ -325,9 +325,9 @@ static u8 ChooseWildMonLevel(const struct WildPokemon *wildPokemon, u8 wildMonIn
         }
     
         // Make sure minimum level is less than maximum level
-        {
-            min = fixedLVL+9;
-            max = fixedLVL+10;
+        { 
+            min = fixedLVL-3;
+            max = fixedLVL-1;
         }
         if (min <= 0)
             min = 1;
