@@ -300,31 +300,19 @@ static u8 ChooseWildMonIndex_Fishing(u8 rod)
     return wildMonIndex;
 }
 
-static u8 ChooseWildMonLevel(void)
+static u8 ChooseWildMonLevel(struct WildPokemon *wildPokemon, u8 wildMonIndex, u8 area)
 {
-    u8 min = 2;
-    u8 range = 2;
-    u8 rand;
-    u8 curveAmount;
+    u8 level = GetHighestLevelInPlayerParty(); // Get highest level in the party
     u8 wildMonLevel;
-    u8 level = GetHighestLevelInPlayerParty();
-    // u8 levelCap = GetCurrentLevelCap();
 
-    curveAmount = (((Random() % 4) + range) * level) / 5;
+    // Ensure wildMonLevel is between (level - 3) and (level - 1)
+    wildMonLevel = level - (Random() % 3 + 1); // Randomly subtract 1, 2, or 3
 
-    if (range < (curveAmount * 3) && (range != 0))
-        range = curveAmount / 3;
+    // Ensure the level does not go below 1
+    if (wildMonLevel < 1)
+        wildMonLevel = 1;
 
-    rand = (Random() % range) + min;
-
-    wildMonLevel = (rand + curveAmount);
-
-    if (wildMonLevel >= level)
-        return level - 1;
-    /* else if (wildMonLevel >= levelCap)
-        return levelCap - 1;*/
-    else
-        return wildMonLevel;
+    return wildMonLevel;
 }
 
 static u16 GetCurrentMapWildMonHeaderId(void)
