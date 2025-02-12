@@ -302,17 +302,29 @@ static u8 ChooseWildMonIndex_Fishing(u8 rod)
 
 static u8 ChooseWildMonLevel(void)
 {
-    u8 level = GetHighestLevelInPlayerParty(); // Get highest level in the party
+    u8 min = 2;
+    u8 range = 2;
+    u8 rand;
+    u8 curveAmount;
     u8 wildMonLevel;
+    u8 level = GetHighestLevelInPlayerParty();
+    // u8 levelCap = GetCurrentLevelCap();
 
-    // Ensure wildMonLevel is between (level - 3) and (level - 1)
-    wildMonLevel = level - (Random() % 3 + 1); // Randomly subtract 1, 2, or 3
+    curveAmount = (((Random() % 4) + range) * level) / 5;
 
-    // Ensure the level does not go below 1
-    if (wildMonLevel < 1)
-        wildMonLevel = 1;
+    if (range < (curveAmount * 3) && (range != 0))
+        range = curveAmount / 3;
 
-    return wildMonLevel;
+    rand = (Random() % range) + min;
+
+    wildMonLevel = (rand + curveAmount);
+
+    if (wildMonLevel >= level)
+        return level - 1;
+    /* else if (wildMonLevel >= levelCap)
+        return levelCap - 1;*/
+    else
+        return wildMonLevel;
 }
 
 static u16 GetCurrentMapWildMonHeaderId(void)
