@@ -2087,6 +2087,7 @@ static u8 CreateNPCTrainerParty(struct Pokemon *party, u16 trainerNum, bool8 fir
 					else if ((GetMonData(&gPlayerParty[1], MON_DATA_SPECIES) == SPECIES_NONE) && (GetMonData(&gPlayerParty[0], MON_DATA_SPECIES) != SPECIES_NONE))
 						fixedLVL = GetMonData(&gPlayerParty[0], MON_DATA_LEVEL);
 	}
+    
     u8 retVal;
     if (trainerNum == TRAINER_SECRET_BASE)
         return 0;
