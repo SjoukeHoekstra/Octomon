@@ -302,16 +302,9 @@ static u8 ChooseWildMonIndex_Fishing(u8 rod)
 
 static u8 ChooseWildMonLevel(const struct WildPokemon *wildPokemon, u8 wildMonIndex, enum WildArea area)
 {
-    u8 level = GetHighestLevelInPlayerParty(); // Get highest level in the party
+    u8 level = GetHighestLevelInPlayerParty();
     u8 wildMonLevel;
-
-    // Ensure wildMonLevel is between (level - 3) and (level - 1)
-    wildMonLevel = level - (Random() % 3 + 1); // Randomly subtract 1, 2, or 3
-
-    // Ensure the level does not go below 1
-    if (wildMonLevel < 1)
-        wildMonLevel = 1;
-
+    wildMonLevel = std::max(1, level - 3);
     return wildMonLevel;
 }
 
