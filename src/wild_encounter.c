@@ -305,8 +305,8 @@ static u8 ChooseWildMonLevel(const struct WildPokemon *wildPokemon, u8 wildMonIn
     u8 level = GetHighestLevelInPlayerParty(); // Get highest level in the party
     u8 wildMonLevel;
 
-    // Ensure wildMonLevel is between (level - 3) and (level - 1)
-    wildMonLevel = level - 3; // Randomly subtract 1, 2, or 3
+    // Ensure wildMonLevel is between Highest lvl -3
+    wildMonLevel = level - 3;
 
     // Ensure the level does not go below 1
     if (wildMonLevel < 1)
