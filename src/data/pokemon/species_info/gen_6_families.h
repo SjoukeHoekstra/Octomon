@@ -5988,7 +5988,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         FOOTPRINT(Diancie)
     #if OW_BATTLE_ONLY_FORMS
         OVERWORLD(
-            gObjectEventPic_DiancieMega,
+            sPicTable_DiancieMega,
             SIZE_32x32,
             SHADOW_SIZE_M,
             TRACKS_FOOT,

@@ -6501,7 +6501,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         FOOTPRINT(Necrozma)
     #if OW_BATTLE_ONLY_FORMS
         OVERWORLD(
-            gObjectEventPic_NecrozmaUltra,
+            sPicTable_NecrozmaUltra,
             SIZE_32x32,
             SHADOW_SIZE_M,
             TRACKS_FOOT,

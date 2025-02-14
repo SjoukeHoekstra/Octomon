@@ -2584,7 +2584,7 @@ const struct SpeciesInfo gSpeciesInfoGen5[] =
         FOOTPRINT(Audino)
     #if OW_BATTLE_ONLY_FORMS
         OVERWORLD(
-            gObjectEventPic_AudinoMega,
+            sPicTable_AudinoMega,
             SIZE_32x32,
             SHADOW_SIZE_M,
             TRACKS_FOOT,
