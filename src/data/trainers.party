@@ -6530,6 +6530,7 @@ Music: Elite Four
 Double Battle:No
 AI: Smart Trainer
 Mugshot: Purple
+
 Corsola
 IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe
 EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
@@ -6559,6 +6560,7 @@ Music: Elite Four
 Double Battle:No
 AI: Smart Trainer
 Mugshot: Green
+
 Corsola
 IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe
 EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
@@ -6588,6 +6590,7 @@ Music: Elite Four
 Double Battle:No
 AI: Smart Trainer
 Mugshot: Pink
+
 Dunsparce
 IVs: 23 HP / 23 Atk / 23 Def / 23 SpA / 23 SpD / 23 Spe
 EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
@@ -6617,6 +6620,7 @@ Music: Elite Four
 Double Battle:No
 AI: Smart Trainer
 Mugshot: Blue
+
 Dugtrio
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
@@ -8364,6 +8368,7 @@ Music: Male
 Double Battle:No
 AI: Smart Trainer
 Mugshot: Yellow
+
 Arbok
 IVs: 26 HP / 26 Atk / 26 Def / 26 SpA / 26 SpD / 26 Spe
 EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
@@ -21218,4 +21223,5 @@ Double Battle: No
 Kyogre
 Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 
