@@ -1881,6 +1881,7 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         .teachableLearnset = sAmpharosTeachableLearnset,
         .formSpeciesIdTable = sAmpharosFormSpeciesIdTable,
         .formChangeTable = sAmpharosFormChangeTable,
+        .evolutions = EVOLUTION({EVO_LEVEL, 36, SPECIES_AMPHAROS_MEGA}),
     },
 
 #if P_MEGA_EVOLUTIONS
@@ -4815,6 +4816,7 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         .eggMoveLearnset = sHeracrossEggMoveLearnset,
         .formSpeciesIdTable = sHeracrossFormSpeciesIdTable,
         .formChangeTable = sHeracrossFormChangeTable,
+        .evolutions = EVOLUTION({EVO_LEVEL, 36, SPECIES_HERACROSS_MEGA}),
     },
 
 #if P_MEGA_EVOLUTIONS
@@ -6559,6 +6561,7 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         .teachableLearnset = sHoundoomTeachableLearnset,
         .formSpeciesIdTable = sHoundoomFormSpeciesIdTable,
         .formChangeTable = sHoundoomFormChangeTable,
+        .evolutions = EVOLUTION({EVO_LEVEL, 36, SPECIES_HOUNDOOM_MEGA}),
     },
 
 #if P_MEGA_EVOLUTIONS
@@ -7452,6 +7455,7 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         .teachableLearnset = sTyranitarTeachableLearnset,
         .formSpeciesIdTable = sTyranitarFormSpeciesIdTable,
         .formChangeTable = sTyranitarFormChangeTable,
+        .evolutions = EVOLUTION({EVO_LEVEL, 36, SPECIES_TYRANITAR_MEGA}),
     },
 
 #if P_MEGA_EVOLUTIONS

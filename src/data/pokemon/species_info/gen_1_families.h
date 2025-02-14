@@ -210,6 +210,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .teachableLearnset = sVenusaurTeachableLearnset,
         .formSpeciesIdTable = sVenusaurFormSpeciesIdTable,
         .formChangeTable = sVenusaurFormChangeTable,
+        .evolutions = EVOLUTION({EVO_LEVEL, 21, SPECIES_VENUSAUR_MEGA}),
     },
 
 #if P_MEGA_EVOLUTIONS
@@ -524,6 +525,8 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .teachableLearnset = sCharizardTeachableLearnset,
         .formSpeciesIdTable = sCharizardFormSpeciesIdTable,
         .formChangeTable = sCharizardFormChangeTable,
+        .evolutions = EVOLUTION({EVO_LEVEL_SILCOON, 33, SPECIES_CHARIZARD_MEGA_X},
+                                {EVO_LEVEL_CASCOON, 33, SPECIES_CHARIZARD_MEGA_Y}),
     },
 
 #if P_MEGA_EVOLUTIONS
@@ -893,6 +896,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .teachableLearnset = sBlastoiseTeachableLearnset,
         .formSpeciesIdTable = sBlastoiseFormSpeciesIdTable,
         .formChangeTable = sBlastoiseFormChangeTable,
+        .evolutions = EVOLUTION({EVO_LEVEL, 36, SPECIES_BLASTOISE_MEGA}),
     },
 
 #if P_MEGA_EVOLUTIONS
@@ -1492,6 +1496,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .teachableLearnset = sBeedrillTeachableLearnset,
         .formSpeciesIdTable = sBeedrillFormSpeciesIdTable,
         .formChangeTable = sBeedrillFormChangeTable,
+        .evolutions = EVOLUTION({EVO_LEVEL, 36, SPECIES_BEEDRILL_MEGA}),
     },
 
 #if P_MEGA_EVOLUTIONS
@@ -1768,6 +1773,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .teachableLearnset = sPidgeotTeachableLearnset,
         .formSpeciesIdTable = sPidgeotFormSpeciesIdTable,
         .formChangeTable = sPidgeotFormChangeTable,
+        .evolutions = EVOLUTION({EVO_LEVEL, 27, SPECIES_PIDGEOT_MEGA}),
     },
 
 #if P_MEGA_EVOLUTIONS
@@ -7707,6 +7713,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .teachableLearnset = sAlakazamTeachableLearnset,
         .formSpeciesIdTable = sAlakazamFormSpeciesIdTable,
         .formChangeTable = sAlakazamFormChangeTable,
+        .evolutions = EVOLUTION({EVO_LEVEL, 27, SPECIES_ALAKAZAM_MEGA}),
     },
 
 #if P_MEGA_EVOLUTIONS
@@ -9180,6 +9187,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .teachableLearnset = sSlowbroTeachableLearnset,
         .formSpeciesIdTable = sSlowbroFormSpeciesIdTable,
         .formChangeTable = sSlowbroFormChangeTable,
+        .evolutions = EVOLUTION({EVO_LEVEL, 27, SPECIES_SLOWBRO_MEGA}),
     },
 
 #if P_GEN_2_CROSS_EVOS
@@ -10812,6 +10820,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .teachableLearnset = sGengarTeachableLearnset,
         .formSpeciesIdTable = sGengarFormSpeciesIdTable,
         .formChangeTable = sGengarFormChangeTable,
+        .evolutions = EVOLUTION({EVO_LEVEL, 27, SPECIES_GENGAR_MEGA}),
     },
 
 #if P_MEGA_EVOLUTIONS
@@ -11071,6 +11080,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .teachableLearnset = sSteelixTeachableLearnset,
         .formSpeciesIdTable = sSteelixFormSpeciesIdTable,
         .formChangeTable = sSteelixFormChangeTable,
+        .evolutions = EVOLUTION({EVO_LEVEL, 27, SPECIES_STEELIX_MEGA}),
     },
 
 #if P_MEGA_EVOLUTIONS
@@ -13439,6 +13449,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .eggMoveLearnset = sKangaskhanEggMoveLearnset,
         .formSpeciesIdTable = sKangaskhanFormSpeciesIdTable,
         .formChangeTable = sKangaskhanFormChangeTable,
+        .evolutions = EVOLUTION({EVO_LEVEL, 36, SPECIES_KANGASKHAN_MEGA}),
     },
 
 #if P_MEGA_EVOLUTIONS
@@ -14424,6 +14435,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .teachableLearnset = sScizorTeachableLearnset,
         .formSpeciesIdTable = sScizorFormSpeciesIdTable,
         .formChangeTable = sScizorFormChangeTable,
+        .evolutions = EVOLUTION({EVO_LEVEL, 36, SPECIES_SCIZOR_MEGA}),
     },
 
 #if P_MEGA_EVOLUTIONS
@@ -15159,6 +15171,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .eggMoveLearnset = sPinsirEggMoveLearnset,
         .formSpeciesIdTable = sPinsirFormSpeciesIdTable,
         .formChangeTable = sPinsirFormChangeTable,
+        .evolutions = EVOLUTION({EVO_LEVEL, 36, SPECIES_PINSIR_MEGA}),
     },
 
 #if P_MEGA_EVOLUTIONS
@@ -15635,6 +15648,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .teachableLearnset = sGyaradosTeachableLearnset,
         .formSpeciesIdTable = sGyaradosFormSpeciesIdTable,
         .formChangeTable = sGyaradosFormChangeTable,
+        .evolutions = EVOLUTION({EVO_LEVEL, 36, SPECIES_GYARADOS_MEGA}),
     },
 
 #if P_MEGA_EVOLUTIONS
@@ -17145,6 +17159,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .eggMoveLearnset = sAerodactylEggMoveLearnset,
         .formSpeciesIdTable = sAerodactylFormSpeciesIdTable,
         .formChangeTable = sAerodactylFormChangeTable,
+        .evolutions = EVOLUTION({EVO_LEVEL, 36, SPECIES_AERODACTYL_MEGA}),
     },
 
 #if P_MEGA_EVOLUTIONS
@@ -18097,6 +18112,8 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .teachableLearnset = sMewtwoTeachableLearnset,
         .formSpeciesIdTable = sMewtwoFormSpeciesIdTable,
         .formChangeTable = sMewtwoFormChangeTable,
+        .evolutions = EVOLUTION({EVO_LEVEL_SILCOON, 36, SPECIES_MEWTWO_MEGA_X},
+                                {EVO_LEVEL_CASCOON, 36, SPECIES_MEWTWO_MEGA_Y}),
     },
 
 #if P_MEGA_EVOLUTIONS
