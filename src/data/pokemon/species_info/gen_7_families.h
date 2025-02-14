@@ -6499,7 +6499,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .iconPalIndex = 2,
         SHADOW(-1, 16, SHADOW_SIZE_L)
         FOOTPRINT(Necrozma)
-        #if OW_BATTLE_ONLY_FORMS
+    #if OW_BATTLE_ONLY_FORMS
         OVERWORLD(
             gObjectEventPic_NecrozmaUltra,
             SIZE_32x32,
@@ -6509,7 +6509,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
             gOverworldPalette_NecrozmaUltra,
             gShinyOverworldPalette_NecrozmaUltra
         )
-        #endif //OW_BATTLE_ONLY_FORMS
+    #endif //OW_BATTLE_ONLY_FORMS
         .isLegendary = TRUE,
         .isUltraBurst = TRUE,
         .cannotBeTraded = TRUE,
