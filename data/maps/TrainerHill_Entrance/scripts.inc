@@ -256,10 +256,7 @@ TrainerHill_Entrance_EventScript_Clerk::
 
 	.align 2
 TrainerHill_Entrance_Pokemart_Basic:
-	.2byte ITEM_RARE_CANDY
-	.2byte ITEM_MAX_REPEL
-	.2byte ITEM_FULL_RESTORE
-	.2byte ITEM_MAX_ELIXIR
+	.2byte ITEM_NONE
 	pokemartlistend
 
 TrainerHill_Entrance_EventScript_ExpandedPokemart::
@@ -270,10 +267,7 @@ TrainerHill_Entrance_EventScript_ExpandedPokemart::
 
 	.align 2
 TrainerHill_Entrance_Pokemart_Expanded:
-	.2byte ITEM_RARE_CANDY
-	.2byte ITEM_MAX_REPEL
-	.2byte ITEM_FULL_RESTORE
-	.2byte ITEM_MAX_ELIXIR
+	.2byte ITEM_NONE
 	pokemartlistend
 
 TrainerHill_Entrance_Text_StillGettingReady:

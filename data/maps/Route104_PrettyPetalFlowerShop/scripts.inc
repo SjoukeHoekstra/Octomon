@@ -53,10 +53,7 @@ Route104_PrettyPetalFlowerShop_EventScript_SellDecorations::
 
 	.align 2
 Route104_PrettyPetalFlowerShop_Pokemart_Plants:
-	.2byte ITEM_RARE_CANDY
-	.2byte ITEM_MAX_REPEL
-	.2byte ITEM_FULL_RESTORE
-	.2byte ITEM_MAX_ELIXIR
+	.2byte ITEM_NONE
 	pokemartlistend
 
 Route104_PrettyPetalFlowerShop_EventScript_WailmerPailGirl::

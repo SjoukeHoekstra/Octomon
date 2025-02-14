@@ -10,7 +10,7 @@ static const u16 sRandomizerItemWhitelist[] =
     //ITEM_POKE_BALL,
     //ITEM_GREAT_BALL,
     //ITEM_ULTRA_BALL,
-    //ITEM_MASTER_BALL,
+    ITEM_MASTER_BALL,
     //ITEM_PREMIER_BALL,
     //ITEM_HEAL_BALL,
     //ITEM_NET_BALL,

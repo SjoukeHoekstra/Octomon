@@ -25,10 +25,7 @@ LilycoveCity_DepartmentStore_4F_EventScript_ClerkLeft::
 
 	.align 2
 LilycoveCity_DepartmentStore_4F_Pokemart_AttackTMs:
-	.2byte ITEM_RARE_CANDY
-	.2byte ITEM_MAX_REPEL
-	.2byte ITEM_FULL_RESTORE
-	.2byte ITEM_MAX_ELIXIR
+	.2byte ITEM_NONE
 	pokemartlistend
 
 LilycoveCity_DepartmentStore_4F_EventScript_ClerkRight::
@@ -43,10 +40,7 @@ LilycoveCity_DepartmentStore_4F_EventScript_ClerkRight::
 
 	.align 2
 LilycoveCity_DepartmentStore_4F_Pokemart_DefenseTMs:
-	.2byte ITEM_RARE_CANDY
-	.2byte ITEM_MAX_REPEL
-	.2byte ITEM_FULL_RESTORE
-	.2byte ITEM_MAX_ELIXIR
+	.2byte ITEM_NONE
 	pokemartlistend
 
 LilycoveCity_DepartmentStore_4F_Text_AttackOrDefenseTM:

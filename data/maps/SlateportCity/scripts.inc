@@ -148,10 +148,7 @@ SlateportCity_EventScript_EnergyGuru::
 
 	.align 2
 SlateportCity_Pokemart_EnergyGuru:
-	.2byte ITEM_RARE_CANDY
-	.2byte ITEM_MAX_REPEL
-	.2byte ITEM_FULL_RESTORE
-	.2byte ITEM_MAX_ELIXIR
+	.2byte ITEM_NONE
 	pokemartlistend
 
 SlateportCity_EventScript_EffortRibbonWoman::
@@ -507,10 +504,7 @@ SlateportCity_EventScript_DollClerk::
 
 	.align 2
 SlateportCity_PokemartDecor_Dolls:
-	.2byte ITEM_RARE_CANDY
-	.2byte ITEM_MAX_REPEL
-	.2byte ITEM_FULL_RESTORE
-	.2byte ITEM_MAX_ELIXIR
+	.2byte ITEM_NONE
 	pokemartlistend
 
 SlateportCity_EventScript_ComeBackWithSecretPower::
@@ -531,10 +525,7 @@ SlateportCity_EventScript_DecorClerk::
 
 	.align 2
 SlateportCity_PokemartDecor:
-	.2byte ITEM_RARE_CANDY
-	.2byte ITEM_MAX_REPEL
-	.2byte ITEM_FULL_RESTORE
-	.2byte ITEM_MAX_ELIXIR
+	.2byte ITEM_NONE
 	pokemartlistend
 
 SlateportCity_EventScript_PowerTMClerk::
@@ -549,10 +540,7 @@ SlateportCity_EventScript_PowerTMClerk::
 
 	.align 2
 SlateportCity_Pokemart_PowerTMs:
-	.2byte ITEM_RARE_CANDY
-	.2byte ITEM_MAX_REPEL
-	.2byte ITEM_FULL_RESTORE
-	.2byte ITEM_MAX_ELIXIR
+	.2byte ITEM_NONE
 	pokemartlistend
 
 @ Scene with Capt Sterns interview and Team Aqua announcing plans to steal Submarine

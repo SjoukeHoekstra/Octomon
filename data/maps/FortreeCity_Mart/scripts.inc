@@ -15,10 +15,6 @@ FortreeCity_Mart_EventScript_Clerk::
 FortreeCity_Mart_Pokemart:
 	.2byte ITEM_GREAT_BALL
 	.2byte ITEM_ULTRA_BALL
-	.2byte ITEM_RARE_CANDY
-	.2byte ITEM_MAX_REPEL
-	.2byte ITEM_FULL_RESTORE
-	.2byte ITEM_MAX_ELIXIR
 	pokemartlistend
 
 FortreeCity_Mart_EventScript_Woman::

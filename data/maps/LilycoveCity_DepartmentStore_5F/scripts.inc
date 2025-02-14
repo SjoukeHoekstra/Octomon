@@ -29,8 +29,7 @@ LilycoveCity_DepartmentStore_5F_EventScript_ClerkFarLeft::
 
 	.align 2
 LilycoveCity_DepartmentStore_5F_Pokemart_Dolls:
-	.2byte ITEM_RARE_CANDY
-	.2byte ITEM_MAX_REPEL
+	.2byte ITEM_NONE
 	pokemartlistend
 
 LilycoveCity_DepartmentStore_5F_EventScript_ClerkMidLeft::
@@ -45,8 +44,7 @@ LilycoveCity_DepartmentStore_5F_EventScript_ClerkMidLeft::
 
 	.align 2
 LilycoveCity_DepartmentStore_5F_Pokemart_Cushions:
-	.2byte ITEM_RARE_CANDY
-	.2byte ITEM_MAX_REPEL
+	.2byte ITEM_NONE
 	pokemartlistend
 
 LilycoveCity_DepartmentStore_5F_EventScript_ClerkMidRight::
@@ -61,8 +59,7 @@ LilycoveCity_DepartmentStore_5F_EventScript_ClerkMidRight::
 
 	.align 2
 LilycoveCity_DepartmentStore_5F_Pokemart_Posters:
-	.2byte ITEM_RARE_CANDY
-	.2byte ITEM_MAX_REPEL
+	.2byte ITEM_NONE
 	pokemartlistend
 
 LilycoveCity_DepartmentStore_5F_EventScript_ClerkFarRight::
@@ -77,8 +74,7 @@ LilycoveCity_DepartmentStore_5F_EventScript_ClerkFarRight::
 
 	.align 2
 LilycoveCity_DepartmentStore_5F_Pokemart_Mats:
-	.2byte ITEM_RARE_CANDY
-	.2byte ITEM_MAX_REPEL
+	.2byte ITEM_NONE
 	pokemartlistend
 
 LilycoveCity_DepartmentStore_5F_EventScript_PokefanF::
