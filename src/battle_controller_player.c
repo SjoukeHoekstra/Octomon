@@ -400,16 +400,16 @@ static void HandleInputChooseAction(u32 battler)
             {
                 PlaySE(SE_SELECT);
                 // Auto jump to run option
-                switch (gActionSelectionCursor[gActiveBattler])
+                switch (gActionSelectionCursor[battler])
                 {
                     case 3: // Bottom right
                         BtlController_EmitTwoReturnValues(BUFFER_B, B_ACTION_RUN, 0);
                         PlayerBufferExecCompleted();
                         break;
                     default: // Bottom left
-                        ActionSelectionDestroyCursorAt(gActionSelectionCursor[gActiveBattler]);
-                        gActionSelectionCursor[gActiveBattler] = 3;
-                        ActionSelectionCreateCursorAt(gActionSelectionCursor[gActiveBattler], 0);
+                        ActionSelectionDestroyCursorAt(gActionSelectionCursor[battler]);
+                        gActionSelectionCursor[battler] = 3;
+                        ActionSelectionCreateCursorAt(gActionSelectionCursor[battler], 0);
                         break;
                 }
             }
