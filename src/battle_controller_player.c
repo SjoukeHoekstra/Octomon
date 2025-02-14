@@ -403,7 +403,7 @@ static void HandleInputChooseAction(u32 battler)
                 switch (gActionSelectionCursor[battler])
                 {
                     case 3: // Bottom right
-                        BtlController_EmitTwoReturnValues(BUFFER_B, B_ACTION_RUN, 0);
+                        BtlController_EmitTwoReturnValues(battler, BUFFER_B, B_ACTION_RUN, 0);
                         PlayerBufferExecCompleted();
                         break;
                     default: // Bottom left
