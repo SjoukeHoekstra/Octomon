@@ -637,9 +637,9 @@ static void DoMoveRelearnerMain(void)
                 sMoveRelearnerStruct->state = MENU_STATE_PRINT_TRYING_TO_LEARN_PROMPT;
             }
             else if (selection == MENU_B_PRESSED || selection == 1)
-+           {
-+           sMoveRelearnerStruct->state = MENU_STATE_CHOOSE_SETUP_STATE;
-+           }
+            {
+            sMoveRelearnerStruct->state = MENU_STATE_CHOOSE_SETUP_STATE;
+            }
         }
         break;
     case MENU_STATE_CHOOSE_SETUP_STATE:
