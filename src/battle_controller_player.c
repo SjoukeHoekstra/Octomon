@@ -312,6 +312,16 @@ static void HandleInputChooseAction(u32 battler)
                 BtlController_EmitTwoReturnValues(battler, BUFFER_B, B_ACTION_THROW_BALL, 0);
                 PlayerBufferExecCompleted(battler);
             }
+            else
+            {
+                if(!(gBattleTypeFlags & BATTLE_TYPE_TRAINER)) //if wild, pressing B moves cursor to run
+                {
+                    PlaySE(SE_SELECT);
+                    ActionSelectionDestroyCursorAt(gActionSelectionCursor[gActiveBattler]);
+                    gActionSelectionCursor[gActiveBattler] = 3;
+                    ActionSelectionCreateCursorAt(gActionSelectionCursor[gActiveBattler], 0);
+                }
+            }
             return;
         }
     }
