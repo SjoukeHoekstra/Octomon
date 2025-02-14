@@ -121,6 +121,7 @@ LittlerootTown_ProfessorBirchsLab_EventScript_GiveStarterEvent::
 	msgbox LittlerootTown_ProfessorBirchsLab_Text_WhyNotGiveNicknameToMon, MSGBOX_YESNO
 	goto_if_eq VAR_RESULT, YES, LittlerootTown_ProfessorBirchsLab_EventScript_NicknameStarter
 	goto_if_eq VAR_RESULT, NO, LittlerootTown_ProfessorBirchsLab_EventScript_GoSeeRival
+	setflag	FLAG_DISABLE_BAG
 	end
 
 LittlerootTown_ProfessorBirchsLab_EventScript_NicknameStarter::
