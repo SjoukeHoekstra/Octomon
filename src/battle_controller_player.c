@@ -404,7 +404,7 @@ static void HandleInputChooseAction(u32 battler)
                 {
                     case 3: // Bottom right
                         BtlController_EmitTwoReturnValues(battler, BUFFER_B, B_ACTION_RUN, 0);
-                        PlayerBufferExecCompleted();
+                        PlayerBufferExecCompleted(battler);
                         break;
                     default: // Bottom left
                         ActionSelectionDestroyCursorAt(gActionSelectionCursor[battler]);
