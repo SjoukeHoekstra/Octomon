@@ -479,7 +479,6 @@ Route110_EventScript_RivalExit::
 	call_if_eq VAR_0x8008, 1, Route110_EventScript_RivalExit1
 	call_if_eq VAR_0x8008, 2, Route110_EventScript_RivalExit2
 	call_if_eq VAR_0x8008, 3, Route110_EventScript_RivalExit3
-	setflag FLAG_RIVAL_110_DEFEATED
 	removeobject LOCALID_RIVAL_ON_BIKE
 	setvar VAR_ROUTE110_STATE, 1
 	savebgm MUS_DUMMY
