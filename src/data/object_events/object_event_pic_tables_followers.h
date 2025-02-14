@@ -19,7 +19,7 @@ static const struct SpriteFrameImage sPicTable_VenusaurF[] = {
 };
 #endif //P_GENDER_DIFFERENCES
 #if P_MEGA_EVOLUTIONS
-/static const struct SpriteFrameImage sPicTable_VenusaurMega[] = {
+static const struct SpriteFrameImage sPicTable_VenusaurMega[] = {
     overworld_ascending_frames(gObjectEventPic_VenusaurMega, 4, 4),
 };
 #endif //P_MEGA_EVOLUTIONS
