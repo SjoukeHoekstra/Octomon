@@ -87,7 +87,7 @@ Class: Hiker
 Pic: Hiker
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Rattata
@@ -108,7 +108,7 @@ Class: Team Aqua
 Pic: Aqua Grunt M
 Gender: Male
 Music: Aqua
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nincada
@@ -133,7 +133,7 @@ Class: Team Aqua
 Pic: Aqua Grunt M
 Gender: Male
 Music: Aqua
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Chingling
@@ -158,7 +158,7 @@ Class: Team Aqua
 Pic: Aqua Grunt M
 Gender: Male
 Music: Aqua
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Surskit
@@ -183,7 +183,7 @@ Class: Team Aqua
 Pic: Aqua Grunt M
 Gender: Male
 Music: Aqua
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nidoran♀
@@ -208,7 +208,7 @@ Class: Team Aqua
 Pic: Aqua Grunt M
 Gender: Male
 Music: Aqua
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nidoran♂
@@ -233,7 +233,7 @@ Class: Team Aqua
 Pic: Aqua Grunt M
 Gender: Male
 Music: Aqua
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Budew
@@ -258,7 +258,7 @@ Class: Team Aqua
 Pic: Aqua Grunt M
 Gender: Female
 Music: Aqua
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nidoran♀
@@ -283,7 +283,7 @@ Class: Pkmn Breeder
 Pic: Pokemon Breeder F
 Gender: Male
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Koffing
@@ -308,7 +308,7 @@ Class: Team Aqua
 Pic: Aqua Grunt M
 Gender: Male
 Music: Aqua
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Happiny
@@ -329,7 +329,7 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Squirtle
@@ -354,7 +354,7 @@ Class: Bird Keeper
 Pic: Bird Keeper
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Carvanha
@@ -379,7 +379,7 @@ Class: Collector
 Pic: Collector
 Gender: Female
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Carvanha
@@ -404,7 +404,7 @@ Class: Team Aqua
 Pic: Aqua Grunt F
 Gender: Male
 Music: Aqua
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Budew
@@ -429,7 +429,7 @@ Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Carvanha
@@ -454,7 +454,7 @@ Class: Team Aqua
 Pic: Aqua Grunt M
 Gender: Male
 Music: Aqua
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Happiny
@@ -475,7 +475,7 @@ Class: Team Aqua
 Pic: Aqua Grunt M
 Gender: Male
 Music: Aqua
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nidoran♀
@@ -500,7 +500,7 @@ Class: Team Aqua
 Pic: Aqua Grunt M
 Gender: Male
 Music: Aqua
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Kirlia
@@ -525,7 +525,7 @@ Class: Team Aqua
 Pic: Aqua Grunt M
 Gender: Male
 Music: Aqua
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bonsly
@@ -550,7 +550,7 @@ Class: Team Aqua
 Pic: Aqua Grunt M
 Gender: Male
 Music: Aqua
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Whismur
@@ -571,7 +571,7 @@ Class: Team Aqua
 Pic: Aqua Grunt M
 Gender: Male
 Music: Aqua
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Rattata
@@ -592,7 +592,7 @@ Class: Team Magma
 Pic: Magma Grunt M
 Gender: Male
 Music: Magma
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nidoran♀
@@ -617,7 +617,7 @@ Class: Team Aqua
 Pic: Aqua Grunt M
 Gender: Male
 Music: Aqua
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Surskit
@@ -642,7 +642,7 @@ Class: Team Aqua
 Pic: Aqua Grunt M
 Gender: Male
 Music: Aqua
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nidoran♀
@@ -667,7 +667,7 @@ Class: Team Aqua
 Pic: Aqua Grunt M
 Gender: Female
 Music: Aqua
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Chingling
@@ -692,7 +692,7 @@ Class: Team Aqua
 Pic: Aqua Grunt F
 Gender: Female
 Music: Aqua
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nincada
@@ -717,7 +717,7 @@ Class: Team Aqua
 Pic: Aqua Grunt F
 Gender: Female
 Music: Aqua
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nidoran♀
@@ -742,7 +742,7 @@ Class: Team Aqua
 Pic: Aqua Grunt F
 Gender: Male
 Music: Aqua
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Surskit
@@ -767,7 +767,7 @@ Class: Expert
 Pic: Expert M
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Vulpix
@@ -792,7 +792,7 @@ Class: Aqua Admin
 Pic: Aqua Admin M
 Gender: Male
 Music: Aqua
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Squirtle
@@ -817,7 +817,7 @@ Class: Black Belt
 Pic: Black Belt
 Gender: Female
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bonsly
@@ -842,7 +842,7 @@ Class: Aqua Admin
 Pic: Aqua Admin F
 Gender: Female
 Music: Aqua
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -867,7 +867,7 @@ Class: Aqua Admin
 Pic: Aqua Admin F
 Gender: Male
 Music: Aqua
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Clefairy
@@ -892,7 +892,7 @@ Class: Aqua Leader
 Pic: Aqua Leader Archie
 Gender: Female
 Music: Aqua
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Anorith
@@ -921,7 +921,7 @@ Class: Hex Maniac
 Pic: Hex Maniac
 Gender: Female
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nidoran♀
@@ -946,7 +946,7 @@ Class: Aroma Lady
 Pic: Aroma Lady
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Hoothoot
@@ -971,7 +971,7 @@ Class: Aroma Lady
 Pic: Aroma Lady
 Gender: Male
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Budew
@@ -996,7 +996,7 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Female
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Drowzee
@@ -1021,7 +1021,7 @@ Class: Aroma Lady
 Pic: Aroma Lady
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bonsly
@@ -1046,7 +1046,7 @@ Class: Aroma Lady
 Pic: Aroma Lady
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Chingling
@@ -1071,7 +1071,7 @@ Class: Aroma Lady
 Pic: Aroma Lady
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Charmander
@@ -1096,7 +1096,7 @@ Class: Aroma Lady
 Pic: Aroma Lady
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Slowpoke
@@ -1121,7 +1121,7 @@ Class: Aroma Lady
 Pic: Aroma Lady
 Gender: Male
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Drowzee
@@ -1146,7 +1146,7 @@ Class: Ruin Maniac
 Pic: Ruin Maniac
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Kirlia
@@ -1171,7 +1171,7 @@ Class: Ruin Maniac
 Pic: Ruin Maniac
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Corphish
@@ -1196,7 +1196,7 @@ Class: Ruin Maniac
 Pic: Ruin Maniac
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -1221,7 +1221,7 @@ Class: Ruin Maniac
 Pic: Ruin Maniac
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Chingling
@@ -1246,7 +1246,7 @@ Class: Ruin Maniac
 Pic: Ruin Maniac
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bonsly
@@ -1271,7 +1271,7 @@ Class: Ruin Maniac
 Pic: Ruin Maniac
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Vulpix
@@ -1296,7 +1296,7 @@ Class: Ruin Maniac
 Pic: Ruin Maniac
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Carvanha
@@ -1321,7 +1321,7 @@ Class: Interviewer
 Pic: Interviewer
 Gender: Male
 Music: Interviewer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Diglett
@@ -1346,7 +1346,7 @@ Class: Interviewer
 Pic: Interviewer
 Gender: Male
 Music: Interviewer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -1371,7 +1371,7 @@ Class: Interviewer
 Pic: Interviewer
 Gender: Male
 Music: Interviewer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Squirtle
@@ -1396,7 +1396,7 @@ Class: Interviewer
 Pic: Interviewer
 Gender: Male
 Music: Interviewer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Clefairy
@@ -1421,7 +1421,7 @@ Class: Interviewer
 Pic: Interviewer
 Gender: Male
 Music: Interviewer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Aron
@@ -1446,7 +1446,7 @@ Class: Interviewer
 Pic: Interviewer
 Gender: Female
 Music: Interviewer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Clamperl
@@ -1471,7 +1471,7 @@ Class: Tuber F
 Pic: Tuber F
 Gender: Female
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Whismur
@@ -1492,7 +1492,7 @@ Class: Tuber F
 Pic: Tuber F
 Gender: Female
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Skitty
@@ -1517,7 +1517,7 @@ Class: Tuber F
 Pic: Tuber F
 Gender: Female
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Skitty
@@ -1542,7 +1542,7 @@ Class: Tuber F
 Pic: Tuber F
 Gender: Female
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nidoran♀
@@ -1567,7 +1567,7 @@ Class: Tuber F
 Pic: Tuber F
 Gender: Female
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Budew
@@ -1592,7 +1592,7 @@ Class: Tuber F
 Pic: Tuber F
 Gender: Female
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Barboach
@@ -1617,7 +1617,7 @@ Class: Tuber F
 Pic: Tuber F
 Gender: Male
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Squirtle
@@ -1642,7 +1642,7 @@ Class: Tuber M
 Pic: Tuber M
 Gender: Male
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Makuhita
@@ -1663,7 +1663,7 @@ Class: Tuber M
 Pic: Tuber M
 Gender: Male
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Togepi
@@ -1684,7 +1684,7 @@ Class: Tuber M
 Pic: Tuber M
 Gender: Male
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Skitty
@@ -1709,7 +1709,7 @@ Class: Tuber M
 Pic: Tuber M
 Gender: Male
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Kirlia
@@ -1734,7 +1734,7 @@ Class: Tuber M
 Pic: Tuber M
 Gender: Male
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Chingling
@@ -1759,7 +1759,7 @@ Class: Tuber M
 Pic: Tuber M
 Gender: Male
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bonsly
@@ -1784,7 +1784,7 @@ Class: Tuber M
 Pic: Tuber M
 Gender: Male
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Vulpix
@@ -1809,7 +1809,7 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Gulpin
@@ -1834,7 +1834,7 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bonsly
@@ -1859,7 +1859,7 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Budew
@@ -1884,7 +1884,7 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bagon
@@ -1909,7 +1909,7 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Anorith
@@ -1938,7 +1938,7 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Growlithe
@@ -1967,7 +1967,7 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Koffing
@@ -1992,7 +1992,7 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Barboach
@@ -2017,7 +2017,7 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Cacnea
@@ -2042,7 +2042,7 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Koffing
@@ -2067,7 +2067,7 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Clamperl
@@ -2092,7 +2092,7 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Flaaffy
@@ -2121,7 +2121,7 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Growlithe
@@ -2146,7 +2146,7 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Corphish
@@ -2171,7 +2171,7 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Cubone
@@ -2196,7 +2196,7 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Eevee
@@ -2221,7 +2221,7 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Koffing
@@ -2246,7 +2246,7 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Female
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Slowpoke
@@ -2271,7 +2271,7 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -2296,7 +2296,7 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bagon
@@ -2321,7 +2321,7 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Gulpin
@@ -2346,7 +2346,7 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Clefairy
@@ -2371,7 +2371,7 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Koffing
@@ -2396,7 +2396,7 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bonsly
@@ -2421,7 +2421,7 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -2446,7 +2446,7 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bulbasaur
@@ -2471,7 +2471,7 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Drowzee
@@ -2496,7 +2496,7 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Growlithe
@@ -2525,7 +2525,7 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Cacnea
@@ -2550,7 +2550,7 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Anorith
@@ -2579,7 +2579,7 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Corphish
@@ -2604,7 +2604,7 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Cubone
@@ -2629,7 +2629,7 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Drowzee
@@ -2654,7 +2654,7 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Koffing
@@ -2679,7 +2679,7 @@ Class: Hex Maniac
 Pic: Hex Maniac
 Gender: Female
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Eevee
@@ -2704,7 +2704,7 @@ Class: Hex Maniac
 Pic: Hex Maniac
 Gender: Female
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Barboach
@@ -2729,7 +2729,7 @@ Class: Hex Maniac
 Pic: Hex Maniac
 Gender: Female
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Chingling
@@ -2754,7 +2754,7 @@ Class: Hex Maniac
 Pic: Hex Maniac
 Gender: Female
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Chingling
@@ -2779,7 +2779,7 @@ Class: Hex Maniac
 Pic: Hex Maniac
 Gender: Female
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Kirlia
@@ -2804,7 +2804,7 @@ Class: Hex Maniac
 Pic: Hex Maniac
 Gender: Female
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -2829,7 +2829,7 @@ Class: Hex Maniac
 Pic: Hex Maniac
 Gender: Female
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Carvanha
@@ -2854,7 +2854,7 @@ Class: Hex Maniac
 Pic: Hex Maniac
 Gender: Female
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Slowpoke
@@ -2879,7 +2879,7 @@ Class: Hex Maniac
 Pic: Hex Maniac
 Gender: Female
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Koffing
@@ -2904,7 +2904,7 @@ Class: Lady
 Pic: Lady
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Happiny
@@ -2925,7 +2925,7 @@ Class: Lady
 Pic: Lady
 Gender: Male
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Slowpoke
@@ -2950,7 +2950,7 @@ Class: Team Magma
 Pic: Magma Grunt M
 Gender: Female
 Music: Magma
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Charmander
@@ -2975,7 +2975,7 @@ Class: Lady
 Pic: Lady
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Happiny
@@ -2996,7 +2996,7 @@ Class: Lady
 Pic: Lady
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bulbasaur
@@ -3021,7 +3021,7 @@ Class: Lady
 Pic: Lady
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bulbasaur
@@ -3046,7 +3046,7 @@ Class: Lady
 Pic: Lady
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Kirlia
@@ -3071,7 +3071,7 @@ Class: Lady
 Pic: Lady
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Chingling
@@ -3096,7 +3096,7 @@ Class: Lady
 Pic: Lady
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bonsly
@@ -3121,7 +3121,7 @@ Class: Lady
 Pic: Lady
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Vulpix
@@ -3146,7 +3146,7 @@ Class: Beauty
 Pic: Beauty
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Hoppip
@@ -3167,7 +3167,7 @@ Class: Beauty
 Pic: Beauty
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Rattata
@@ -3188,7 +3188,7 @@ Class: Beauty
 Pic: Beauty
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Rattata
@@ -3209,7 +3209,7 @@ Class: Beauty
 Pic: Beauty
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Gulpin
@@ -3234,7 +3234,7 @@ Class: Beauty
 Pic: Beauty
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bagon
@@ -3259,7 +3259,7 @@ Class: Beauty
 Pic: Beauty
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Slowpoke
@@ -3284,7 +3284,7 @@ Class: Beauty
 Pic: Beauty
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Drowzee
@@ -3309,7 +3309,7 @@ Class: Beauty
 Pic: Beauty
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Clefairy
@@ -3334,7 +3334,7 @@ Class: Beauty
 Pic: Beauty
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Squirtle
@@ -3359,7 +3359,7 @@ Class: Beauty
 Pic: Beauty
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Cubone
@@ -3384,7 +3384,7 @@ Class: Beauty
 Pic: Beauty
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Eevee
@@ -3409,7 +3409,7 @@ Class: Beauty
 Pic: Beauty
 Gender: Male
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Cacnea
@@ -3434,7 +3434,7 @@ Class: Rich Boy
 Pic: Rich Boy
 Gender: Female
 Music: Rich
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Happiny
@@ -3455,7 +3455,7 @@ Class: Expert
 Pic: Expert F
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Abra
@@ -3480,7 +3480,7 @@ Class: Rich Boy
 Pic: Rich Boy
 Gender: Male
 Music: Rich
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Squirtle
@@ -3505,7 +3505,7 @@ Class: Rich Boy
 Pic: Rich Boy
 Gender: Male
 Music: Rich
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Kirlia
@@ -3530,7 +3530,7 @@ Class: Rich Boy
 Pic: Rich Boy
 Gender: Male
 Music: Rich
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Chingling
@@ -3555,7 +3555,7 @@ Class: Rich Boy
 Pic: Rich Boy
 Gender: Male
 Music: Rich
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Barboach
@@ -3580,7 +3580,7 @@ Class: Rich Boy
 Pic: Rich Boy
 Gender: Male
 Music: Rich
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -3605,7 +3605,7 @@ Class: Pokemaniac
 Pic: Pokemaniac
 Gender: Female
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Rattata
@@ -3626,7 +3626,7 @@ Class: Beauty
 Pic: Beauty
 Gender: Male
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Chingling
@@ -3651,7 +3651,7 @@ Class: Pokemaniac
 Pic: Pokemaniac
 Gender: Female
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Kirlia
@@ -3676,7 +3676,7 @@ Class: Team Magma
 Pic: Magma Grunt F
 Gender: Male
 Music: Magma
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Rattata
@@ -3697,7 +3697,7 @@ Class: Pokemaniac
 Pic: Pokemaniac
 Gender: Male
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Budew
@@ -3722,7 +3722,7 @@ Class: Pokemaniac
 Pic: Pokemaniac
 Gender: Male
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -3747,7 +3747,7 @@ Class: Pokemaniac
 Pic: Pokemaniac
 Gender: Male
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Gulpin
@@ -3772,7 +3772,7 @@ Class: Pokemaniac
 Pic: Pokemaniac
 Gender: Male
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Clefairy
@@ -3797,7 +3797,7 @@ Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Diglett
@@ -3822,7 +3822,7 @@ Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nincada
@@ -3847,7 +3847,7 @@ Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Budew
@@ -3872,7 +3872,7 @@ Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -3897,7 +3897,7 @@ Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Diglett
@@ -3922,7 +3922,7 @@ Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Chingling
@@ -3947,7 +3947,7 @@ Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Diglett
@@ -3972,7 +3972,7 @@ Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Budew
@@ -3997,7 +3997,7 @@ Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -4022,7 +4022,7 @@ Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Kirlia
@@ -4047,7 +4047,7 @@ Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Gulpin
@@ -4072,7 +4072,7 @@ Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Kirlia
@@ -4097,7 +4097,7 @@ Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Carvanha
@@ -4122,7 +4122,7 @@ Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Carvanha
@@ -4147,7 +4147,7 @@ Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Carvanha
@@ -4172,7 +4172,7 @@ Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -4197,7 +4197,7 @@ Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Gulpin
@@ -4222,7 +4222,7 @@ Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Abra
@@ -4247,7 +4247,7 @@ Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -4272,7 +4272,7 @@ Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bonsly
@@ -4297,7 +4297,7 @@ Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Kirlia
@@ -4322,7 +4322,7 @@ Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Carvanha
@@ -4347,7 +4347,7 @@ Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bulbasaur
@@ -4372,7 +4372,7 @@ Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bagon
@@ -4397,7 +4397,7 @@ Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Barboach
@@ -4422,7 +4422,7 @@ Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -4447,7 +4447,7 @@ Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Abra
@@ -4472,7 +4472,7 @@ Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Eevee
@@ -4497,7 +4497,7 @@ Class: Black Belt
 Pic: Black Belt
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Hoppip
@@ -4518,7 +4518,7 @@ Class: Black Belt
 Pic: Black Belt
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Corphish
@@ -4543,7 +4543,7 @@ Class: Black Belt
 Pic: Black Belt
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Carvanha
@@ -4568,7 +4568,7 @@ Class: Black Belt
 Pic: Black Belt
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -4593,7 +4593,7 @@ Class: Black Belt
 Pic: Black Belt
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Skitty
@@ -4618,7 +4618,7 @@ Class: Black Belt
 Pic: Black Belt
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Chingling
@@ -4643,7 +4643,7 @@ Class: Black Belt
 Pic: Black Belt
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Gulpin
@@ -4668,7 +4668,7 @@ Class: Black Belt
 Pic: Black Belt
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Eevee
@@ -4693,7 +4693,7 @@ Class: Black Belt
 Pic: Black Belt
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Pidgeotto
@@ -4718,7 +4718,7 @@ Class: Black Belt
 Pic: Black Belt
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bonsly
@@ -4743,7 +4743,7 @@ Class: Black Belt
 Pic: Black Belt
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Skitty
@@ -4768,7 +4768,7 @@ Class: Black Belt
 Pic: Black Belt
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Gulpin
@@ -4793,7 +4793,7 @@ Class: Guitarist
 Pic: Guitarist
 Gender: Female
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nidoran♂
@@ -4818,7 +4818,7 @@ Class: Team Aqua
 Pic: Aqua Grunt F
 Gender: Male
 Music: Aqua
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Budew
@@ -4843,7 +4843,7 @@ Class: Team Aqua
 Pic: Aqua Grunt M
 Gender: Male
 Music: Aqua
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nidoran♀
@@ -4868,7 +4868,7 @@ Class: Guitarist
 Pic: Guitarist
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nidoran♂
@@ -4893,7 +4893,7 @@ Class: Guitarist
 Pic: Guitarist
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bonsly
@@ -4918,7 +4918,7 @@ Class: Guitarist
 Pic: Guitarist
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Skitty
@@ -4943,7 +4943,7 @@ Class: Guitarist
 Pic: Guitarist
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -4968,7 +4968,7 @@ Class: Guitarist
 Pic: Guitarist
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Carvanha
@@ -4993,7 +4993,7 @@ Class: Guitarist
 Pic: Guitarist
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Clefairy
@@ -5018,7 +5018,7 @@ Class: Guitarist
 Pic: Guitarist
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Cacnea
@@ -5043,7 +5043,7 @@ Class: Kindler
 Pic: Kindler
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nincada
@@ -5068,7 +5068,7 @@ Class: Kindler
 Pic: Kindler
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nidoran♀
@@ -5093,7 +5093,7 @@ Class: Kindler
 Pic: Kindler
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nincada
@@ -5118,7 +5118,7 @@ Class: Kindler
 Pic: Kindler
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Skitty
@@ -5143,7 +5143,7 @@ Class: Kindler
 Pic: Kindler
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Hoothoot
@@ -5168,7 +5168,7 @@ Class: Kindler
 Pic: Kindler
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Skitty
@@ -5193,7 +5193,7 @@ Class: Kindler
 Pic: Kindler
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nidoran♀
@@ -5218,7 +5218,7 @@ Class: Kindler
 Pic: Kindler
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bonsly
@@ -5243,7 +5243,7 @@ Class: Kindler
 Pic: Kindler
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Vulpix
@@ -5268,7 +5268,7 @@ Class: Kindler
 Pic: Kindler
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Squirtle
@@ -5293,7 +5293,7 @@ Class: Camper
 Pic: Camper
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Skitty
@@ -5318,7 +5318,7 @@ Class: Camper
 Pic: Camper
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Barboach
@@ -5343,7 +5343,7 @@ Class: Camper
 Pic: Camper
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Rattata
@@ -5364,7 +5364,7 @@ Class: Camper
 Pic: Camper
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nincada
@@ -5389,7 +5389,7 @@ Class: Camper
 Pic: Camper
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nidoran♂
@@ -5414,7 +5414,7 @@ Class: Camper
 Pic: Camper
 Gender: Female
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Hoothoot
@@ -5439,7 +5439,7 @@ Class: Picnicker
 Pic: Picnicker
 Gender: Male
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Rattata
@@ -5460,7 +5460,7 @@ Class: Camper
 Pic: Camper
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Hoppip
@@ -5481,7 +5481,7 @@ Class: Camper
 Pic: Camper
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nidoran♀
@@ -5506,7 +5506,7 @@ Class: Camper
 Pic: Camper
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Gulpin
@@ -5531,7 +5531,7 @@ Class: Camper
 Pic: Camper
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bulbasaur
@@ -5556,7 +5556,7 @@ Class: Camper
 Pic: Camper
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Aron
@@ -5581,7 +5581,7 @@ Class: Bug Maniac
 Pic: Bug Maniac
 Gender: Male
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Surskit
@@ -5606,7 +5606,7 @@ Class: Bug Maniac
 Pic: Bug Maniac
 Gender: Male
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Vulpix
@@ -5631,7 +5631,7 @@ Class: Bug Maniac
 Pic: Bug Maniac
 Gender: Male
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Gulpin
@@ -5656,7 +5656,7 @@ Class: Bug Maniac
 Pic: Bug Maniac
 Gender: Male
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -5681,7 +5681,7 @@ Class: Bug Maniac
 Pic: Bug Maniac
 Gender: Male
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Chingling
@@ -5706,7 +5706,7 @@ Class: Bug Maniac
 Pic: Bug Maniac
 Gender: Male
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Gulpin
@@ -5731,7 +5731,7 @@ Class: Bug Maniac
 Pic: Bug Maniac
 Gender: Male
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Slowpoke
@@ -5756,7 +5756,7 @@ Class: Bug Maniac
 Pic: Bug Maniac
 Gender: Male
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Cacnea
@@ -5781,7 +5781,7 @@ Class: Bug Maniac
 Pic: Bug Maniac
 Gender: Male
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Aipom
@@ -5810,7 +5810,7 @@ Class: Psychic
 Pic: Psychic M
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Togepi
@@ -5831,7 +5831,7 @@ Class: Psychic
 Pic: Psychic M
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Barboach
@@ -5856,7 +5856,7 @@ Class: Psychic
 Pic: Psychic M
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Budew
@@ -5881,7 +5881,7 @@ Class: Psychic
 Pic: Psychic M
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Corphish
@@ -5906,7 +5906,7 @@ Class: Psychic
 Pic: Psychic M
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Barboach
@@ -5931,7 +5931,7 @@ Class: Psychic
 Pic: Psychic M
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Clefairy
@@ -5956,7 +5956,7 @@ Class: Psychic
 Pic: Psychic M
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bonsly
@@ -5981,7 +5981,7 @@ Class: Psychic
 Pic: Psychic M
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Corphish
@@ -6006,7 +6006,7 @@ Class: Psychic
 Pic: Psychic M
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bulbasaur
@@ -6031,7 +6031,7 @@ Class: Psychic
 Pic: Psychic M
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Eevee
@@ -6056,7 +6056,7 @@ Class: Psychic
 Pic: Psychic M
 Gender: Female
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Koffing
@@ -6081,7 +6081,7 @@ Class: Psychic
 Pic: Psychic F
 Gender: Female
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Togepi
@@ -6102,7 +6102,7 @@ Class: Psychic
 Pic: Psychic F
 Gender: Female
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Barboach
@@ -6127,7 +6127,7 @@ Class: Psychic
 Pic: Psychic F
 Gender: Female
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Charmander
@@ -6152,7 +6152,7 @@ Class: Psychic
 Pic: Psychic F
 Gender: Female
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Gulpin
@@ -6177,7 +6177,7 @@ Class: Psychic
 Pic: Psychic F
 Gender: Female
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Carvanha
@@ -6202,7 +6202,7 @@ Class: Psychic
 Pic: Psychic F
 Gender: Female
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Slowpoke
@@ -6227,7 +6227,7 @@ Class: Psychic
 Pic: Psychic F
 Gender: Female
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Gulpin
@@ -6252,7 +6252,7 @@ Class: Psychic
 Pic: Psychic F
 Gender: Female
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Abra
@@ -6277,7 +6277,7 @@ Class: Psychic
 Pic: Psychic F
 Gender: Female
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Slowpoke
@@ -6302,7 +6302,7 @@ Class: Psychic
 Pic: Psychic F
 Gender: Female
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Clefairy
@@ -6327,7 +6327,7 @@ Class: Psychic
 Pic: Psychic F
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Cacnea
@@ -6352,7 +6352,7 @@ Class: Gentleman
 Pic: Gentleman
 Gender: Male
 Music: Rich
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Barboach
@@ -6377,7 +6377,7 @@ Class: Gentleman
 Pic: Gentleman
 Gender: Male
 Music: Rich
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Cacnea
@@ -6402,7 +6402,7 @@ Class: Gentleman
 Pic: Gentleman
 Gender: Male
 Music: Rich
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Slowpoke
@@ -6427,7 +6427,7 @@ Class: Gentleman
 Pic: Gentleman
 Gender: Male
 Music: Rich
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Vulpix
@@ -6452,7 +6452,7 @@ Class: Gentleman
 Pic: Gentleman
 Gender: Male
 Music: Rich
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Slowpoke
@@ -6477,7 +6477,7 @@ Class: Gentleman
 Pic: Gentleman
 Gender: Male
 Music: Rich
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Clefairy
@@ -6502,7 +6502,7 @@ Class: Gentleman
 Pic: Gentleman
 Gender: Male
 Music: Rich
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Clamperl
@@ -6527,7 +6527,7 @@ Class: Elite Four
 Pic: Elite Four Sidney
 Gender: Female
 Music: Elite Four
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 Mugshot: Purple
 
@@ -6557,7 +6557,7 @@ Class: Elite Four
 Pic: Elite Four Phoebe
 Gender: Female
 Music: Elite Four
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 Mugshot: Green
 
@@ -6587,7 +6587,7 @@ Class: Elite Four
 Pic: Elite Four Glacia
 Gender: Male
 Music: Elite Four
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 Mugshot: Pink
 
@@ -6617,7 +6617,7 @@ Class: Elite Four
 Pic: Elite Four Drake
 Gender: Female
 Music: Elite Four
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 Mugshot: Blue
 
@@ -6647,7 +6647,7 @@ Class: Leader
 Pic: Leader Roxanne
 Gender: Male
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Chingling
@@ -6672,7 +6672,7 @@ Class: Leader
 Pic: Leader Brawly
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Barboach
@@ -6697,7 +6697,7 @@ Class: Leader
 Pic: Leader Wattson
 Gender: Female
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Cacnea
@@ -6722,7 +6722,7 @@ Class: Leader
 Pic: Leader Flannery
 Gender: Male
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Koffing
@@ -6747,7 +6747,7 @@ Class: Leader
 Pic: Leader Norman
 Gender: Female
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Anorith
@@ -6776,7 +6776,7 @@ Class: Leader
 Pic: Leader Winona
 Gender: Male
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nosepass
@@ -6805,7 +6805,7 @@ Class: Leader
 Pic: Leader Tate And Liza
 Gender: Male
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Mawile
@@ -6834,7 +6834,7 @@ Class: Leader
 Pic: Leader Juan
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Beautifly
@@ -6863,7 +6863,7 @@ Class: School Kid
 Pic: School Kid M
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Happiny
@@ -6884,7 +6884,7 @@ Class: School Kid
 Pic: School Kid M
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Makuhita
@@ -6905,7 +6905,7 @@ Class: School Kid
 Pic: School Kid M
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nidoran♀
@@ -6930,7 +6930,7 @@ Class: School Kid
 Pic: School Kid M
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nidoran♀
@@ -6955,7 +6955,7 @@ Class: School Kid
 Pic: School Kid M
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Chingling
@@ -6980,7 +6980,7 @@ Class: School Kid
 Pic: School Kid M
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Vulpix
@@ -7005,7 +7005,7 @@ Class: School Kid
 Pic: School Kid M
 Gender: Female
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Eevee
@@ -7030,7 +7030,7 @@ Class: School Kid
 Pic: School Kid F
 Gender: Female
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Makuhita
@@ -7051,7 +7051,7 @@ Class: School Kid
 Pic: School Kid F
 Gender: Female
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nincada
@@ -7076,7 +7076,7 @@ Class: School Kid
 Pic: School Kid F
 Gender: Female
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Kirlia
@@ -7101,7 +7101,7 @@ Class: School Kid
 Pic: School Kid F
 Gender: Female
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bonsly
@@ -7126,7 +7126,7 @@ Class: School Kid
 Pic: School Kid F
 Gender: Female
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Carvanha
@@ -7151,7 +7151,7 @@ Class: School Kid
 Pic: School Kid F
 Gender: Male
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Cubone
@@ -7176,7 +7176,7 @@ Class: Sr And Jr
 Pic: Sr And Jr
 Gender: Male
 Music: Twins
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Squirtle
@@ -7201,7 +7201,7 @@ Class: Sr And Jr
 Pic: Sr And Jr
 Gender: Male
 Music: Twins
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Rattata
@@ -7222,7 +7222,7 @@ Class: Sr And Jr
 Pic: Sr And Jr
 Gender: Male
 Music: Twins
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Budew
@@ -7247,7 +7247,7 @@ Class: Sr And Jr
 Pic: Sr And Jr
 Gender: Male
 Music: Twins
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Chingling
@@ -7272,7 +7272,7 @@ Class: Sr And Jr
 Pic: Sr And Jr
 Gender: Male
 Music: Twins
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Gulpin
@@ -7297,7 +7297,7 @@ Class: Sr And Jr
 Pic: Sr And Jr
 Gender: Male
 Music: Twins
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Cubone
@@ -7322,7 +7322,7 @@ Class: Winstrate
 Pic: Pokefan M
 Gender: Male
 Music: Twins
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Skitty
@@ -7347,7 +7347,7 @@ Class: Pokefan
 Pic: Pokefan M
 Gender: Male
 Music: Twins
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Makuhita
@@ -7368,7 +7368,7 @@ Class: Pokefan
 Pic: Pokefan M
 Gender: Male
 Music: Twins
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Anorith
@@ -7397,7 +7397,7 @@ Class: Pokefan
 Pic: Pokefan M
 Gender: Male
 Music: Twins
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Diglett
@@ -7422,7 +7422,7 @@ Class: Pokefan
 Pic: Pokefan M
 Gender: Male
 Music: Twins
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Jigglypuff
@@ -7447,7 +7447,7 @@ Class: Pokefan
 Pic: Pokefan M
 Gender: Male
 Music: Twins
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bonsly
@@ -7472,7 +7472,7 @@ Class: Pokefan
 Pic: Pokefan M
 Gender: Female
 Music: Twins
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -7497,7 +7497,7 @@ Class: Winstrate
 Pic: Pokefan F
 Gender: Female
 Music: Twins
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Skitty
@@ -7522,7 +7522,7 @@ Class: Pokefan
 Pic: Pokefan F
 Gender: Female
 Music: Twins
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nidoran♂
@@ -7547,7 +7547,7 @@ Class: Pokefan
 Pic: Pokefan F
 Gender: Female
 Music: Twins
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Eevee
@@ -7572,7 +7572,7 @@ Class: Pokefan
 Pic: Pokefan F
 Gender: Female
 Music: Twins
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Surskit
@@ -7597,7 +7597,7 @@ Class: Pokefan
 Pic: Pokefan F
 Gender: Female
 Music: Twins
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bonsly
@@ -7622,7 +7622,7 @@ Class: Pokefan
 Pic: Pokefan F
 Gender: Female
 Music: Twins
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Vulpix
@@ -7647,7 +7647,7 @@ Class: Pokefan
 Pic: Pokefan F
 Gender: Female
 Music: Twins
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Carvanha
@@ -7672,7 +7672,7 @@ Class: Pokefan
 Pic: Pokefan F
 Gender: Male
 Music: Twins
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Abra
@@ -7697,7 +7697,7 @@ Class: Expert
 Pic: Expert M
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bagon
@@ -7722,7 +7722,7 @@ Class: Expert
 Pic: Expert M
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Squirtle
@@ -7747,7 +7747,7 @@ Class: Expert
 Pic: Expert M
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bulbasaur
@@ -7772,7 +7772,7 @@ Class: Expert
 Pic: Expert M
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Eevee
@@ -7797,7 +7797,7 @@ Class: Expert
 Pic: Expert M
 Gender: Female
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Cacnea
@@ -7822,7 +7822,7 @@ Class: Winstrate
 Pic: Expert F
 Gender: Female
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Hoothoot
@@ -7847,7 +7847,7 @@ Class: Expert
 Pic: Expert F
 Gender: Female
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Budew
@@ -7872,7 +7872,7 @@ Class: Expert
 Pic: Expert F
 Gender: Female
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bagon
@@ -7897,7 +7897,7 @@ Class: Expert
 Pic: Expert F
 Gender: Female
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Eevee
@@ -7922,7 +7922,7 @@ Class: Expert
 Pic: Expert F
 Gender: Female
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Cacnea
@@ -7947,7 +7947,7 @@ Class: Expert
 Pic: Expert F
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Koffing
@@ -7972,7 +7972,7 @@ Class: Youngster
 Pic: Youngster
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Sentret
@@ -7993,7 +7993,7 @@ Class: Youngster
 Pic: Youngster
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Makuhita
@@ -8014,7 +8014,7 @@ Class: Youngster
 Pic: Youngster
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Whismur
@@ -8035,7 +8035,7 @@ Class: Youngster
 Pic: Youngster
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Rattata
@@ -8056,7 +8056,7 @@ Class: Youngster
 Pic: Youngster
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Makuhita
@@ -8077,7 +8077,7 @@ Class: Youngster
 Pic: Youngster
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nidoran♂
@@ -8102,7 +8102,7 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Female
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Pidgeotto
@@ -8127,7 +8127,7 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Growlithe
@@ -8156,7 +8156,7 @@ Class: Youngster
 Pic: Youngster
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Hoppip
@@ -8177,7 +8177,7 @@ Class: Youngster
 Pic: Youngster
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Rattata
@@ -8198,7 +8198,7 @@ Class: Youngster
 Pic: Youngster
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Kirlia
@@ -8223,7 +8223,7 @@ Class: Youngster
 Pic: Youngster
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Gulpin
@@ -8248,7 +8248,7 @@ Class: Youngster
 Pic: Youngster
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Clefairy
@@ -8273,7 +8273,7 @@ Class: Youngster
 Pic: Youngster
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Drowzee
@@ -8298,7 +8298,7 @@ Class: Youngster
 Pic: Youngster
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Rattata
@@ -8319,7 +8319,7 @@ Class: Youngster
 Pic: Youngster
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Makuhita
@@ -8340,7 +8340,7 @@ Class: Youngster
 Pic: Youngster
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Skitty
@@ -8365,7 +8365,7 @@ Class: Champion
 Pic: Champion Wallace
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 Mugshot: Yellow
 
@@ -8399,7 +8399,7 @@ Class: Fisherman
 Pic: Fisherman
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Skitty
@@ -8424,7 +8424,7 @@ Class: Fisherman
 Pic: Fisherman
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Togepi
@@ -8445,7 +8445,7 @@ Class: Fisherman
 Pic: Fisherman
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nidoran♀
@@ -8470,7 +8470,7 @@ Class: Fisherman
 Pic: Fisherman
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Skitty
@@ -8495,7 +8495,7 @@ Class: Fisherman
 Pic: Fisherman
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Whismur
@@ -8516,7 +8516,7 @@ Class: Fisherman
 Pic: Fisherman
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -8541,7 +8541,7 @@ Class: Fisherman
 Pic: Fisherman
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Hoppip
@@ -8562,7 +8562,7 @@ Class: Fisherman
 Pic: Fisherman
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Budew
@@ -8587,7 +8587,7 @@ Class: Fisherman
 Pic: Fisherman
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Hoppip
@@ -8608,7 +8608,7 @@ Class: Fisherman
 Pic: Fisherman
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -8633,7 +8633,7 @@ Class: Fisherman
 Pic: Fisherman
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Slowpoke
@@ -8658,7 +8658,7 @@ Class: Fisherman
 Pic: Fisherman
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Aron
@@ -8683,7 +8683,7 @@ Class: Fisherman
 Pic: Fisherman
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Clamperl
@@ -8708,7 +8708,7 @@ Class: Fisherman
 Pic: Fisherman
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Anorith
@@ -8737,7 +8737,7 @@ Class: Fisherman
 Pic: Fisherman
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Flaaffy
@@ -8766,7 +8766,7 @@ Class: Triathlete
 Pic: Cycling Triathlete M
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nidoran♂
@@ -8791,7 +8791,7 @@ Class: Triathlete
 Pic: Cycling Triathlete M
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Skitty
@@ -8816,7 +8816,7 @@ Class: Triathlete
 Pic: Cycling Triathlete M
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Togepi
@@ -8837,7 +8837,7 @@ Class: Triathlete
 Pic: Cycling Triathlete M
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nidoran♂
@@ -8862,7 +8862,7 @@ Class: Triathlete
 Pic: Cycling Triathlete M
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Budew
@@ -8887,7 +8887,7 @@ Class: Triathlete
 Pic: Cycling Triathlete M
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Gulpin
@@ -8912,7 +8912,7 @@ Class: Triathlete
 Pic: Cycling Triathlete M
 Gender: Female
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Corphish
@@ -8937,7 +8937,7 @@ Class: Triathlete
 Pic: Cycling Triathlete F
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Togepi
@@ -8958,7 +8958,7 @@ Class: Triathlete
 Pic: Cycling Triathlete F
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nidoran♀
@@ -8983,7 +8983,7 @@ Class: Triathlete
 Pic: Cycling Triathlete F
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Jigglypuff
@@ -9008,7 +9008,7 @@ Class: Triathlete
 Pic: Cycling Triathlete F
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nidoran♀
@@ -9033,7 +9033,7 @@ Class: Triathlete
 Pic: Cycling Triathlete F
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Vulpix
@@ -9058,7 +9058,7 @@ Class: Triathlete
 Pic: Cycling Triathlete F
 Gender: Male
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Carvanha
@@ -9083,7 +9083,7 @@ Class: Triathlete
 Pic: Running Triathlete M
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Togepi
@@ -9104,7 +9104,7 @@ Class: Triathlete
 Pic: Running Triathlete M
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Surskit
@@ -9129,7 +9129,7 @@ Class: Triathlete
 Pic: Running Triathlete M
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nidoran♀
@@ -9154,7 +9154,7 @@ Class: Triathlete
 Pic: Running Triathlete M
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Vulpix
@@ -9179,7 +9179,7 @@ Class: Triathlete
 Pic: Running Triathlete M
 Gender: Female
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Carvanha
@@ -9204,7 +9204,7 @@ Class: Triathlete
 Pic: Running Triathlete F
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Togepi
@@ -9225,7 +9225,7 @@ Class: Triathlete
 Pic: Running Triathlete F
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Surskit
@@ -9250,7 +9250,7 @@ Class: Triathlete
 Pic: Running Triathlete F
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nidoran♀
@@ -9275,7 +9275,7 @@ Class: Triathlete
 Pic: Running Triathlete F
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Vulpix
@@ -9300,7 +9300,7 @@ Class: Triathlete
 Pic: Running Triathlete F
 Gender: Male
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Carvanha
@@ -9325,7 +9325,7 @@ Class: Triathlete
 Pic: Swimming Triathlete M
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Vulpix
@@ -9350,7 +9350,7 @@ Class: Youngster
 Pic: Youngster
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nidoran♀
@@ -9375,7 +9375,7 @@ Class: Triathlete
 Pic: Swimming Triathlete M
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Chingling
@@ -9400,7 +9400,7 @@ Class: Triathlete
 Pic: Swimming Triathlete M
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Vulpix
@@ -9425,7 +9425,7 @@ Class: Triathlete
 Pic: Swimming Triathlete M
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bonsly
@@ -9450,7 +9450,7 @@ Class: Triathlete
 Pic: Swimming Triathlete M
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -9475,7 +9475,7 @@ Class: Triathlete
 Pic: Swimming Triathlete M
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Vulpix
@@ -9500,7 +9500,7 @@ Class: Triathlete
 Pic: Swimming Triathlete M
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Eevee
@@ -9525,7 +9525,7 @@ Class: Triathlete
 Pic: Swimming Triathlete M
 Gender: Female
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Aron
@@ -9550,7 +9550,7 @@ Class: Triathlete
 Pic: Swimming Triathlete F
 Gender: Female
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Budew
@@ -9575,7 +9575,7 @@ Class: Triathlete
 Pic: Swimming Triathlete F
 Gender: Female
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -9600,7 +9600,7 @@ Class: Triathlete
 Pic: Swimming Triathlete F
 Gender: Female
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Budew
@@ -9625,7 +9625,7 @@ Class: Triathlete
 Pic: Swimming Triathlete F
 Gender: Female
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Chingling
@@ -9650,7 +9650,7 @@ Class: Triathlete
 Pic: Swimming Triathlete F
 Gender: Female
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Vulpix
@@ -9675,7 +9675,7 @@ Class: Triathlete
 Pic: Swimming Triathlete F
 Gender: Female
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -9700,7 +9700,7 @@ Class: Triathlete
 Pic: Swimming Triathlete F
 Gender: Female
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Vulpix
@@ -9725,7 +9725,7 @@ Class: Triathlete
 Pic: Swimming Triathlete F
 Gender: Female
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Eevee
@@ -9750,7 +9750,7 @@ Class: Triathlete
 Pic: Swimming Triathlete F
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Aron
@@ -9775,7 +9775,7 @@ Class: Dragon Tamer
 Pic: Dragon Tamer
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Aron
@@ -9800,7 +9800,7 @@ Class: Dragon Tamer
 Pic: Dragon Tamer
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Koffing
@@ -9825,7 +9825,7 @@ Class: Dragon Tamer
 Pic: Dragon Tamer
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Clamperl
@@ -9850,7 +9850,7 @@ Class: Dragon Tamer
 Pic: Dragon Tamer
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Aipom
@@ -9879,7 +9879,7 @@ Class: Dragon Tamer
 Pic: Dragon Tamer
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nosepass
@@ -9908,7 +9908,7 @@ Class: Dragon Tamer
 Pic: Dragon Tamer
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bagon
@@ -9933,7 +9933,7 @@ Class: Bird Keeper
 Pic: Bird Keeper
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Skitty
@@ -9958,7 +9958,7 @@ Class: Bird Keeper
 Pic: Bird Keeper
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Chingling
@@ -9983,7 +9983,7 @@ Class: Bird Keeper
 Pic: Bird Keeper
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Budew
@@ -10008,7 +10008,7 @@ Class: Bird Keeper
 Pic: Bird Keeper
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bulbasaur
@@ -10033,7 +10033,7 @@ Class: Bird Keeper
 Pic: Bird Keeper
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Abra
@@ -10058,7 +10058,7 @@ Class: Bird Keeper
 Pic: Bird Keeper
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Abra
@@ -10083,7 +10083,7 @@ Class: Bird Keeper
 Pic: Bird Keeper
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Carvanha
@@ -10108,7 +10108,7 @@ Class: Bird Keeper
 Pic: Bird Keeper
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Chingling
@@ -10133,7 +10133,7 @@ Class: Bird Keeper
 Pic: Bird Keeper
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Jigglypuff
@@ -10158,7 +10158,7 @@ Class: Bird Keeper
 Pic: Bird Keeper
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Aron
@@ -10183,7 +10183,7 @@ Class: Bird Keeper
 Pic: Bird Keeper
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Chingling
@@ -10208,7 +10208,7 @@ Class: Bird Keeper
 Pic: Bird Keeper
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -10233,7 +10233,7 @@ Class: Bird Keeper
 Pic: Bird Keeper
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Abra
@@ -10258,7 +10258,7 @@ Class: Bird Keeper
 Pic: Bird Keeper
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Slowpoke
@@ -10283,7 +10283,7 @@ Class: Bird Keeper
 Pic: Bird Keeper
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Aron
@@ -10308,7 +10308,7 @@ Class: Bird Keeper
 Pic: Bird Keeper
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Slowpoke
@@ -10333,7 +10333,7 @@ Class: Bird Keeper
 Pic: Bird Keeper
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -10358,7 +10358,7 @@ Class: Ninja Boy
 Pic: Ninja Boy
 Gender: Male
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Budew
@@ -10383,7 +10383,7 @@ Class: Ninja Boy
 Pic: Ninja Boy
 Gender: Female
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Barboach
@@ -10408,7 +10408,7 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Aron
@@ -10433,7 +10433,7 @@ Class: Tuber F
 Pic: Tuber F
 Gender: Male
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Skitty
@@ -10458,7 +10458,7 @@ Class: Ninja Boy
 Pic: Ninja Boy
 Gender: Male
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Chingling
@@ -10483,7 +10483,7 @@ Class: Ninja Boy
 Pic: Ninja Boy
 Gender: Male
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nidoran♀
@@ -10508,7 +10508,7 @@ Class: Ninja Boy
 Pic: Ninja Boy
 Gender: Male
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Slowpoke
@@ -10533,7 +10533,7 @@ Class: Ninja Boy
 Pic: Ninja Boy
 Gender: Male
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Clefairy
@@ -10558,7 +10558,7 @@ Class: Ninja Boy
 Pic: Ninja Boy
 Gender: Male
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Drowzee
@@ -10583,7 +10583,7 @@ Class: Ninja Boy
 Pic: Ninja Boy
 Gender: Female
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Koffing
@@ -10608,7 +10608,7 @@ Class: Battle Girl
 Pic: Battle Girl
 Gender: Female
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Togepi
@@ -10629,7 +10629,7 @@ Class: Battle Girl
 Pic: Battle Girl
 Gender: Female
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Hoppip
@@ -10650,7 +10650,7 @@ Class: Battle Girl
 Pic: Battle Girl
 Gender: Female
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Surskit
@@ -10675,7 +10675,7 @@ Class: Battle Girl
 Pic: Battle Girl
 Gender: Female
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Jigglypuff
@@ -10700,7 +10700,7 @@ Class: Battle Girl
 Pic: Battle Girl
 Gender: Female
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bonsly
@@ -10725,7 +10725,7 @@ Class: Battle Girl
 Pic: Battle Girl
 Gender: Female
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Chingling
@@ -10750,7 +10750,7 @@ Class: Battle Girl
 Pic: Battle Girl
 Gender: Female
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bonsly
@@ -10775,7 +10775,7 @@ Class: Battle Girl
 Pic: Battle Girl
 Gender: Female
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bulbasaur
@@ -10800,7 +10800,7 @@ Class: Battle Girl
 Pic: Battle Girl
 Gender: Female
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Clefairy
@@ -10825,7 +10825,7 @@ Class: Parasol Lady
 Pic: Parasol Lady
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Pidgey
@@ -10846,7 +10846,7 @@ Class: Parasol Lady
 Pic: Parasol Lady
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -10871,7 +10871,7 @@ Class: Parasol Lady
 Pic: Parasol Lady
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Barboach
@@ -10896,7 +10896,7 @@ Class: Parasol Lady
 Pic: Parasol Lady
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Jigglypuff
@@ -10921,7 +10921,7 @@ Class: Parasol Lady
 Pic: Parasol Lady
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nidoran♀
@@ -10946,7 +10946,7 @@ Class: Parasol Lady
 Pic: Parasol Lady
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Gulpin
@@ -10971,7 +10971,7 @@ Class: Parasol Lady
 Pic: Parasol Lady
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bulbasaur
@@ -10996,7 +10996,7 @@ Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Budew
@@ -11021,7 +11021,7 @@ Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Skitty
@@ -11046,7 +11046,7 @@ Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nidoran♂
@@ -11071,7 +11071,7 @@ Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Kirlia
@@ -11096,7 +11096,7 @@ Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Diglett
@@ -11121,7 +11121,7 @@ Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nidoran♀
@@ -11146,7 +11146,7 @@ Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Diglett
@@ -11171,7 +11171,7 @@ Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -11196,7 +11196,7 @@ Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Barboach
@@ -11221,7 +11221,7 @@ Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nidoran♂
@@ -11246,7 +11246,7 @@ Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Budew
@@ -11271,7 +11271,7 @@ Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -11296,7 +11296,7 @@ Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bonsly
@@ -11321,7 +11321,7 @@ Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Budew
@@ -11346,7 +11346,7 @@ Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -11371,7 +11371,7 @@ Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Budew
@@ -11396,7 +11396,7 @@ Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -11421,7 +11421,7 @@ Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bonsly
@@ -11446,7 +11446,7 @@ Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -11471,7 +11471,7 @@ Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -11496,7 +11496,7 @@ Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bagon
@@ -11521,7 +11521,7 @@ Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Abra
@@ -11546,7 +11546,7 @@ Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -11571,7 +11571,7 @@ Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -11596,7 +11596,7 @@ Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -11621,7 +11621,7 @@ Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Gulpin
@@ -11646,7 +11646,7 @@ Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Cubone
@@ -11671,7 +11671,7 @@ Class: Swimmer F
 Pic: Swimmer F
 Gender: Female
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Clamperl
@@ -11696,7 +11696,7 @@ Class: Picnicker
 Pic: Picnicker
 Gender: Female
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nidoran♂
@@ -11721,7 +11721,7 @@ Class: Picnicker
 Pic: Picnicker
 Gender: Female
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Jigglypuff
@@ -11746,7 +11746,7 @@ Class: Picnicker
 Pic: Picnicker
 Gender: Female
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Hoothoot
@@ -11771,7 +11771,7 @@ Class: Picnicker
 Pic: Picnicker
 Gender: Female
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Diglett
@@ -11796,7 +11796,7 @@ Class: Picnicker
 Pic: Picnicker
 Gender: Female
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nidoran♂
@@ -11821,7 +11821,7 @@ Class: Picnicker
 Pic: Picnicker
 Gender: Male
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Chingling
@@ -11846,7 +11846,7 @@ Class: Psychic
 Pic: Psychic M
 Gender: Female
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Chingling
@@ -11871,7 +11871,7 @@ Class: Picnicker
 Pic: Picnicker
 Gender: Female
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Skitty
@@ -11896,7 +11896,7 @@ Class: Picnicker
 Pic: Picnicker
 Gender: Female
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Vulpix
@@ -11921,7 +11921,7 @@ Class: Picnicker
 Pic: Picnicker
 Gender: Female
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Abra
@@ -11946,7 +11946,7 @@ Class: Picnicker
 Pic: Picnicker
 Gender: Female
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bulbasaur
@@ -11971,7 +11971,7 @@ Class: Picnicker
 Pic: Picnicker
 Gender: Male
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Clamperl
@@ -11996,7 +11996,7 @@ Class: Twins
 Pic: Twins
 Gender: Male
 Music: Twins
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Jigglypuff
@@ -12021,7 +12021,7 @@ Class: Twins
 Pic: Twins
 Gender: Male
 Music: Twins
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -12046,7 +12046,7 @@ Class: Twins
 Pic: Twins
 Gender: Male
 Music: Twins
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Makuhita
@@ -12067,7 +12067,7 @@ Class: Twins
 Pic: Twins
 Gender: Male
 Music: Twins
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bonsly
@@ -12092,7 +12092,7 @@ Class: Twins
 Pic: Twins
 Gender: Male
 Music: Twins
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Skitty
@@ -12117,7 +12117,7 @@ Class: Twins
 Pic: Twins
 Gender: Male
 Music: Twins
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Hoppip
@@ -12138,7 +12138,7 @@ Class: Twins
 Pic: Twins
 Gender: Male
 Music: Twins
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bagon
@@ -12163,7 +12163,7 @@ Class: Twins
 Pic: Twins
 Gender: Male
 Music: Twins
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Carvanha
@@ -12188,7 +12188,7 @@ Class: Twins
 Pic: Twins
 Gender: Male
 Music: Twins
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Squirtle
@@ -12213,7 +12213,7 @@ Class: Sailor
 Pic: Sailor
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Rattata
@@ -12234,7 +12234,7 @@ Class: Sailor
 Pic: Sailor
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Makuhita
@@ -12255,7 +12255,7 @@ Class: Sailor
 Pic: Sailor
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Vulpix
@@ -12280,7 +12280,7 @@ Class: Sailor
 Pic: Sailor
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Surskit
@@ -12305,7 +12305,7 @@ Class: Sailor
 Pic: Sailor
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Aron
@@ -12330,7 +12330,7 @@ Class: Sailor
 Pic: Sailor
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Koffing
@@ -12355,7 +12355,7 @@ Class: Sailor
 Pic: Sailor
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Chingling
@@ -12380,7 +12380,7 @@ Class: Sailor
 Pic: Sailor
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Cubone
@@ -12405,7 +12405,7 @@ Class: Sailor
 Pic: Sailor
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Cacnea
@@ -12430,7 +12430,7 @@ Class: Sailor
 Pic: Sailor
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Koffing
@@ -12455,7 +12455,7 @@ Class: Sailor
 Pic: Sailor
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Growlithe
@@ -12484,7 +12484,7 @@ Class: Hiker
 Pic: Hiker
 Gender: Female
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nincada
@@ -12509,7 +12509,7 @@ Class: Pokefan
 Pic: Pokefan F
 Gender: Female
 Music: Twins
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Gulpin
@@ -12534,7 +12534,7 @@ Class: Cooltrainer 2
 Pic: Cooltrainer F
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Chingling
@@ -12559,7 +12559,7 @@ Class: Ninja Boy
 Pic: Ninja Boy
 Gender: Female
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Kirlia
@@ -12584,7 +12584,7 @@ Class: Parasol Lady
 Pic: Parasol Lady
 Gender: Male
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Chingling
@@ -12609,7 +12609,7 @@ Class: Expert
 Pic: Expert M
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Squirtle
@@ -12634,7 +12634,7 @@ Class: Sailor
 Pic: Sailor
 Gender: Female
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Abra
@@ -12659,7 +12659,7 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bulbasaur
@@ -12684,7 +12684,7 @@ Class: Battle Girl
 Pic: Battle Girl
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Squirtle
@@ -12709,7 +12709,7 @@ Class: Sailor
 Pic: Sailor
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Barboach
@@ -12734,7 +12734,7 @@ Class: Expert
 Pic: Expert M
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Squirtle
@@ -12759,7 +12759,7 @@ Class: Collector
 Pic: Collector
 Gender: Male
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Hoothoot
@@ -12784,7 +12784,7 @@ Class: Collector
 Pic: Collector
 Gender: Male
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Budew
@@ -12809,7 +12809,7 @@ Class: Magma Admin
 Pic: Magma Admin
 Gender: Male
 Music: Magma
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Clamperl
@@ -12834,7 +12834,7 @@ Class: Collector
 Pic: Collector
 Gender: Male
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Chingling
@@ -12859,7 +12859,7 @@ Class: Collector
 Pic: Collector
 Gender: Male
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bonsly
@@ -12884,7 +12884,7 @@ Class: Collector
 Pic: Collector
 Gender: Male
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -12909,7 +12909,7 @@ Class: Collector
 Pic: Collector
 Gender: Male
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Slowpoke
@@ -12934,7 +12934,7 @@ Class: Rival
 Pic: Wally
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Beautifly
@@ -12976,7 +12976,7 @@ Class: Rival
 Pic: Brendan
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Barboach
@@ -13001,7 +13001,7 @@ Class: Rival
 Pic: Brendan
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Cubone
@@ -13039,7 +13039,7 @@ Class: Rival
 Pic: Brendan
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bonsly
@@ -13064,7 +13064,7 @@ Class: Rival
 Pic: Brendan
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Clefairy
@@ -13102,7 +13102,7 @@ Class: Rival
 Pic: Brendan
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bonsly
@@ -13127,7 +13127,7 @@ Class: Rival
 Pic: Brendan
 Gender: Female
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Slowpoke
@@ -13165,7 +13165,7 @@ Class: Rival
 Pic: May
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Barboach
@@ -13190,7 +13190,7 @@ Class: Rival
 Pic: May
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Slowpoke
@@ -13228,7 +13228,7 @@ Class: Rival
 Pic: May
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bonsly
@@ -13253,7 +13253,7 @@ Class: Rival
 Pic: May
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Clefairy
@@ -13291,7 +13291,7 @@ Class: Rival
 Pic: May
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bonsly
@@ -13316,7 +13316,7 @@ Class: Rival
 Pic: May
 Gender: Male
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Slowpoke
@@ -13341,7 +13341,7 @@ Class: Pkmn Breeder
 Pic: Pokemon Breeder M
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Squirtle
@@ -13366,7 +13366,7 @@ Class: Bug Catcher
 Pic: Bug Catcher
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Chingling
@@ -13391,7 +13391,7 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Aron
@@ -13416,7 +13416,7 @@ Class: Pkmn Breeder
 Pic: Pokemon Breeder M
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Clamperl
@@ -13441,7 +13441,7 @@ Class: Pkmn Breeder
 Pic: Pokemon Breeder M
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Aipom
@@ -13470,7 +13470,7 @@ Class: Pkmn Breeder
 Pic: Pokemon Breeder M
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Flaaffy
@@ -13499,7 +13499,7 @@ Class: Pkmn Breeder
 Pic: Pokemon Breeder M
 Gender: Female
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nosepass
@@ -13528,7 +13528,7 @@ Class: Pkmn Breeder
 Pic: Pokemon Breeder F
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bulbasaur
@@ -13553,7 +13553,7 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Eevee
@@ -13578,7 +13578,7 @@ Class: Ruin Maniac
 Pic: Ruin Maniac
 Gender: Female
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Kirlia
@@ -13603,7 +13603,7 @@ Class: Pkmn Breeder
 Pic: Pokemon Breeder F
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Koffing
@@ -13628,7 +13628,7 @@ Class: Pkmn Breeder
 Pic: Pokemon Breeder F
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Anorith
@@ -13657,7 +13657,7 @@ Class: Pkmn Breeder
 Pic: Pokemon Breeder F
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Aipom
@@ -13686,7 +13686,7 @@ Class: Pkmn Breeder
 Pic: Pokemon Breeder F
 Gender: Male
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nosepass
@@ -13715,7 +13715,7 @@ Class: Pkmn Ranger
 Pic: Pokemon Ranger M
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Chingling
@@ -13740,7 +13740,7 @@ Class: Pkmn Ranger
 Pic: Pokemon Ranger M
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Carvanha
@@ -13765,7 +13765,7 @@ Class: Pkmn Ranger
 Pic: Pokemon Ranger M
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Abra
@@ -13790,7 +13790,7 @@ Class: Pkmn Ranger
 Pic: Pokemon Ranger M
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -13815,7 +13815,7 @@ Class: Pkmn Ranger
 Pic: Pokemon Ranger M
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Gulpin
@@ -13840,7 +13840,7 @@ Class: Pkmn Ranger
 Pic: Pokemon Ranger M
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Corphish
@@ -13865,7 +13865,7 @@ Class: Pkmn Ranger
 Pic: Pokemon Ranger M
 Gender: Female
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Drowzee
@@ -13890,7 +13890,7 @@ Class: Pkmn Ranger
 Pic: Pokemon Ranger F
 Gender: Female
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -13915,7 +13915,7 @@ Class: Pkmn Ranger
 Pic: Pokemon Ranger F
 Gender: Female
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Carvanha
@@ -13940,7 +13940,7 @@ Class: Pkmn Ranger
 Pic: Pokemon Ranger F
 Gender: Female
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Squirtle
@@ -13965,7 +13965,7 @@ Class: Pkmn Ranger
 Pic: Pokemon Ranger F
 Gender: Female
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Gulpin
@@ -13990,7 +13990,7 @@ Class: Pkmn Ranger
 Pic: Pokemon Ranger F
 Gender: Female
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Charmander
@@ -14015,7 +14015,7 @@ Class: Pkmn Ranger
 Pic: Pokemon Ranger F
 Gender: Female
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Slowpoke
@@ -14040,7 +14040,7 @@ Class: Pkmn Ranger
 Pic: Pokemon Ranger F
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Drowzee
@@ -14065,7 +14065,7 @@ Class: Triathlete
 Pic: Cycling Triathlete M
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Rattata
@@ -14090,7 +14090,7 @@ Class: Team Aqua
 Pic: Aqua Grunt M
 Gender: Female
 Music: Aqua
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Slowpoke
@@ -14115,7 +14115,7 @@ Class: Team Magma
 Pic: Aqua Grunt F
 Gender: Female
 Music: Aqua
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bonsly
@@ -14140,7 +14140,7 @@ Class: Team Aqua
 Pic: Aqua Grunt F
 Gender: Male
 Music: Aqua
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bonsly
@@ -14165,7 +14165,7 @@ Class: Team Magma
 Pic: Magma Grunt M
 Gender: Male
 Music: Magma
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nidoran♂
@@ -14190,7 +14190,7 @@ Class: Hiker
 Pic: Hiker
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Rattata
@@ -14215,7 +14215,7 @@ Class: Sailor
 Pic: Sailor
 Gender: Female
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Togepi
@@ -14236,7 +14236,7 @@ Class: Battle Girl
 Pic: Battle Girl
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Hoppip
@@ -14257,7 +14257,7 @@ Class: Black Belt
 Pic: Black Belt
 Gender: Female
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Hoppip
@@ -14278,7 +14278,7 @@ Class: Hex Maniac
 Pic: Hex Maniac
 Gender: Male
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Barboach
@@ -14303,7 +14303,7 @@ Class: Swimmer M
 Pic: Swimmer M
 Gender: Female
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Kirlia
@@ -14328,7 +14328,7 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Slowpoke
@@ -14353,7 +14353,7 @@ Class: Swimmer M
 Pic: Swimmer M
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Gulpin
@@ -14378,7 +14378,7 @@ Class: Team Magma
 Pic: Magma Grunt M
 Gender: Male
 Music: Magma
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Togepi
@@ -14399,7 +14399,7 @@ Class: Swimmer M
 Pic: Swimmer M
 Gender: Female
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -14424,7 +14424,7 @@ Class: Psychic
 Pic: Psychic F
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bagon
@@ -14449,7 +14449,7 @@ Class: Gentleman
 Pic: Gentleman
 Gender: Female
 Music: Rich
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -14474,7 +14474,7 @@ Class: Hex Maniac
 Pic: Hex Maniac
 Gender: Male
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Gulpin
@@ -14499,7 +14499,7 @@ Class: Gentleman
 Pic: Gentleman
 Gender: Male
 Music: Rich
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Vulpix
@@ -14524,7 +14524,7 @@ Class: Psychic
 Pic: Psychic M
 Gender: Female
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -14549,7 +14549,7 @@ Class: Team Magma
 Pic: Magma Grunt F
 Gender: Male
 Music: Magma
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Budew
@@ -14574,7 +14574,7 @@ Class: Team Magma
 Pic: Magma Grunt M
 Gender: Male
 Music: Magma
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nidoran♀
@@ -14599,7 +14599,7 @@ Class: Team Magma
 Pic: Magma Grunt M
 Gender: Male
 Music: Magma
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Surskit
@@ -14624,7 +14624,7 @@ Class: Team Magma
 Pic: Magma Grunt M
 Gender: Male
 Music: Magma
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Barboach
@@ -14649,7 +14649,7 @@ Class: Team Magma
 Pic: Magma Grunt M
 Gender: Female
 Music: Magma
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nidoran♀
@@ -14674,7 +14674,7 @@ Class: Psychic
 Pic: Psychic F
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Chingling
@@ -14699,7 +14699,7 @@ Class: Rival
 Pic: Brendan
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Rattata
@@ -14724,7 +14724,7 @@ Class: Rival
 Pic: Brendan
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Skitty
@@ -14749,7 +14749,7 @@ Class: Expert
 Pic: Expert M
 Gender: Female
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Abra
@@ -14774,7 +14774,7 @@ Class: Triathlete
 Pic: Swimming Triathlete F
 Gender: Female
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Budew
@@ -14799,7 +14799,7 @@ Class: Team Aqua
 Pic: Aqua Grunt F
 Gender: Male
 Music: Aqua
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nidoran♀
@@ -14824,7 +14824,7 @@ Class: Magma Admin
 Pic: Magma Admin
 Gender: Male
 Music: Magma
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Carvanha
@@ -14849,7 +14849,7 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Carvanha
@@ -14874,7 +14874,7 @@ Class: Rival
 Pic: Brendan
 Gender: Female
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Skitty
@@ -14899,7 +14899,7 @@ Class: Rival
 Pic: May
 Gender: Male
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Skitty
@@ -14924,7 +14924,7 @@ Class: Magma Leader
 Pic: Magma Leader Maxie
 Gender: Male
 Music: Magma
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Growlithe
@@ -14949,7 +14949,7 @@ Class: Magma Leader
 Pic: Magma Leader Maxie
 Gender: Female
 Music: Magma
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Squirtle
@@ -14974,7 +14974,7 @@ Class: Lass
 Pic: Lass
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Makuhita
@@ -14995,7 +14995,7 @@ Class: Lass
 Pic: Lass
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Makuhita
@@ -15016,7 +15016,7 @@ Class: Lass
 Pic: Lass
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Happiny
@@ -15037,7 +15037,7 @@ Class: Winstrate
 Pic: Lass
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Budew
@@ -15062,7 +15062,7 @@ Class: Lass
 Pic: Lass
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Budew
@@ -15087,7 +15087,7 @@ Class: Lass
 Pic: Lass
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Vulpix
@@ -15112,7 +15112,7 @@ Class: Lass
 Pic: Lass
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Carvanha
@@ -15137,7 +15137,7 @@ Class: Lass
 Pic: Lass
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Drowzee
@@ -15162,7 +15162,7 @@ Class: Lass
 Pic: Lass
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Togepi
@@ -15183,7 +15183,7 @@ Class: Lass
 Pic: Lass
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Jigglypuff
@@ -15208,7 +15208,7 @@ Class: Lass
 Pic: Lass
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Gulpin
@@ -15233,7 +15233,7 @@ Class: Lass
 Pic: Lass
 Gender: Male
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Cubone
@@ -15258,7 +15258,7 @@ Class: Bug Catcher
 Pic: Bug Catcher
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Happiny
@@ -15279,7 +15279,7 @@ Class: Bug Catcher
 Pic: Bug Catcher
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Skitty
@@ -15304,7 +15304,7 @@ Class: Bug Catcher
 Pic: Bug Catcher
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Whismur
@@ -15325,7 +15325,7 @@ Class: Bug Catcher
 Pic: Bug Catcher
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bonsly
@@ -15350,7 +15350,7 @@ Class: Bug Catcher
 Pic: Bug Catcher
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bonsly
@@ -15375,7 +15375,7 @@ Class: Bug Catcher
 Pic: Bug Catcher
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Kirlia
@@ -15400,7 +15400,7 @@ Class: Bug Catcher
 Pic: Bug Catcher
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Makuhita
@@ -15421,7 +15421,7 @@ Class: Bug Catcher
 Pic: Bug Catcher
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Budew
@@ -15446,7 +15446,7 @@ Class: Bug Catcher
 Pic: Bug Catcher
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bagon
@@ -15471,7 +15471,7 @@ Class: Bug Catcher
 Pic: Bug Catcher
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Slowpoke
@@ -15496,7 +15496,7 @@ Class: Bug Catcher
 Pic: Bug Catcher
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Koffing
@@ -15521,7 +15521,7 @@ Class: Hiker
 Pic: Hiker
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Hoothoot
@@ -15546,7 +15546,7 @@ Class: Hiker
 Pic: Hiker
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Kirlia
@@ -15571,7 +15571,7 @@ Class: Hiker
 Pic: Hiker
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Diglett
@@ -15596,7 +15596,7 @@ Class: Hiker
 Pic: Hiker
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Diglett
@@ -15621,7 +15621,7 @@ Class: Hiker
 Pic: Hiker
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -15646,7 +15646,7 @@ Class: Hiker
 Pic: Hiker
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Makuhita
@@ -15667,7 +15667,7 @@ Class: Hiker
 Pic: Hiker
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Surskit
@@ -15692,7 +15692,7 @@ Class: Hiker
 Pic: Hiker
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Whismur
@@ -15713,7 +15713,7 @@ Class: Hiker
 Pic: Hiker
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Rattata
@@ -15734,7 +15734,7 @@ Class: Hiker
 Pic: Hiker
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Kirlia
@@ -15759,7 +15759,7 @@ Class: Hiker
 Pic: Hiker
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Squirtle
@@ -15784,7 +15784,7 @@ Class: Hiker
 Pic: Hiker
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Cubone
@@ -15809,7 +15809,7 @@ Class: Hiker
 Pic: Hiker
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Aron
@@ -15834,7 +15834,7 @@ Class: Hiker
 Pic: Hiker
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Koffing
@@ -15859,7 +15859,7 @@ Class: Young Couple
 Pic: Young Couple
 Gender: Male
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Carvanha
@@ -15884,7 +15884,7 @@ Class: Young Couple
 Pic: Young Couple
 Gender: Male
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bulbasaur
@@ -15909,7 +15909,7 @@ Class: Young Couple
 Pic: Young Couple
 Gender: Male
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bonsly
@@ -15934,7 +15934,7 @@ Class: Young Couple
 Pic: Young Couple
 Gender: Male
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Gulpin
@@ -15959,7 +15959,7 @@ Class: Young Couple
 Pic: Young Couple
 Gender: Male
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Charmander
@@ -15984,7 +15984,7 @@ Class: Young Couple
 Pic: Young Couple
 Gender: Male
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Slowpoke
@@ -16009,7 +16009,7 @@ Class: Young Couple
 Pic: Young Couple
 Gender: Female
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Cubone
@@ -16034,7 +16034,7 @@ Class: Beauty
 Pic: Beauty
 Gender: Male
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Whismur
@@ -16055,7 +16055,7 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Female
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Budew
@@ -16080,7 +16080,7 @@ Class: Battle Girl
 Pic: Battle Girl
 Gender: Female
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Surskit
@@ -16105,7 +16105,7 @@ Class: Battle Girl
 Pic: Battle Girl
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Diglett
@@ -16130,7 +16130,7 @@ Class: Ninja Boy
 Pic: Ninja Boy
 Gender: Male
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Budew
@@ -16155,7 +16155,7 @@ Class: Ninja Boy
 Pic: Ninja Boy
 Gender: Male
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -16180,7 +16180,7 @@ Class: Ninja Boy
 Pic: Ninja Boy
 Gender: Male
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Chingling
@@ -16205,7 +16205,7 @@ Class: Camper
 Pic: Camper
 Gender: Female
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Slowpoke
@@ -16230,7 +16230,7 @@ Class: Picnicker
 Pic: Picnicker
 Gender: Male
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Corphish
@@ -16255,7 +16255,7 @@ Class: Rival
 Pic: Wally
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Makuhita
@@ -16276,7 +16276,7 @@ Class: Rival
 Pic: Wally
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Ariados
@@ -16305,7 +16305,7 @@ Class: Rival
 Pic: Wally
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bayleef
@@ -16334,7 +16334,7 @@ Class: Rival
 Pic: Wally
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Corsola
@@ -16363,7 +16363,7 @@ Class: Rival
 Pic: Wally
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Dunsparce
@@ -16392,7 +16392,7 @@ Class: Rival
 Pic: Brendan
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Pidgeotto
@@ -16417,7 +16417,7 @@ Class: Rival
 Pic: Brendan
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Anorith
@@ -16446,7 +16446,7 @@ Class: Rival
 Pic: Brendan
 Gender: Female
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Pidgeotto
@@ -16471,7 +16471,7 @@ Class: Rival
 Pic: May
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Pidgeotto
@@ -16496,7 +16496,7 @@ Class: Rival
 Pic: May
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Anorith
@@ -16525,7 +16525,7 @@ Class: Rival
 Pic: May
 Gender: Male
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Pidgeotto
@@ -16550,7 +16550,7 @@ Class: Fisherman
 Pic: Fisherman
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Slowpoke
@@ -16575,7 +16575,7 @@ Class: Fisherman
 Pic: Fisherman
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Carvanha
@@ -16600,7 +16600,7 @@ Class: Fisherman
 Pic: Fisherman
 Gender: Female
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -16625,7 +16625,7 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Slowpoke
@@ -16650,7 +16650,7 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bulbasaur
@@ -16675,7 +16675,7 @@ Class: Black Belt
 Pic: Black Belt
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bonsly
@@ -16700,7 +16700,7 @@ Class: Fisherman
 Pic: Fisherman
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Slowpoke
@@ -16725,7 +16725,7 @@ Class: Bird Keeper
 Pic: Bird Keeper
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Corphish
@@ -16750,7 +16750,7 @@ Class: Swimmer M
 Pic: Swimmer M
 Gender: Female
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Gulpin
@@ -16775,7 +16775,7 @@ Class: Swimmer F
 Pic: Swimmer F
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Budew
@@ -16800,7 +16800,7 @@ Class: Twins
 Pic: Twins
 Gender: Male
 Music: Twins
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nidoran♂
@@ -16825,7 +16825,7 @@ Class: Sr And Jr
 Pic: Sr And Jr
 Gender: Male
 Music: Twins
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -16850,7 +16850,7 @@ Class: Sr And Jr
 Pic: Sr And Jr
 Gender: Male
 Music: Twins
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nidoran♀
@@ -16875,7 +16875,7 @@ Class: Young Couple
 Pic: Young Couple
 Gender: Male
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bonsly
@@ -16900,7 +16900,7 @@ Class: Old Couple
 Pic: Old Couple
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Cacnea
@@ -16925,7 +16925,7 @@ Class: Old Couple
 Pic: Old Couple
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Clamperl
@@ -16950,7 +16950,7 @@ Class: Old Couple
 Pic: Old Couple
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Growlithe
@@ -16975,7 +16975,7 @@ Class: Old Couple
 Pic: Old Couple
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Aipom
@@ -17004,7 +17004,7 @@ Class: Old Couple
 Pic: Old Couple
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Flaaffy
@@ -17033,7 +17033,7 @@ Class: Sis And Bro
 Pic: Sis And Bro
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bagon
@@ -17058,7 +17058,7 @@ Class: Sis And Bro
 Pic: Sis And Bro
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -17083,7 +17083,7 @@ Class: Sis And Bro
 Pic: Sis And Bro
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Abra
@@ -17108,7 +17108,7 @@ Class: Sis And Bro
 Pic: Sis And Bro
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Clefairy
@@ -17133,7 +17133,7 @@ Class: Sis And Bro
 Pic: Sis And Bro
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Cacnea
@@ -17158,7 +17158,7 @@ Class: Sis And Bro
 Pic: Sis And Bro
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Clamperl
@@ -17183,7 +17183,7 @@ Class: Sis And Bro
 Pic: Sis And Bro
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Chingling
@@ -17208,7 +17208,7 @@ Class: Fisherman
 Pic: Fisherman
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Carvanha
@@ -17233,7 +17233,7 @@ Class: Rich Boy
 Pic: Rich Boy
 Gender: Female
 Music: Rich
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Makuhita
@@ -17254,7 +17254,7 @@ Class: Lady
 Pic: Lady
 Gender: Male
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Makuhita
@@ -17275,7 +17275,7 @@ Class: Fisherman
 Pic: Fisherman
 Gender: Female
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Happiny
@@ -17296,7 +17296,7 @@ Class: Tuber F
 Pic: Tuber F
 Gender: Male
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Makuhita
@@ -17317,7 +17317,7 @@ Class: Tuber M
 Pic: Tuber M
 Gender: Male
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Skitty
@@ -17342,7 +17342,7 @@ Class: Pokefan
 Pic: Pokefan M
 Gender: Male
 Music: Twins
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Surskit
@@ -17367,7 +17367,7 @@ Class: Guitarist
 Pic: Guitarist
 Gender: Female
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Skitty
@@ -17392,7 +17392,7 @@ Class: Triathlete
 Pic: Cycling Triathlete F
 Gender: Male
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Togepi
@@ -17413,7 +17413,7 @@ Class: Guitarist
 Pic: Guitarist
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Rattata
@@ -17434,7 +17434,7 @@ Class: Black Belt
 Pic: Black Belt
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Togepi
@@ -17455,7 +17455,7 @@ Class: Camper
 Pic: Camper
 Gender: Female
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Hoppip
@@ -17476,7 +17476,7 @@ Class: Aroma Lady
 Pic: Aroma Lady
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Skitty
@@ -17501,7 +17501,7 @@ Class: Picnicker
 Pic: Picnicker
 Gender: Male
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Togepi
@@ -17522,7 +17522,7 @@ Class: Kindler
 Pic: Kindler
 Gender: Female
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Hoppip
@@ -17543,7 +17543,7 @@ Class: Picnicker
 Pic: Picnicker
 Gender: Male
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Diglett
@@ -17568,7 +17568,7 @@ Class: Bird Keeper
 Pic: Bird Keeper
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Budew
@@ -17593,7 +17593,7 @@ Class: Camper
 Pic: Camper
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Diglett
@@ -17618,7 +17618,7 @@ Class: Pokemaniac
 Pic: Pokemaniac
 Gender: Female
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Surskit
@@ -17643,7 +17643,7 @@ Class: Picnicker
 Pic: Picnicker
 Gender: Male
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Diglett
@@ -17668,7 +17668,7 @@ Class: Fisherman
 Pic: Fisherman
 Gender: Female
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Hoppip
@@ -17689,7 +17689,7 @@ Class: Picnicker
 Pic: Picnicker
 Gender: Male
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Rattata
@@ -17710,7 +17710,7 @@ Class: Youngster
 Pic: Youngster
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nidoran♂
@@ -17735,7 +17735,7 @@ Class: Team Magma
 Pic: Magma Grunt M
 Gender: Male
 Music: Magma
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Hoothoot
@@ -17760,7 +17760,7 @@ Class: Team Magma
 Pic: Magma Grunt M
 Gender: Male
 Music: Magma
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Skitty
@@ -17785,7 +17785,7 @@ Class: Team Magma
 Pic: Magma Grunt M
 Gender: Male
 Music: Magma
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Surskit
@@ -17810,7 +17810,7 @@ Class: Team Magma
 Pic: Magma Grunt M
 Gender: Male
 Music: Magma
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Budew
@@ -17835,7 +17835,7 @@ Class: Team Magma
 Pic: Magma Grunt M
 Gender: Male
 Music: Magma
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Chingling
@@ -17860,7 +17860,7 @@ Class: Team Magma
 Pic: Magma Grunt M
 Gender: Male
 Music: Magma
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Budew
@@ -17885,7 +17885,7 @@ Class: Team Magma
 Pic: Magma Grunt M
 Gender: Male
 Music: Magma
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Hoothoot
@@ -17910,7 +17910,7 @@ Class: Team Magma
 Pic: Magma Grunt M
 Gender: Male
 Music: Magma
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Skitty
@@ -17935,7 +17935,7 @@ Class: Team Magma
 Pic: Magma Grunt M
 Gender: Male
 Music: Magma
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Hoothoot
@@ -17960,7 +17960,7 @@ Class: Team Magma
 Pic: Magma Grunt M
 Gender: Male
 Music: Magma
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Budew
@@ -17985,7 +17985,7 @@ Class: Team Magma
 Pic: Magma Grunt M
 Gender: Male
 Music: Magma
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Surskit
@@ -18010,7 +18010,7 @@ Class: Team Magma
 Pic: Magma Grunt M
 Gender: Male
 Music: Magma
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Surskit
@@ -18035,7 +18035,7 @@ Class: Team Magma
 Pic: Magma Grunt M
 Gender: Female
 Music: Magma
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Hoothoot
@@ -18060,7 +18060,7 @@ Class: Team Magma
 Pic: Magma Grunt F
 Gender: Female
 Music: Magma
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Budew
@@ -18085,7 +18085,7 @@ Class: Team Magma
 Pic: Magma Grunt F
 Gender: Female
 Music: Magma
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Surskit
@@ -18110,7 +18110,7 @@ Class: Team Magma
 Pic: Magma Grunt F
 Gender: Male
 Music: Magma
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Surskit
@@ -18135,7 +18135,7 @@ Class: Magma Admin
 Pic: Magma Admin
 Gender: Female
 Music: Magma
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Aron
@@ -18160,7 +18160,7 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Charmander
@@ -18185,7 +18185,7 @@ Class: Magma Leader
 Pic: Magma Leader Maxie
 Gender: Male
 Music: Magma
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Aipom
@@ -18214,7 +18214,7 @@ Class: Swimmer M
 Pic: Swimmer M
 Gender: Female
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Togepi
@@ -18235,7 +18235,7 @@ Class: Swimmer F
 Pic: Swimmer F
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Makuhita
@@ -18256,7 +18256,7 @@ Class: Ruin Maniac
 Pic: Ruin Maniac
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Budew
@@ -18281,7 +18281,7 @@ Class: Bird Keeper
 Pic: Bird Keeper
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Kirlia
@@ -18306,7 +18306,7 @@ Class: Triathlete
 Pic: Swimming Triathlete M
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nincada
@@ -18331,7 +18331,7 @@ Class: Sailor
 Pic: Sailor
 Gender: Female
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -18356,7 +18356,7 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Slowpoke
@@ -18381,7 +18381,7 @@ Class: Bird Keeper
 Pic: Bird Keeper
 Gender: Female
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -18406,7 +18406,7 @@ Class: Picnicker
 Pic: Picnicker
 Gender: Male
 Music: Girl
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Jigglypuff
@@ -18431,7 +18431,7 @@ Class: Ruin Maniac
 Pic: Ruin Maniac
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Budew
@@ -18456,7 +18456,7 @@ Class: Camper
 Pic: Camper
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nidoran♂
@@ -18481,7 +18481,7 @@ Class: Kindler
 Pic: Kindler
 Gender: Female
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Hoothoot
@@ -18506,7 +18506,7 @@ Class: Aroma Lady
 Pic: Aroma Lady
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Jigglypuff
@@ -18531,7 +18531,7 @@ Class: Triathlete
 Pic: Running Triathlete F
 Gender: Male
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bonsly
@@ -18556,7 +18556,7 @@ Class: Ninja Boy
 Pic: Ninja Boy
 Gender: Female
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Barboach
@@ -18581,7 +18581,7 @@ Class: Psychic
 Pic: Psychic F
 Gender: Female
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Chingling
@@ -18606,7 +18606,7 @@ Class: Battle Girl
 Pic: Battle Girl
 Gender: Female
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nidoran♀
@@ -18631,7 +18631,7 @@ Class: Psychic
 Pic: Psychic F
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Diglett
@@ -18656,7 +18656,7 @@ Class: Hiker
 Pic: Hiker
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Togepi
@@ -18677,7 +18677,7 @@ Class: Youngster
 Pic: Youngster
 Gender: Female
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Whismur
@@ -18698,7 +18698,7 @@ Class: Triathlete
 Pic: Running Triathlete F
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Togepi
@@ -18719,7 +18719,7 @@ Class: Psychic
 Pic: Psychic F
 Gender: Female
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Makuhita
@@ -18740,7 +18740,7 @@ Class: Battle Girl
 Pic: Battle Girl
 Gender: Female
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Togepi
@@ -18761,7 +18761,7 @@ Class: Expert
 Pic: Expert F
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Carvanha
@@ -18786,7 +18786,7 @@ Class: Guitarist
 Pic: Guitarist
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Budew
@@ -18811,7 +18811,7 @@ Class: Kindler
 Pic: Kindler
 Gender: Female
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nidoran♀
@@ -18836,7 +18836,7 @@ Class: Parasol Lady
 Pic: Parasol Lady
 Gender: Male
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Diglett
@@ -18861,7 +18861,7 @@ Class: Cooltrainer
 Pic: Cooltrainer M
 Gender: Female
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Vulpix
@@ -18886,7 +18886,7 @@ Class: Battle Girl
 Pic: Battle Girl
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Kirlia
@@ -18911,7 +18911,7 @@ Class: Bug Maniac
 Pic: Bug Maniac
 Gender: Male
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Duskull
@@ -18936,7 +18936,7 @@ Class: Pkmn Breeder
 Pic: Pokemon Breeder M
 Gender: Female
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Clamperl
@@ -18961,7 +18961,7 @@ Class: Pkmn Breeder
 Pic: Pokemon Breeder F
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Clamperl
@@ -18986,7 +18986,7 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Carvanha
@@ -19011,7 +19011,7 @@ Class: Rival
 Pic: May
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Rattata
@@ -19036,7 +19036,7 @@ Class: Rival
 Pic: May
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Jigglypuff
@@ -19061,7 +19061,7 @@ Class: Leader
 Pic: Leader Roxanne
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Flaaffy
@@ -19090,7 +19090,7 @@ Class: Leader
 Pic: Leader Roxanne
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Graveler
@@ -19119,7 +19119,7 @@ Class: Leader
 Pic: Leader Roxanne
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bayleef
@@ -19148,7 +19148,7 @@ Class: Leader
 Pic: Leader Roxanne
 Gender: Male
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Gligar
@@ -19177,7 +19177,7 @@ Class: Leader
 Pic: Leader Brawly
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Flaaffy
@@ -19206,7 +19206,7 @@ Class: Leader
 Pic: Leader Brawly
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Farfetch'd
@@ -19235,7 +19235,7 @@ Class: Leader
 Pic: Leader Brawly
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bayleef
@@ -19264,7 +19264,7 @@ Class: Leader
 Pic: Leader Brawly
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Dugtrio
@@ -19293,7 +19293,7 @@ Class: Leader
 Pic: Leader Wattson
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nosepass
@@ -19322,7 +19322,7 @@ Class: Leader
 Pic: Leader Wattson
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Beautifly
@@ -19351,7 +19351,7 @@ Class: Leader
 Pic: Leader Wattson
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Corsola
@@ -19380,7 +19380,7 @@ Class: Leader
 Pic: Leader Wattson
 Gender: Female
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Kecleon
@@ -19409,7 +19409,7 @@ Class: Leader
 Pic: Leader Flannery
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nosepass
@@ -19438,7 +19438,7 @@ Class: Leader
 Pic: Leader Flannery
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Beautifly
@@ -19467,7 +19467,7 @@ Class: Leader
 Pic: Leader Flannery
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Azumarill
@@ -19496,7 +19496,7 @@ Class: Leader
 Pic: Leader Flannery
 Gender: Male
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Kecleon
@@ -19525,7 +19525,7 @@ Class: Leader
 Pic: Leader Norman
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Beautifly
@@ -19554,7 +19554,7 @@ Class: Leader
 Pic: Leader Norman
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Dunsparce
@@ -19583,7 +19583,7 @@ Class: Leader
 Pic: Leader Norman
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Gligar
@@ -19612,7 +19612,7 @@ Class: Leader
 Pic: Leader Norman
 Gender: Female
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Masquerain
@@ -19645,7 +19645,7 @@ Class: Leader
 Pic: Leader Winona
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Beautifly
@@ -19674,7 +19674,7 @@ Class: Leader
 Pic: Leader Winona
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Azumarill
@@ -19703,7 +19703,7 @@ Class: Leader
 Pic: Leader Winona
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Gligar
@@ -19732,7 +19732,7 @@ Class: Leader
 Pic: Leader Winona
 Gender: Male
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Fearow
@@ -19761,7 +19761,7 @@ Class: Leader
 Pic: Leader Tate And Liza
 Gender: Male
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Corsola
@@ -19790,7 +19790,7 @@ Class: Leader
 Pic: Leader Tate And Liza
 Gender: Male
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Misdreavus
@@ -19819,7 +19819,7 @@ Class: Leader
 Pic: Leader Tate And Liza
 Gender: Male
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Arbok
@@ -19848,7 +19848,7 @@ Class: Leader
 Pic: Leader Tate And Liza
 Gender: Male
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Breloom
@@ -19881,7 +19881,7 @@ Class: Leader
 Pic: Leader Juan
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Corsola
@@ -19910,7 +19910,7 @@ Class: Leader
 Pic: Leader Juan
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Azumarill
@@ -19939,7 +19939,7 @@ Class: Leader
 Pic: Leader Juan
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Chansey
@@ -19972,7 +19972,7 @@ Class: Leader
 Pic: Leader Juan
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Breloom
@@ -20005,7 +20005,7 @@ Class: Bug Maniac
 Pic: Bug Maniac
 Gender: Male
 Music: Suspicious
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Chingling
@@ -20030,7 +20030,7 @@ Class: Bird Keeper
 Pic: Bird Keeper
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Carvanha
@@ -20055,7 +20055,7 @@ Class: Rival
 Pic: Steven
 Gender: Female
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Gorebyss
@@ -20179,7 +20179,7 @@ Class: Ruin Maniac
 Pic: Ruin Maniac
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bonsly
@@ -20204,7 +20204,7 @@ Class: Ruin Maniac
 Pic: Ruin Maniac
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Squirtle
@@ -20229,7 +20229,7 @@ Class: Ruin Maniac
 Pic: Ruin Maniac
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bulbasaur
@@ -20254,7 +20254,7 @@ Class: Ruin Maniac
 Pic: Ruin Maniac
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Cacnea
@@ -20279,7 +20279,7 @@ Class: Sailor
 Pic: Sailor
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Carvanha
@@ -20304,7 +20304,7 @@ Class: Sailor
 Pic: Sailor
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Slowpoke
@@ -20329,7 +20329,7 @@ Class: Sailor
 Pic: Sailor
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Drowzee
@@ -20354,7 +20354,7 @@ Class: Sailor
 Pic: Sailor
 Gender: Male
 Music: Male
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Cacnea
@@ -20379,7 +20379,7 @@ Class: Triathlete
 Pic: Swimming Triathlete M
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Carvanha
@@ -20404,7 +20404,7 @@ Class: Triathlete
 Pic: Swimming Triathlete M
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Eevee
@@ -20429,7 +20429,7 @@ Class: Triathlete
 Pic: Swimming Triathlete M
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Cacnea
@@ -20454,7 +20454,7 @@ Class: Triathlete
 Pic: Swimming Triathlete M
 Gender: Male
 Music: Swimmer
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Growlithe
@@ -20483,7 +20483,7 @@ Class: Black Belt
 Pic: Black Belt
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Squirtle
@@ -20508,7 +20508,7 @@ Class: Black Belt
 Pic: Black Belt
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Drowzee
@@ -20533,7 +20533,7 @@ Class: Black Belt
 Pic: Black Belt
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Koffing
@@ -20558,7 +20558,7 @@ Class: Black Belt
 Pic: Black Belt
 Gender: Female
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Anorith
@@ -20587,7 +20587,7 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bulbasaur
@@ -20612,7 +20612,7 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Cacnea
@@ -20637,7 +20637,7 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Koffing
@@ -20662,7 +20662,7 @@ Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Male
 Music: Cool
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Aipom
@@ -20691,7 +20691,7 @@ Class: Guitarist
 Pic: Guitarist
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Slowpoke
@@ -20716,7 +20716,7 @@ Class: Guitarist
 Pic: Guitarist
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Drowzee
@@ -20741,7 +20741,7 @@ Class: Guitarist
 Pic: Guitarist
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Koffing
@@ -20766,7 +20766,7 @@ Class: Guitarist
 Pic: Guitarist
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Clamperl
@@ -20791,7 +20791,7 @@ Class: Hiker
 Pic: Hiker
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Budew
@@ -20816,7 +20816,7 @@ Class: Hiker
 Pic: Hiker
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Carvanha
@@ -20841,7 +20841,7 @@ Class: Hiker
 Pic: Hiker
 Gender: Male
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Abra
@@ -20866,7 +20866,7 @@ Class: Hiker
 Pic: Hiker
 Gender: Female
 Music: Hiker
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Drowzee
@@ -20891,7 +20891,7 @@ Class: Pkmn Breeder
 Pic: Pokemon Breeder F
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Anorith
@@ -20920,7 +20920,7 @@ Class: Pkmn Breeder
 Pic: Pokemon Breeder F
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Flaaffy
@@ -20949,7 +20949,7 @@ Class: Pkmn Breeder
 Pic: Pokemon Breeder F
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Nosepass
@@ -20978,7 +20978,7 @@ Class: Pkmn Breeder
 Pic: Pokemon Breeder F
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Dustox
@@ -21007,7 +21007,7 @@ Class: Beauty
 Pic: Beauty
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Bagon
@@ -21032,7 +21032,7 @@ Class: Beauty
 Pic: Beauty
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Eevee
@@ -21057,7 +21057,7 @@ Class: Beauty
 Pic: Beauty
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Aron
@@ -21082,7 +21082,7 @@ Class: Beauty
 Pic: Beauty
 Gender: Female
 Music: Female
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Clamperl
@@ -21107,7 +21107,7 @@ Class: Psychic
 Pic: Psychic F
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Corphish
@@ -21132,7 +21132,7 @@ Class: Psychic
 Pic: Psychic M
 Gender: Male
 Music: Intense
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Clefairy
@@ -21157,7 +21157,7 @@ Class: Gentleman
 Pic: Gentleman
 Gender: Male
 Music: Rich
-Double Battle:No
+Double Battle:Yes
 AI: Smart Trainer
 
 Gulpin
@@ -21223,5 +21223,6 @@ Double Battle: No
 Kyogre
 Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 
 
