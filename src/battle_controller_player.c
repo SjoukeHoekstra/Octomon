@@ -399,9 +399,19 @@ static void HandleInputChooseAction(u32 battler)
             if (!(gBattleTypeFlags & BATTLE_TYPE_TRAINER)) // If wild battle, pressing B moves cursor to "Run".
             {
                 PlaySE(SE_SELECT);
-                ActionSelectionDestroyCursorAt(gActionSelectionCursor[battler]);
-                gActionSelectionCursor[battler] = 3;
-                ActionSelectionCreateCursorAt(gActionSelectionCursor[battler], 0);
+                // Auto jump to run option
+                switch (gActionSelectionCursor[gActiveBattler])
+                {
+                    case 3: // Bottom right
+                        BtlController_EmitTwoReturnValues(BUFFER_B, B_ACTION_RUN, 0);
+                        PlayerBufferExecCompleted();
+                        break;
+                    default: // Bottom left
+                        ActionSelectionDestroyCursorAt(gActionSelectionCursor[gActiveBattler]);
+                        gActionSelectionCursor[gActiveBattler] = 3;
+                        ActionSelectionCreateCursorAt(gActionSelectionCursor[gActiveBattler], 0);
+                        break;
+                }
             }
         }
     }
@@ -421,6 +431,7 @@ static void HandleInputChooseAction(u32 battler)
         TryHideLastUsedBall();
         BtlController_EmitTwoReturnValues(battler, BUFFER_B, B_ACTION_THROW_BALL, 0);
         PlayerBufferExecCompleted(battler);
+    
     }
 }
 
