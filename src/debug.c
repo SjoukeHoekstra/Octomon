@@ -67,7 +67,7 @@
 #include "constants/species.h"
 #include "constants/weather.h"
 #include "save.h"
-#include "randomizer.h
+#include "randomizer.h"
 
 // *******************************
 enum DebugMenu
