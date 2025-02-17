@@ -2528,6 +2528,7 @@ const struct SpeciesInfo gSpeciesInfoGen5[] =
         .eggMoveLearnset = sAudinoEggMoveLearnset,
         .formSpeciesIdTable = sAudinoFormSpeciesIdTable,
         .formChangeTable = sAudinoFormChangeTable,
+        .evolutions = EVOLUTION({EVO_LEVEL, 30, SPECIES_AUDINO_MEGA}),
     },
 
 #if P_MEGA_EVOLUTIONS

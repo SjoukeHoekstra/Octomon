@@ -3136,6 +3136,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .teachableLearnset = sLopunnyTeachableLearnset,
         .formSpeciesIdTable = sLopunnyFormSpeciesIdTable,
         .formChangeTable = sLopunnyFormChangeTable,
+        .evolutions = EVOLUTION({EVO_LEVEL, 30, SPECIES_LOPUNNY_MEGA}),
     },
 
 #if P_MEGA_EVOLUTIONS
@@ -3947,6 +3948,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .teachableLearnset = sGarchompTeachableLearnset,
         .formSpeciesIdTable = sGarchompFormSpeciesIdTable,
         .formChangeTable = sGarchompFormChangeTable,
+        .evolutions = EVOLUTION({EVO_LEVEL, 30, SPECIES_GARCHOMP_MEGA}),
     },
 
 #if P_MEGA_EVOLUTIONS
@@ -4145,6 +4147,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .teachableLearnset = sLucarioTeachableLearnset,
         .formSpeciesIdTable = sLucarioFormSpeciesIdTable,
         .formChangeTable = sLucarioFormChangeTable,
+        .evolutions = EVOLUTION({EVO_LEVEL, 30, SPECIES_LUCARIO_MEGA}),
     },
 
 #if P_MEGA_EVOLUTIONS
@@ -5015,6 +5018,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .teachableLearnset = sAbomasnowTeachableLearnset,
         .formSpeciesIdTable = sAbomasnowFormSpeciesIdTable,
         .formChangeTable = sAbomasnowFormChangeTable,
+        .evolutions = EVOLUTION({EVO_LEVEL, 30, SPECIES_ABOMASNOW_MEGA}),
     },
 
 #if P_MEGA_EVOLUTIONS

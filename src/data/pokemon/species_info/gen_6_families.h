@@ -5933,6 +5933,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .teachableLearnset = sDiancieTeachableLearnset,
         .formSpeciesIdTable = sDiancieFormSpeciesIdTable,
         .formChangeTable = sDiancieFormChangeTable,
+        .evolutions = EVOLUTION({EVO_LEVEL, 30, SPECIES_DIANCIE_MEGA}),
     },
 
 #if P_MEGA_EVOLUTIONS
