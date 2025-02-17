@@ -5998,7 +5998,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         )
     #endif //OW_BATTLE_ONLY_FORMS
         .isMythical = TRUE,
-        .isMegaEvolution = TRUE,
+        .isMegaEvolution = FALSE,
         .isFrontierBanned = TRUE,
         .perfectIVCount = LEGENDARY_PERFECT_IV_COUNT,
         .levelUpLearnset = sDiancieLevelUpLearnset,

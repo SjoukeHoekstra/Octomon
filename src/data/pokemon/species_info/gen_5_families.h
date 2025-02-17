@@ -2593,7 +2593,7 @@ const struct SpeciesInfo gSpeciesInfoGen5[] =
             gShinyOverworldPalette_AudinoMega
         )
     #endif //OW_BATTLE_ONLY_FORMS
-        .isMegaEvolution = TRUE,
+        .isMegaEvolution = FALSE,
         .levelUpLearnset = sAudinoLevelUpLearnset,
         .teachableLearnset = sAudinoTeachableLearnset,
         .eggMoveLearnset = sAudinoEggMoveLearnset,

@@ -259,7 +259,7 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
             gShinyOverworldPalette_SceptileMega
         )
     #endif //OW_BATTLE_ONLY_FORMS
-        .isMegaEvolution = TRUE,
+        .isMegaEvolution = FALSE,
         .levelUpLearnset = sSceptileLevelUpLearnset,
         .teachableLearnset = sSceptileTeachableLearnset,
         .formSpeciesIdTable = sSceptileFormSpeciesIdTable,
@@ -559,7 +559,7 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
             gShinyOverworldPalette_BlazikenMega
         )
     #endif //OW_BATTLE_ONLY_FORMS
-        .isMegaEvolution = TRUE,
+        .isMegaEvolution = FALSE,
         .levelUpLearnset = sBlazikenLevelUpLearnset,
         .teachableLearnset = sBlazikenTeachableLearnset,
         .formSpeciesIdTable = sBlazikenFormSpeciesIdTable,
@@ -824,7 +824,7 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
             gShinyOverworldPalette_SwampertMega
         )
     #endif //OW_BATTLE_ONLY_FORMS
-        .isMegaEvolution = TRUE,
+        .isMegaEvolution = FALSE,
         .levelUpLearnset = sSwampertLevelUpLearnset,
         .teachableLearnset = sSwampertTeachableLearnset,
         .formSpeciesIdTable = sSwampertFormSpeciesIdTable,
@@ -2662,7 +2662,7 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
             gShinyOverworldPalette_GardevoirMega
         )
     #endif //OW_BATTLE_ONLY_FORMS
-        .isMegaEvolution = TRUE,
+        .isMegaEvolution = FALSE,
         .levelUpLearnset = sGardevoirLevelUpLearnset,
         .teachableLearnset = sGardevoirTeachableLearnset,
         .formSpeciesIdTable = sGardevoirFormSpeciesIdTable,
@@ -2805,7 +2805,7 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
             gShinyOverworldPalette_GalladeMega
         )
     #endif //OW_BATTLE_ONLY_FORMS
-        .isMegaEvolution = TRUE,
+        .isMegaEvolution = FALSE,
         .levelUpLearnset = sGalladeLevelUpLearnset,
         .teachableLearnset = sGalladeTeachableLearnset,
         .formSpeciesIdTable = sGalladeFormSpeciesIdTable,
@@ -4205,7 +4205,7 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
             gShinyOverworldPalette_SableyeMega
         )
     #endif //OW_BATTLE_ONLY_FORMS
-        .isMegaEvolution = TRUE,
+        .isMegaEvolution = FALSE,
         .levelUpLearnset = sSableyeLevelUpLearnset,
         .teachableLearnset = sSableyeTeachableLearnset,
         .eggMoveLearnset = sSableyeEggMoveLearnset,
@@ -4350,7 +4350,7 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
             gShinyOverworldPalette_MawileMega
         )
     #endif //OW_BATTLE_ONLY_FORMS
-        .isMegaEvolution = TRUE,
+        .isMegaEvolution = FALSE,
         .levelUpLearnset = sMawileLevelUpLearnset,
         .teachableLearnset = sMawileTeachableLearnset,
         .eggMoveLearnset = sMawileEggMoveLearnset,
@@ -4620,7 +4620,7 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
             gShinyOverworldPalette_AggronMega
         )
     #endif //OW_BATTLE_ONLY_FORMS
-        .isMegaEvolution = TRUE,
+        .isMegaEvolution = FALSE,
         .levelUpLearnset = sAggronLevelUpLearnset,
         .teachableLearnset = sAggronTeachableLearnset,
         .formSpeciesIdTable = sAggronFormSpeciesIdTable,
@@ -4841,7 +4841,7 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
             gShinyOverworldPalette_MedichamMega
         )
     #endif //OW_BATTLE_ONLY_FORMS
-        .isMegaEvolution = TRUE,
+        .isMegaEvolution = FALSE,
         .levelUpLearnset = sMedichamLevelUpLearnset,
         .teachableLearnset = sMedichamTeachableLearnset,
         .formSpeciesIdTable = sMedichamFormSpeciesIdTable,
@@ -5037,7 +5037,7 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
             gShinyOverworldPalette_ManectricMega
         )
     #endif //OW_BATTLE_ONLY_FORMS
-        .isMegaEvolution = TRUE,
+        .isMegaEvolution = FALSE,
         .levelUpLearnset = sManectricLevelUpLearnset,
         .teachableLearnset = sManectricTeachableLearnset,
         .formSpeciesIdTable = sManectricFormSpeciesIdTable,
@@ -5905,7 +5905,7 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
             gShinyOverworldPalette_SharpedoMega
         )
     #endif //OW_BATTLE_ONLY_FORMS
-        .isMegaEvolution = TRUE,
+        .isMegaEvolution = FALSE,
         .levelUpLearnset = sSharpedoLevelUpLearnset,
         .teachableLearnset = sSharpedoTeachableLearnset,
         .formSpeciesIdTable = sSharpedoFormSpeciesIdTable,
@@ -6263,7 +6263,7 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
             gShinyOverworldPalette_CameruptMega
         )
     #endif //OW_BATTLE_ONLY_FORMS
-        .isMegaEvolution = TRUE,
+        .isMegaEvolution = FALSE,
         .levelUpLearnset = sCameruptLevelUpLearnset,
         .teachableLearnset = sCameruptTeachableLearnset,
         .formSpeciesIdTable = sCameruptFormSpeciesIdTable,
@@ -7077,7 +7077,7 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
             gShinyOverworldPalette_AltariaMega
         )
     #endif //OW_BATTLE_ONLY_FORMS
-        .isMegaEvolution = TRUE,
+        .isMegaEvolution = FALSE,
         .levelUpLearnset = sAltariaLevelUpLearnset,
         .teachableLearnset = sAltariaTeachableLearnset,
         .formSpeciesIdTable = sAltariaFormSpeciesIdTable,
@@ -8723,7 +8723,7 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
             gShinyOverworldPalette_BanetteMega
         )
     #endif //OW_BATTLE_ONLY_FORMS
-        .isMegaEvolution = TRUE,
+        .isMegaEvolution = FALSE,
         .levelUpLearnset = sBanetteLevelUpLearnset,
         .teachableLearnset = sBanetteTeachableLearnset,
         .formSpeciesIdTable = sBanetteFormSpeciesIdTable,
@@ -9290,7 +9290,7 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
             gShinyOverworldPalette_AbsolMega
         )
     #endif //OW_BATTLE_ONLY_FORMS
-        .isMegaEvolution = TRUE,
+        .isMegaEvolution = FALSE,
         .levelUpLearnset = sAbsolLevelUpLearnset,
         .teachableLearnset = sAbsolTeachableLearnset,
         .eggMoveLearnset = sAbsolEggMoveLearnset,
@@ -9500,7 +9500,7 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
             gShinyOverworldPalette_GlalieMega
         )
     #endif //OW_BATTLE_ONLY_FORMS
-        .isMegaEvolution = TRUE,
+        .isMegaEvolution = FALSE,
         .levelUpLearnset = sGlalieLevelUpLearnset,
         .teachableLearnset = sGlalieTeachableLearnset,
         .formSpeciesIdTable = sGlalieFormSpeciesIdTable,
@@ -10379,7 +10379,7 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
             gShinyOverworldPalette_SalamenceMega
         )
     #endif //OW_BATTLE_ONLY_FORMS
-        .isMegaEvolution = TRUE,
+        .isMegaEvolution = FALSE,
         .levelUpLearnset = sSalamenceLevelUpLearnset,
         .teachableLearnset = sSalamenceTeachableLearnset,
         .formSpeciesIdTable = sSalamenceFormSpeciesIdTable,
@@ -10649,7 +10649,7 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
             gShinyOverworldPalette_MetagrossMega
         )
     #endif //OW_BATTLE_ONLY_FORMS
-        .isMegaEvolution = TRUE,
+        .isMegaEvolution = FALSE,
         .levelUpLearnset = sMetagrossLevelUpLearnset,
         .teachableLearnset = sMetagrossTeachableLearnset,
         .formSpeciesIdTable = sMetagrossFormSpeciesIdTable,
@@ -11009,7 +11009,7 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
         )
     #endif //OW_BATTLE_ONLY_FORMS
         .isLegendary = TRUE,
-        .isMegaEvolution = TRUE,
+        .isMegaEvolution = FALSE,
         .perfectIVCount = LEGENDARY_PERFECT_IV_COUNT,
         .levelUpLearnset = sLatiasLevelUpLearnset,
         .teachableLearnset = sLatiasTeachableLearnset,
@@ -11155,7 +11155,7 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
         )
     #endif //OW_BATTLE_ONLY_FORMS
         .isLegendary = TRUE,
-        .isMegaEvolution = TRUE,
+        .isMegaEvolution = FALSE,
         .perfectIVCount = LEGENDARY_PERFECT_IV_COUNT,
         .levelUpLearnset = sLatiosLevelUpLearnset,
         .teachableLearnset = sLatiosTeachableLearnset,
@@ -11597,7 +11597,7 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
         )
     #endif //OW_BATTLE_ONLY_FORMS
         .isLegendary = TRUE,
-        .isMegaEvolution = TRUE,
+        .isMegaEvolution = FALSE,
         .isFrontierBanned = TRUE,
         .perfectIVCount = LEGENDARY_PERFECT_IV_COUNT,
         .levelUpLearnset = sRayquazaLevelUpLearnset,

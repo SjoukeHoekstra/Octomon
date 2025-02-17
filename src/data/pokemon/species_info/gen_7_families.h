@@ -6511,7 +6511,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         )
     #endif //OW_BATTLE_ONLY_FORMS
         .isLegendary = TRUE,
-        .isUltraBurst = TRUE,
+        .isUltraBurst = FALSE,
         .cannotBeTraded = TRUE,
         .isFrontierBanned = TRUE,
         .perfectIVCount = LEGENDARY_PERFECT_IV_COUNT,

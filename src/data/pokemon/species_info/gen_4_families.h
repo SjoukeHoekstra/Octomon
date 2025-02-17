@@ -3199,7 +3199,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
             gShinyOverworldPalette_LopunnyMega
         )
     #endif //OW_BATTLE_ONLY_FORMS
-        .isMegaEvolution = TRUE,
+        .isMegaEvolution = FALSE,
         .levelUpLearnset = sLopunnyLevelUpLearnset,
         .teachableLearnset = sLopunnyTeachableLearnset,
         .formSpeciesIdTable = sLopunnyFormSpeciesIdTable,
@@ -4010,7 +4010,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
             gShinyOverworldPalette_GarchompMega
         )
     #endif //OW_BATTLE_ONLY_FORMS
-        .isMegaEvolution = TRUE,
+        .isMegaEvolution = FALSE,
         .levelUpLearnset = sGarchompLevelUpLearnset,
         .teachableLearnset = sGarchompTeachableLearnset,
         .formSpeciesIdTable = sGarchompFormSpeciesIdTable,
@@ -4209,7 +4209,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
             gShinyOverworldPalette_LucarioMega
         )
     #endif //OW_BATTLE_ONLY_FORMS
-        .isMegaEvolution = TRUE,
+        .isMegaEvolution = FALSE,
         .levelUpLearnset = sLucarioLevelUpLearnset,
         .teachableLearnset = sLucarioTeachableLearnset,
         .formSpeciesIdTable = sLucarioFormSpeciesIdTable,
@@ -5080,7 +5080,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
             gShinyOverworldPalette_AbomasnowMega
         )
     #endif //OW_BATTLE_ONLY_FORMS
-        .isMegaEvolution = TRUE,
+        .isMegaEvolution = FALSE,
         .levelUpLearnset = sAbomasnowLevelUpLearnset,
         .teachableLearnset = sAbomasnowTeachableLearnset,
         .formSpeciesIdTable = sAbomasnowFormSpeciesIdTable,

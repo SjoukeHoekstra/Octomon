@@ -1944,7 +1944,7 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
             gShinyOverworldPalette_AmpharosMega
         )
     #endif //OW_BATTLE_ONLY_FORMS
-        .isMegaEvolution = TRUE,
+        .isMegaEvolution = FALSE,
         .levelUpLearnset = sAmpharosLevelUpLearnset,
         .teachableLearnset = sAmpharosTeachableLearnset,
         .formSpeciesIdTable = sAmpharosFormSpeciesIdTable,
@@ -4892,7 +4892,7 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
             gShinyOverworldPalette_HeracrossMega
         )
     #endif //OW_BATTLE_ONLY_FORMS
-        .isMegaEvolution = TRUE,
+        .isMegaEvolution = FALSE,
         .levelUpLearnset = sHeracrossLevelUpLearnset,
         .teachableLearnset = sHeracrossTeachableLearnset,
         .eggMoveLearnset = sHeracrossEggMoveLearnset,
@@ -6646,7 +6646,7 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
             gShinyOverworldPalette_HoundoomMega
         )
     #endif //OW_BATTLE_ONLY_FORMS
-        .isMegaEvolution = TRUE,
+        .isMegaEvolution = FALSE,
         .levelUpLearnset = sHoundoomLevelUpLearnset,
         .teachableLearnset = sHoundoomTeachableLearnset,
         .formSpeciesIdTable = sHoundoomFormSpeciesIdTable,
@@ -7551,7 +7551,7 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
             gShinyOverworldPalette_TyranitarMega
         )
     #endif //OW_BATTLE_ONLY_FORMS
-        .isMegaEvolution = TRUE,
+        .isMegaEvolution = FALSE,
         .levelUpLearnset = sTyranitarLevelUpLearnset,
         .teachableLearnset = sTyranitarTeachableLearnset,
         .formSpeciesIdTable = sTyranitarFormSpeciesIdTable,
