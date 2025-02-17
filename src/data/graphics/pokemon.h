@@ -6381,10 +6381,10 @@ const u32 gObjectEventPic_Substitute[] = INCBIN_COMP("graphics/pokemon/question_
     const u32 gMonShinyPalette_MewtwoMegaY[] = INCBIN_U32("graphics/pokemon/mewtwo/mega_y/shiny.gbapal.lz");
     const u8 gMonIcon_MewtwoMegaY[] = INCBIN_U8("graphics/pokemon/mewtwo/mega_y/icon.4bpp");
 #if OW_POKEMON_OBJECT_EVENTS
-    // const u32 gObjectEventPic_MewtwoMegaY[] = INCBIN_COMP("graphics/pokemon/mewtwo/mega_y/overworld.4bpp");
+    const u32 gObjectEventPic_MewtwoMegaY[] = INCBIN_COMP("graphics/pokemon/mewtwo/mega_y/overworld.4bpp");
 #if OW_PKMN_OBJECTS_SHARE_PALETTES == FALSE
-    // const u32 gOverworldPalette_MewtwoMegaY[] = INCBIN_U32("graphics/pokemon/mewtwo/mega_y/overworld_normal.gbapal.lz");
-    // const u32 gShinyOverworldPalette_MewtwoMegaY[] = INCBIN_U32("graphics/pokemon/mewtwo/mega_y/overworld_shiny.gbapal.lz");
+    const u32 gOverworldPalette_MewtwoMegaY[] = INCBIN_U32("graphics/pokemon/mewtwo/mega_y/overworld_normal.gbapal.lz");
+    const u32 gShinyOverworldPalette_MewtwoMegaY[] = INCBIN_U32("graphics/pokemon/mewtwo/mega_y/overworld_shiny.gbapal.lz");
 #endif //OW_PKMN_OBJECTS_SHARE_PALETTES
 #endif //OW_POKEMON_OBJECT_EVENTS
 #endif //P_MEGA_EVOLUTIONS
@@ -22379,10 +22379,10 @@ const u32 gObjectEventPic_Substitute[] = INCBIN_COMP("graphics/pokemon/question_
     const u32 gMonShinyPalette_NecrozmaUltra[] = INCBIN_U32("graphics/pokemon/necrozma/ultra/shiny.gbapal.lz");
     const u8 gMonIcon_NecrozmaUltra[] = INCBIN_U8("graphics/pokemon/necrozma/ultra/icon.4bpp");
 #if OW_POKEMON_OBJECT_EVENTS
-    // const u32 gObjectEventPic_NecrozmaUltra[] = INCBIN_COMP("graphics/pokemon/necrozma/ultra/overworld.4bpp");
+    const u32 gObjectEventPic_NecrozmaUltra[] = INCBIN_COMP("graphics/pokemon/necrozma/ultra/overworld.4bpp");
 #if OW_PKMN_OBJECTS_SHARE_PALETTES == FALSE
-    // const u32 gOverworldPalette_NecrozmaUltra[] = INCBIN_U32("graphics/pokemon/necrozma/ultra/overworld_normal.gbapal.lz");
-    // const u32 gShinyOverworldPalette_NecrozmaUltra[] = INCBIN_U32("graphics/pokemon/necrozma/ultra/overworld_shiny.gbapal.lz");
+    const u32 gOverworldPalette_NecrozmaUltra[] = INCBIN_U32("graphics/pokemon/necrozma/ultra/overworld_normal.gbapal.lz");
+    const u32 gShinyOverworldPalette_NecrozmaUltra[] = INCBIN_U32("graphics/pokemon/necrozma/ultra/overworld_shiny.gbapal.lz");
 #endif //OW_PKMN_OBJECTS_SHARE_PALETTES
 #endif //OW_POKEMON_OBJECT_EVENTS
 #endif //P_ULTRA_BURST_FORMS
