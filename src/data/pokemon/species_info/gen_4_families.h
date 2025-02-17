@@ -3190,7 +3190,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         FOOTPRINT(Lopunny)
     #if OW_BATTLE_ONLY_FORMS
         OVERWORLD(
-            gObjectEventPic_LopunnyMega,
+            sPicTable_LopunnyMega,
             SIZE_32x32,
             SHADOW_SIZE_M,
             TRACKS_FOOT,
@@ -4001,7 +4001,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         FOOTPRINT(Garchomp)
     #if OW_BATTLE_ONLY_FORMS
         OVERWORLD(
-            gObjectEventPic_GarchompMega,
+            sPicTable_GarchompMega,
             SIZE_32x32,
             SHADOW_SIZE_M,
             TRACKS_FOOT,
@@ -4200,7 +4200,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         FOOTPRINT(Lucario)
     #if OW_BATTLE_ONLY_FORMS
         OVERWORLD(
-            gObjectEventPic_LucarioMega,
+            sPicTable_LucarioMega,
             SIZE_32x32,
             SHADOW_SIZE_M,
             TRACKS_FOOT,
@@ -5071,7 +5071,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         FOOTPRINT(Abomasnow)
     #if OW_BATTLE_ONLY_FORMS
         OVERWORLD(
-            gObjectEventPic_AbomasnowMega,
+            sPicTable_AbomasnowMega,
             SIZE_32x32,
             SHADOW_SIZE_M,
             TRACKS_FOOT,

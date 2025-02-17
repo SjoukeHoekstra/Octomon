@@ -1935,7 +1935,7 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         FOOTPRINT(Ampharos)
     #if OW_BATTLE_ONLY_FORMS
         OVERWORLD(
-            gObjectEventPic_AmpharosMega,
+            sPicTable_AmpharosMega,
             SIZE_32x32,
             SHADOW_SIZE_M,
             TRACKS_FOOT,
@@ -4883,7 +4883,7 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         FOOTPRINT(Heracross)
     #if OW_BATTLE_ONLY_FORMS
         OVERWORLD(
-            gObjectEventPic_HeracrossMega,
+            sPicTable_HeracrossMega,
             SIZE_32x32,
             SHADOW_SIZE_M,
             TRACKS_FOOT,
@@ -6637,7 +6637,7 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         FOOTPRINT(Houndoom)
     #if OW_BATTLE_ONLY_FORMS
         OVERWORLD(
-            gObjectEventPic_HoundoomMega,
+            sPicTable_HoundoomMega,
             SIZE_32x32,
             SHADOW_SIZE_M,
             TRACKS_FOOT,
@@ -7542,7 +7542,7 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         FOOTPRINT(Tyranitar)
     #if OW_BATTLE_ONLY_FORMS
         OVERWORLD(
-            gObjectEventPic_TyranitarMega,
+            sPicTable_TyranitarMega,
             SIZE_32x32,
             SHADOW_SIZE_M,
             TRACKS_FOOT,
