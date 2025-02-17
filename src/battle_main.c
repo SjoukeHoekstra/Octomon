@@ -1978,8 +1978,7 @@ u8 CreateNPCTrainerPartyFromTrainer(struct Pokemon *party, const struct Trainer 
                 otIdType = OT_ID_PRESET;
                 fixedOtId = HIHALF(personalityValue) ^ LOHALF(personalityValue);
             } 
-            u8 HighestLevel = GetHighestLevelInPlayerParty();
-            CreateMon(&party[i], species, HighestLevel, 0, TRUE, personalityValue, otIdType, fixedOtId);
+            CreateMon(&party[i], species, GetHighestLevelInPlayerParty(), 0, TRUE, personalityValue, otIdType, fixedOtId);
             SetMonData(&party[i], MON_DATA_HELD_ITEM, &partyData[i].heldItem);
 
             CustomTrainerPartyAssignMoves(&party[i], &partyData[i]);
