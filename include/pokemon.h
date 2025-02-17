@@ -119,6 +119,13 @@ enum {
     MON_DATA_EVOLUTION_TRACKER,
 };
 
+enum {
+    MON_RANDOMIZER_NORMAL,
+    MON_RANDOMIZER_RANDOM_FORM,
+    MON_RANDOMIZER_SPECIAL_FORM,
+    MON_RANDOMIZER_INVALID
+};
+
 struct PokemonSubstruct0
 {
     u16 species:11; // 2047 species.
@@ -368,7 +375,8 @@ struct SpeciesInfo /*0xC4*/
     u16 evYield_Speed:2;
     u16 evYield_SpAttack:2;
     u16 evYield_SpDefense:2;
-    u16 padding2:4;
+    u32 randomizerMode:2;   // Controls how the randomizer handles this species.
+    u32 padding4:9;
     u16 itemCommon;
     u16 itemRare;
     u8 genderRatio;
