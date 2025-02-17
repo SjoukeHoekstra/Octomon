@@ -50,7 +50,6 @@ static void UpdateChainFishingStreak();
 static bool8 IsWildLevelAllowedByRepel(u8 level);
 static void ApplyFluteEncounterRateMod(u32 *encRate);
 static void ApplyCleanseTagEncounterRateMod(u32 *encRate);
-static u8 GetMaxLevelOfSpeciesInWildTable(const struct WildPokemon *wildMon, u16 species, enum WildArea area);
 #ifdef BUGFIX
 static bool8 TryGetAbilityInfluencedWildMonIndex(const struct WildPokemon *wildMon, u8 type, u16 ability, u8 *monIndex, u32 size);
 #else
@@ -1067,35 +1066,6 @@ static bool8 TryGetRandomWildMonIndexByType(const struct WildPokemon *wildMon, u
 }
 
 #include "data.h"
-
-static u8 GetMaxLevelOfSpeciesInWildTable(const struct WildPokemon *wildMon, u16 species, enum WildArea area)
-{
-    u8 i, maxLevel = 0, numMon = 0;
-
-    switch (area)
-    {
-    case WILD_AREA_LAND:
-        numMon = LAND_WILD_COUNT;
-        break;
-    case WILD_AREA_WATER:
-        numMon = WATER_WILD_COUNT;
-        break;
-    case WILD_AREA_ROCKS:
-        numMon = ROCK_WILD_COUNT;
-        break;
-    case WILD_AREA_FISHING:
-        numMon = FISH_WILD_COUNT;
-        break;
-    }
-
-    for (i = 0; i < numMon; i++)
-    {
-        if (wildMon[i].species == species && wildMon[i].maxLevel > maxLevel)
-            maxLevel = wildMon[i].maxLevel;
-    }
-
-    return maxLevel;
-}
 
 #ifdef BUGFIX
 static bool8 TryGetAbilityInfluencedWildMonIndex(const struct WildPokemon *wildMon, u8 type, u16 ability, u8 *monIndex, u32 size)
