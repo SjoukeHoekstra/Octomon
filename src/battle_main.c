@@ -74,6 +74,7 @@
 #include "cable_club.h"
 #include "randomizer.h"
 #include "battle_tower.h"
+#include "script_pokemon_util_.h"
 
 extern const struct BgTemplate gBattleBgTemplates[];
 extern const struct WindowTemplate *const gBattleWindowTemplates[];
