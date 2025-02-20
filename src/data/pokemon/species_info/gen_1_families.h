@@ -537,7 +537,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .formSpeciesIdTable = sCharizardFormSpeciesIdTable,
         .formChangeTable = sCharizardFormChangeTable,
         .evolutions = EVOLUTION({EVO_LEVEL_SILCOON, 67, SPECIES_CHARIZARD_MEGA_X},
-                                {EVO_LEVEL_CASCOON 67, SPECIES_CHARIZARD_MEGA_Y}),
+                                {EVO_LEVEL_CASCOON, 67, SPECIES_CHARIZARD_MEGA_Y}),
     },
 
 #if P_MEGA_EVOLUTIONS
