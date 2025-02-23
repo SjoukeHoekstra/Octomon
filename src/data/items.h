@@ -14096,7 +14096,7 @@ const struct Item gItemsInfo[] =
 
     [ITEM_INFINITE_REPEL] =
     {
-        .name = _("InfiniteRepel"),
+        .name = _("Octo Repel"),
         .price = 0,
         .description = COMPOUND_STRING(
             "Repels all wild\n"
@@ -14108,5 +14108,24 @@ const struct Item gItemsInfo[] =
         .fieldUseFunc = ItemUseOutOfBattle_InfiniteRepel,
         .iconPic = gItemIcon_Repel,
         .iconPalette = gItemIconPalette_MaxRepel,
+    },
+
+    [ITEM_SUPER_CANDY] =
+    {
+        .name = _("Octo Candy"),
+        .pluralName = _("Octo Candies"),
+        .price = 0,
+        .holdEffectParam = LEVEL_CAP,
+        .description = COMPOUND_STRING(
+            "Raises level to\n"
+            "the level cap."),
+        .importance = 1,
+        .pocket = POCKET_KEY_ITEMS,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_RareCandy,
+        .effect = gItemEffect_RareCandy,
+        .flingPower = 30,
+        .iconPic = gItemIcon_ExpCandyXL,
+        .iconPalette = gItemIconPalette_ExpCandies,
     },
 };
