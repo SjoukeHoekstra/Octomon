@@ -73,6 +73,7 @@
 #include "constants/weather.h"
 #include "item.h"
 #include "constants/items.h"
+#include "party_menu.h"
 
 struct CableClubPlayer
 {

@@ -55,6 +55,7 @@
 #include "malloc.h"
 #include "constants/event_objects.h"
 #include "constants/items.h"
+#include "party_menu.h"
 
 typedef u16 (*SpecialFunc)(void);
 typedef void (*NativeFunc)(struct ScriptContext *ctx);
