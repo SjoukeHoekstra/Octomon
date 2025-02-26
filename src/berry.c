@@ -2213,25 +2213,6 @@ void ObjectEventInteractionApplyMulch(void)
     StringExpandPlaceholders(gStringVar1, gItemsInfo[gSpecialVar_ItemId].name);
 }
 
-void ObjectEventInteractionPickBerryTree(void)
-{
-    u8 id = GetObjectEventBerryTreeId(gSelectedObjectEvent);
-    u8 berry = GetBerryTypeByBerryTreeId(id);
-    u8 mutation = GetTreeMutationValue(id);
-
-    if (!OW_BERRY_MUTATIONS || mutation == 0)
-    {
-        gSpecialVar_0x8004 = AddBagItem(BerryTypeToItemId(berry), GetBerryCountByBerryTreeId(id));
-        return;
-    }
-    gSpecialVar_0x8004 = (CheckBagHasSpace(BerryTypeToItemId(berry), GetBerryCountByBerryTreeId(id)) && CheckBagHasSpace(BerryTypeToItemId(mutation), 1)) + 2;
-    if (gSpecialVar_0x8004 == 3)
-    {
-        AddBagItem(BerryTypeToItemId(berry), GetBerryCountByBerryTreeId(id));
-        AddBagItem(BerryTypeToItemId(mutation), 1);
-    }
-}
-
 void ObjectEventInteractionRemoveBerryTree(void)
 {
     RemoveBerryTree(GetObjectEventBerryTreeId(gSelectedObjectEvent));

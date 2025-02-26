@@ -158,36 +158,13 @@ BerryTree_EventScript_CheckBerryFullyGrown::
 	goto_if_eq VAR_RESULT, TRUE, BerryTree_EventScript_CheckBerryFullyGrown_Mutation
 .endif
 	msgbox BerryTree_Text_WantToPick, MSGBOX_YESNO
-	goto_if_eq VAR_RESULT, YES, BerryTree_EventScript_PickBerry
+	goto_if_eq VAR_RESULT, YES, BerryTree_EventScript_CancelPickingBerry
 	goto_if_eq VAR_RESULT, NO, BerryTree_EventScript_CancelPickingBerry
 
 .set BERRY_NORMAL_BAG_FULL, 0
 .set BERRY_NORMAL_SPACE_IN_BAG, 1
 .set BERRY_MUTATION_BAG_FULL, 2
 .set BERRY_MUTATION_SPACE_IN_BAG, 3
-
-BerryTree_EventScript_PickBerry::
-	special ObjectEventInteractionPickBerryTree
-	goto_if_eq VAR_0x8004, BERRY_NORMAL_BAG_FULL, BerryTree_EventScript_BerryPocketFull
-.if OW_BERRY_MUTATIONS == TRUE
-	goto_if_eq VAR_0x8004, BERRY_MUTATION_BAG_FULL, BerryTree_EventScript_BerryPocketFull_Mutation
-	goto_if_eq VAR_0x8004, BERRY_MUTATION_SPACE_IN_BAG, BerryTree_EventScript_PickBerry_Mutation
-.endif
-	special IncrementDailyPickedBerries
-	special ObjectEventInteractionRemoveBerryTree
-	message BerryTree_Text_PickedTheBerry
-	delay 10
-	showberrydescription
-	playfanfare MUS_OBTAIN_BERRY
-	waitmessage
-	waitfanfare
-	waitbuttonpress
-	message BerryTree_Text_PutAwayBerry
-	waitmessage
-	waitbuttonpress
-	hideitemdescription
-	release
-	end
 
 BerryTree_EventScript_BerryPocketFull::
 	message BerryTree_Text_BerryPocketFull
@@ -349,7 +326,7 @@ BerryTree_Text_ExclamationPoint:
 .if OW_BERRY_MUTATIONS == TRUE
 BerryTree_EventScript_CheckBerryFullyGrown_Mutation:
 	msgbox BerryTree_Text_WantToPick_Mutation, MSGBOX_YESNO
-	goto_if_eq VAR_RESULT, YES, BerryTree_EventScript_PickBerry
+	goto_if_eq VAR_RESULT, YES, BerryTree_EventScript_CancelPickingBerry_Mutation
 	goto_if_eq VAR_RESULT, NO, BerryTree_EventScript_CancelPickingBerry_Mutation
 
 BerryTree_EventScript_CancelPickingBerry_Mutation::
@@ -361,20 +338,6 @@ BerryTree_EventScript_CancelPickingBerry_Mutation::
 
 BerryTree_EventScript_BerryPocketFull_Mutation::
 	message BerryTree_Text_BerryPocketFull_Mutation
-	waitmessage
-	waitbuttonpress
-	release
-	end
-
-BerryTree_EventScript_PickBerry_Mutation::
-	special IncrementDailyPickedBerries
-	special ObjectEventInteractionRemoveBerryTree
-	message BerryTree_Text_PickedTheBerry_Mutation
-	playfanfare MUS_OBTAIN_BERRY
-	waitmessage
-	waitfanfare
-	waitbuttonpress
-	message BerryTree_Text_PutAwayBerry_Mutation
 	waitmessage
 	waitbuttonpress
 	release
