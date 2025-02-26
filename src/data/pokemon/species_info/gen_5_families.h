@@ -2528,6 +2528,7 @@ const struct SpeciesInfo gSpeciesInfoGen5[] =
         .eggMoveLearnset = sAudinoEggMoveLearnset,
         .formSpeciesIdTable = sAudinoFormSpeciesIdTable,
         .formChangeTable = sAudinoFormChangeTable,
+        .evolutions = EVOLUTION({EVO_LEVEL, 30, SPECIES_AUDINO_MEGA}),
     },
 
 #if P_MEGA_EVOLUTIONS
@@ -2552,7 +2553,7 @@ const struct SpeciesInfo gSpeciesInfoGen5[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_FAIRY),
         .abilities = { ABILITY_HEALER, ABILITY_HEALER, ABILITY_HEALER },
         .bodyColor = BODY_COLOR_WHITE,
-        .speciesName = _("Audino"),
+        .speciesName = _("M-Audino"),
         .cryId = CRY_AUDINO_MEGA,
         .natDexNum = NATIONAL_DEX_AUDINO,
         .categoryName = _("Hearing"),
@@ -2582,7 +2583,18 @@ const struct SpeciesInfo gSpeciesInfoGen5[] =
         .iconPalIndex = 1,
         SHADOW(-1, 7, SHADOW_SIZE_M)
         FOOTPRINT(Audino)
-        .isMegaEvolution = TRUE,
+    #if OW_BATTLE_ONLY_FORMS
+        OVERWORLD(
+            sPicTable_AudinoMega,
+            SIZE_32x32,
+            SHADOW_SIZE_M,
+            TRACKS_FOOT,
+            sAnimTable_Following,
+            gOverworldPalette_AudinoMega,
+            gShinyOverworldPalette_AudinoMega
+        )
+    #endif //OW_BATTLE_ONLY_FORMS
+        .isMegaEvolution = FALSE,
         .levelUpLearnset = sAudinoLevelUpLearnset,
         .teachableLearnset = sAudinoTeachableLearnset,
         .eggMoveLearnset = sAudinoEggMoveLearnset,

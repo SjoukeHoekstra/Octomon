@@ -3136,6 +3136,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .teachableLearnset = sLopunnyTeachableLearnset,
         .formSpeciesIdTable = sLopunnyFormSpeciesIdTable,
         .formChangeTable = sLopunnyFormChangeTable,
+        .evolutions = EVOLUTION({EVO_LEVEL, 30, SPECIES_LOPUNNY_MEGA}),
     },
 
 #if P_MEGA_EVOLUTIONS
@@ -3158,7 +3159,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_FIELD, EGG_GROUP_HUMAN_LIKE),
         .abilities = { ABILITY_SCRAPPY, ABILITY_SCRAPPY, ABILITY_SCRAPPY },
         .bodyColor = BODY_COLOR_BROWN,
-        .speciesName = _("Lopunny"),
+        .speciesName = _("M-Lopunny"),
         .cryId = CRY_LOPUNNY_MEGA,
         .natDexNum = NATIONAL_DEX_LOPUNNY,
         .categoryName = _("Rabbit"),
@@ -3188,7 +3189,18 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .iconPalIndex = 2,
         SHADOW(0, 13, SHADOW_SIZE_S)
         FOOTPRINT(Lopunny)
-        .isMegaEvolution = TRUE,
+    #if OW_BATTLE_ONLY_FORMS
+        OVERWORLD(
+            sPicTable_LopunnyMega,
+            SIZE_32x32,
+            SHADOW_SIZE_M,
+            TRACKS_FOOT,
+            sAnimTable_Following,
+            gOverworldPalette_LopunnyMega,
+            gShinyOverworldPalette_LopunnyMega
+        )
+    #endif //OW_BATTLE_ONLY_FORMS
+        .isMegaEvolution = FALSE,
         .levelUpLearnset = sLopunnyLevelUpLearnset,
         .teachableLearnset = sLopunnyTeachableLearnset,
         .formSpeciesIdTable = sLopunnyFormSpeciesIdTable,
@@ -3936,6 +3948,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .teachableLearnset = sGarchompTeachableLearnset,
         .formSpeciesIdTable = sGarchompFormSpeciesIdTable,
         .formChangeTable = sGarchompFormChangeTable,
+        .evolutions = EVOLUTION({EVO_LEVEL, 30, SPECIES_GARCHOMP_MEGA}),
     },
 
 #if P_MEGA_EVOLUTIONS
@@ -3958,7 +3971,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_MONSTER, EGG_GROUP_DRAGON),
         .abilities = { ABILITY_SAND_FORCE, ABILITY_SAND_FORCE, ABILITY_SAND_FORCE },
         .bodyColor = BODY_COLOR_BLUE,
-        .speciesName = _("Garchomp"),
+        .speciesName = _("M-Garchomp"),
         .cryId = CRY_GARCHOMP_MEGA,
         .natDexNum = NATIONAL_DEX_GARCHOMP,
         .categoryName = _("Mach"),
@@ -3988,7 +4001,18 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .iconPalIndex = 0,
         SHADOW(1, 12, SHADOW_SIZE_L)
         FOOTPRINT(Garchomp)
-        .isMegaEvolution = TRUE,
+    #if OW_BATTLE_ONLY_FORMS
+        OVERWORLD(
+            sPicTable_GarchompMega,
+            SIZE_32x32,
+            SHADOW_SIZE_M,
+            TRACKS_FOOT,
+            sAnimTable_Following,
+            gOverworldPalette_GarchompMega,
+            gShinyOverworldPalette_GarchompMega
+        )
+    #endif //OW_BATTLE_ONLY_FORMS
+        .isMegaEvolution = FALSE,
         .levelUpLearnset = sGarchompLevelUpLearnset,
         .teachableLearnset = sGarchompTeachableLearnset,
         .formSpeciesIdTable = sGarchompFormSpeciesIdTable,
@@ -4123,6 +4147,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .teachableLearnset = sLucarioTeachableLearnset,
         .formSpeciesIdTable = sLucarioFormSpeciesIdTable,
         .formChangeTable = sLucarioFormChangeTable,
+        .evolutions = EVOLUTION({EVO_LEVEL, 30, SPECIES_LUCARIO_MEGA}),
     },
 
 #if P_MEGA_EVOLUTIONS
@@ -4146,7 +4171,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_FIELD, EGG_GROUP_HUMAN_LIKE),
         .abilities = { ABILITY_ADAPTABILITY, ABILITY_ADAPTABILITY, ABILITY_ADAPTABILITY },
         .bodyColor = BODY_COLOR_BLUE,
-        .speciesName = _("Lucario"),
+        .speciesName = _("M-Lucario"),
         .cryId = CRY_LUCARIO_MEGA,
         .natDexNum = NATIONAL_DEX_LUCARIO,
         .categoryName = _("Aura"),
@@ -4176,7 +4201,18 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .iconPalIndex = 2,
         SHADOW(-1, 11, SHADOW_SIZE_M)
         FOOTPRINT(Lucario)
-        .isMegaEvolution = TRUE,
+    #if OW_BATTLE_ONLY_FORMS
+        OVERWORLD(
+            sPicTable_LucarioMega,
+            SIZE_32x32,
+            SHADOW_SIZE_M,
+            TRACKS_FOOT,
+            sAnimTable_Following,
+            gOverworldPalette_LucarioMega,
+            gShinyOverworldPalette_LucarioMega
+        )
+    #endif //OW_BATTLE_ONLY_FORMS
+        .isMegaEvolution = FALSE,
         .levelUpLearnset = sLucarioLevelUpLearnset,
         .teachableLearnset = sLucarioTeachableLearnset,
         .formSpeciesIdTable = sLucarioFormSpeciesIdTable,
@@ -4982,6 +5018,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .teachableLearnset = sAbomasnowTeachableLearnset,
         .formSpeciesIdTable = sAbomasnowFormSpeciesIdTable,
         .formChangeTable = sAbomasnowFormChangeTable,
+        .evolutions = EVOLUTION({EVO_LEVEL, 30, SPECIES_ABOMASNOW_MEGA}),
     },
 
 #if P_MEGA_EVOLUTIONS
@@ -5006,7 +5043,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_MONSTER, EGG_GROUP_GRASS),
         .abilities = { ABILITY_SNOW_WARNING, ABILITY_SNOW_WARNING, ABILITY_SNOW_WARNING },
         .bodyColor = BODY_COLOR_WHITE,
-        .speciesName = _("Abomasnow"),
+        .speciesName = _("M-Abomasnow"),
         .cryId = CRY_ABOMASNOW_MEGA,
         .natDexNum = NATIONAL_DEX_ABOMASNOW,
         .categoryName = _("Frost Tree"),
@@ -5036,7 +5073,18 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .iconPalIndex = 1,
         SHADOW(0, 12, SHADOW_SIZE_XL_BATTLE_ONLY)
         FOOTPRINT(Abomasnow)
-        .isMegaEvolution = TRUE,
+    #if OW_BATTLE_ONLY_FORMS
+        OVERWORLD(
+            sPicTable_AbomasnowMega,
+            SIZE_32x32,
+            SHADOW_SIZE_M,
+            TRACKS_FOOT,
+            sAnimTable_Following,
+            gOverworldPalette_AbomasnowMega,
+            gShinyOverworldPalette_AbomasnowMega
+        )
+    #endif //OW_BATTLE_ONLY_FORMS
+        .isMegaEvolution = FALSE,
         .levelUpLearnset = sAbomasnowLevelUpLearnset,
         .teachableLearnset = sAbomasnowTeachableLearnset,
         .formSpeciesIdTable = sAbomasnowFormSpeciesIdTable,

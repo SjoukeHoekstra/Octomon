@@ -5933,6 +5933,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .teachableLearnset = sDiancieTeachableLearnset,
         .formSpeciesIdTable = sDiancieFormSpeciesIdTable,
         .formChangeTable = sDiancieFormChangeTable,
+        .evolutions = EVOLUTION({EVO_LEVEL, 30, SPECIES_DIANCIE_MEGA}),
     },
 
 #if P_MEGA_EVOLUTIONS
@@ -5956,7 +5957,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_NO_EGGS_DISCOVERED),
         .abilities = { ABILITY_MAGIC_BOUNCE, ABILITY_MAGIC_BOUNCE, ABILITY_MAGIC_BOUNCE },
         .bodyColor = BODY_COLOR_PINK,
-        .speciesName = _("Diancie"),
+        .speciesName = _("M-Diancie"),
         .cryId = CRY_DIANCIE_MEGA,
         .natDexNum = NATIONAL_DEX_DIANCIE,
         .categoryName = _("Jewel"),
@@ -5986,8 +5987,19 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .iconPalIndex = 0,
         SHADOW(0, 12, SHADOW_SIZE_M)
         FOOTPRINT(Diancie)
+    #if OW_BATTLE_ONLY_FORMS
+        OVERWORLD(
+            sPicTable_DiancieMega,
+            SIZE_32x32,
+            SHADOW_SIZE_M,
+            TRACKS_FOOT,
+            sAnimTable_Following,
+            gOverworldPalette_DiancieMega,
+            gShinyOverworldPalette_DiancieMega
+        )
+    #endif //OW_BATTLE_ONLY_FORMS
         .isMythical = TRUE,
-        .isMegaEvolution = TRUE,
+        .isMegaEvolution = FALSE,
         .isFrontierBanned = TRUE,
         .perfectIVCount = LEGENDARY_PERFECT_IV_COUNT,
         .levelUpLearnset = sDiancieLevelUpLearnset,
