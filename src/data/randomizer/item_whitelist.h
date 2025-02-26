@@ -602,7 +602,7 @@ static const u16 sRandomizerItemWhitelist[] =
     //ITEM_PECHA_BERRY,
     //ITEM_RAWST_BERRY,
     //ITEM_ASPEAR_BERRY,
-    //ITEM_LEPPA_BERRY,
+    ITEM_LEPPA_BERRY,
     //ITEM_ORAN_BERRY,
     //ITEM_PERSIM_BERRY,
     //ITEM_LUM_BERRY,
