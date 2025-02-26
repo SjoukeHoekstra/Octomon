@@ -3648,6 +3648,7 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         .tmIlliterate = TRUE,
         .levelUpLearnset = sWynautLevelUpLearnset,
         .teachableLearnset = sWynautTeachableLearnset,
+        .randomizerMode = MON_RANDOMIZER_SPECIAL_FORM,
         .evolutions = EVOLUTION({EVO_LEVEL, 23, SPECIES_WOBBUFFET}),
     },
 #endif //P_GEN_3_CROSS_EVOS
