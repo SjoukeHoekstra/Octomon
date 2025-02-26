@@ -36,9 +36,8 @@ void HealPlayerParty(void)
 {
     u32 i;
     for (i = 0; i < gPlayerPartyCount; i++)
-        HealPokemon(&gPlayerParty[i]);
-    if (OW_PC_HEAL >= GEN_8)
-        HealPlayerBoxes();
+        if (gPlayerParty[i].hp > 0) // Check if Pokémon is not fainted
+            HealPokemon(&gPlayerParty[i]);
 
     // Recharge Tera Orb, if possible.
     if (B_FLAG_TERA_ORB_CHARGED != 0 && CheckBagHasItem(ITEM_TERA_ORB, 1))

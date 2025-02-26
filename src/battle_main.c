@@ -74,6 +74,7 @@
 #include "cable_club.h"
 #include "randomizer.h"
 #include "battle_tower.h"
+#include "script_pokemon_util.h"
 
 extern const struct BgTemplate gBattleBgTemplates[];
 extern const struct WindowTemplate *const gBattleWindowTemplates[];
@@ -833,6 +834,7 @@ static void CB2_HandleStartBattle(void)
     RunTasks();
     AnimateSprites();
     BuildOamBuffer();
+    HealPlayerParty();
 
     playerMultiplayerId = GetMultiplayerId();
     gBattleScripting.multiplayerId = playerMultiplayerId;
