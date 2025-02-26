@@ -2249,7 +2249,7 @@ const struct Item gItemsInfo[] =
     {
         .name = _("Octo Rope"),
         .description = COMPOUND_STRING(
-            "Used to rope it\n"),
+            "Used to rope it.\n"),
         #if I_KEY_ESCAPE_ROPE >= GEN_8
             .price = 0,
             .importance = 1,
