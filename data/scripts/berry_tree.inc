@@ -307,8 +307,7 @@ BerryTree_Text_BerryPocketFull:
 	.string "The {STR_VAR_1} couldn't be taken.$"
 
 BerryTree_Text_BerryLeftUnpicked:
-	.string "{PLAYER} left the {STR_VAR_1}\n"
-	.string "unpicked.$"
+	.string "No berries, pussy.$"
 
 BerryTree_Text_WantToWater:
 	.string "Want to water the {STR_VAR_1} with the\n"
@@ -349,8 +348,7 @@ BerryTree_Text_WantToPick_Mutation:
 	.string "Do you want to pick them?$"
 
 BerryTree_Text_BerryLeftUnpicked_Mutation:
-	.string "{PLAYER} left the {STR_VAR_1}\n"
-	.string "and the {STR_VAR_3} unpicked.$"
+	.string "No berries, pussy.$"
 
 BerryTree_Text_BerryPocketFull_Mutation:
 	.string "The BAG's BERRIES POCKET is full.\p"
