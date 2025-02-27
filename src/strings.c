@@ -229,19 +229,19 @@ const u8 gText_ReturnToVar1[] = _("Return to\n{STR_VAR_1}.");
 
 const u8 *const gPocketNamesStringsTable[] =
 {
-    [POCKET_ITEMS] = gText_ItemsPocket,
+    [POCKET_ITEMS] = gText_Items,
 #if POCKET_MEDICINE != DEFAULT_MEDICINE_POCKET
     [POCKET_MEDICINE] = gText_MedicinePocket,
 #endif
-    [POCKET_POKE_BALLS] = gText_PokeBallsPocket,
+    [POCKET_POKE_BALLS] = gText_Poke_Balls,
 #if POCKET_BATTLE_ITEMS != DEFAULT_BATTLE_ITEMS_POCKET
     [POCKET_BATTLE_ITEMS] = gText_BattleItemsPocket,
 #endif
-    [POCKET_TM_HM]  = gText_TMHMPocket,
+    [POCKET_TM_HM]  = gText_TMs_Hms,
 #if POCKET_POWER_UP != DEFAULT_POWER_UP_POCKET
     [POCKET_POWER_UP] = gText_PowerUpPocket,
 #endif
-    [POCKET_BERRIES] = gText_BerriesPocket,
+    [POCKET_BERRIES] = gText_Berries2,
 #if POCKET_MAIL != DEFAULT_MAIL_POCKET
     [POCKET_MAIL] = gText_MailPocket,
 #endif
@@ -254,7 +254,7 @@ const u8 *const gPocketNamesStringsTable[] =
 #if POCKET_Z_CRYSTALS != DEFAULT_Z_CRYSTALS_POCKET
     [POCKET_Z_CRYSTALS] = gText_ZCrystalsPocket,
 #endif
-    [POCKET_KEY_ITEMS] = gText_KeyItemsPocket
+    [POCKET_KEY_ITEMS] = gText_Key_Items
 };
 
 const u8 gText_NumberItem_TMBerry[] = _("{NO}{STR_VAR_1}{CLEAR 0x07}{STR_VAR_2}");
