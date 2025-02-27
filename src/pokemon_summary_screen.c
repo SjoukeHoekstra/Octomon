@@ -3645,7 +3645,6 @@ static void BufferIvOrEvStats(u8 mode)
 {
     u16 hp, hp2, atk, def, spA, spD, spe;
     u8 *currHPString = Alloc(20);
-    //const s8 *natureMod = gNatureStatTable[sMonSummaryScreen->summary.nature];
 
     switch (mode)
     {
@@ -3689,14 +3688,14 @@ static void BufferIvOrEvStats(u8 mode)
     default:
         BufferStat(currHPString, 0, hp, 0, 3);
         BufferStat(gStringVar1, 0, hp2, 1, 3);
-        BufferStat(gStringVar2, natureMod[STAT_ATK - 1], atk, 2, 7);
-        BufferStat(gStringVar3, natureMod[STAT_DEF - 1], def, 3, 7);
+        BufferStat(gStringVar2, STAT_ATK, atk, 2, 7);
+        BufferStat(gStringVar3, STAT_DEF, def, 3, 7);
         DynamicPlaceholderTextUtil_ExpandPlaceholders(gStringVar4, sStatsLeftColumnLayout);
         PrintLeftColumnStats();
 
-        BufferStat(gStringVar1, natureMod[STAT_SPATK - 1], spA, 0, 3);
-        BufferStat(gStringVar2, natureMod[STAT_SPDEF - 1], spD, 1, 3);
-        BufferStat(gStringVar3, natureMod[STAT_SPEED - 1], spe, 2, 3);
+        BufferStat(gStringVar1, STAT_SPATK, spA, 0, 3);
+        BufferStat(gStringVar2, STAT_SPDEF, spD, 1, 3);
+        BufferStat(gStringVar3, STAT_SPEED, spe, 2, 3);
         DynamicPlaceholderTextUtil_ExpandPlaceholders(gStringVar4, sStatsRightColumnLayout);
         PrintRightColumnStats();
         break;
@@ -4571,11 +4570,11 @@ static void CB2_ReturnToSummaryScreenFromNamingScreen(void)
     ShowPokemonSummaryScreen(SUMMARY_MODE_NORMAL, gPlayerParty, gSpecialVar_0x8004, gPlayerPartyCount - 1, gInitialSummaryScreenCallback);
 }
 
-/*static void CB2_PssChangePokemonNickname(void)
+static void CB2_PssChangePokemonNickname(void)
 {
     GetMonData(&gPlayerParty[gSpecialVar_0x8004], MON_DATA_NICKNAME, gStringVar3);
     GetMonData(&gPlayerParty[gSpecialVar_0x8004], MON_DATA_NICKNAME, gStringVar2);
     DoNamingScreen(NAMING_SCREEN_NICKNAME, gStringVar2, GetMonData(&gPlayerParty[gSpecialVar_0x8004], MON_DATA_SPECIES, NULL),
                    GetMonGender(&gPlayerParty[gSpecialVar_0x8004]), GetMonData(&gPlayerParty[gSpecialVar_0x8004], MON_DATA_PERSONALITY, NULL),
                    CB2_ReturnToSummaryScreenFromNamingScreen);
-}*/
+}
