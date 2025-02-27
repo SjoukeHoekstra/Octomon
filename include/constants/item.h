@@ -24,7 +24,7 @@
 //#define POCKET_MEGA_STONES  0
 //#define POCKET_Z_CRYSTALS   0
 #define POCKET_KEY_ITEMS    9
-#define POCKETS_COUNT       9
+#define POCKETS_COUNT       10
 
 // Default to POCKET_ITEMS if the specified pocket is disabled.
 #define DEFAULT_MEDICINE_POCKET     POCKET_ITEMS
