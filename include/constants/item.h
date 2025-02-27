@@ -18,13 +18,13 @@
 #define POCKET_BATTLE_ITEMS 2
 #define POCKET_TM_HM        4
 #define POCKET_POWER_UP     3
-//#define POCKET_BERRIES      6
+#define POCKET_BERRIES      5
 //#define POCKET_MAIL         8
 //#define POCKET_TREASURES    7
 //#define POCKET_MEGA_STONES  0
 //#define POCKET_Z_CRYSTALS   0
-#define POCKET_KEY_ITEMS    5
-#define POCKETS_COUNT       6
+#define POCKET_KEY_ITEMS    6
+#define POCKETS_COUNT       7
 
 // Default to POCKET_ITEMS if the specified pocket is disabled.
 #define DEFAULT_MEDICINE_POCKET     POCKET_ITEMS
