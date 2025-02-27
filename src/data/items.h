@@ -2247,11 +2247,9 @@ const struct Item gItemsInfo[] =
 
     [ITEM_ESCAPE_ROPE] =
     {
-        .name = _("Escape Rope"),
+        .name = _("Octo Rope"),
         .description = COMPOUND_STRING(
-            "Use to escape\n"
-            "instantly from a\n"
-            "cave or a dungeon."),
+            "Used to rope it.\n"),
         #if I_KEY_ESCAPE_ROPE >= GEN_8
             .price = 0,
             .importance = 1,
@@ -14092,5 +14090,40 @@ const struct Item gItemsInfo[] =
         .fieldUseFunc = ItemUseOutOfBattle_CannotUse,
         .iconPic = gItemIcon_PokeshiDoll,
         .iconPalette = gItemIconPalette_PokeshiDoll,
+    },
+
+    [ITEM_INFINITE_REPEL] =
+    {
+        .name = _("Octo Repel"),
+        .price = 0,
+        .description = COMPOUND_STRING(
+            "Repels all wild\n"
+            "Pokémon for any\n"
+            "number of steps."),
+        .importance = 1,
+        .pocket = POCKET_KEY_ITEMS,
+        .type = ITEM_USE_BAG_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_InfiniteRepel,
+        .iconPic = gItemIcon_Repel,
+        .iconPalette = gItemIconPalette_MaxRepel,
+    },
+
+    [ITEM_SUPER_CANDY] =
+    {
+        .name = _("Octo Candy"),
+        .pluralName = _("Octo Candies"),
+        .price = 0,
+        .holdEffectParam = LEVEL_CAP,
+        .description = COMPOUND_STRING(
+            "Raises level to\n"
+            "the level cap."),
+        .importance = 1,
+        .pocket = POCKET_KEY_ITEMS,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_EndlessCandy,
+        .effect = gItemEffect_RareCandy,
+        .flingPower = 30,
+        .iconPic = gItemIcon_ExpCandyXL,
+        .iconPalette = gItemIconPalette_ExpCandies,
     },
 };
