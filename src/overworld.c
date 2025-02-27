@@ -74,6 +74,7 @@
 #include "item.h"
 #include "constants/items.h"
 #include "party_menu.h"
+#include "randomizer.h"
 
 struct CableClubPlayer
 {
@@ -1814,6 +1815,11 @@ void CB2_ContinueSavedGame(void)
         LoadTrainerHillFloorObjectEventScripts();
     else
         LoadSaveblockObjEventScripts();
+        
+    #if (RANDOMIZER_AVAILABLE == TRUE) && (RANDOMIZER_DYNAMIC_SPECIES == TRUE)
+        PreloadRandomizationTables();
+    #endif
+
 
     UnfreezeObjectEvents();
     DoTimeBasedEvents();
