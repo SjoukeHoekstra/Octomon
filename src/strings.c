@@ -235,11 +235,11 @@ const u8 *const gPocketNamesStringsTable[] =
 #endif
     [POCKET_POKE_BALLS] = gText_Poke_Balls,
 #if POCKET_BATTLE_ITEMS != DEFAULT_BATTLE_ITEMS_POCKET
-    [POCKET_BATTLE_ITEMS] = gText_BattleItemsPocket,
+    [POCKET_BATTLE_ITEMS] = gText_BattleItems,
 #endif
     [POCKET_TM_HM]  = gText_TMs_Hms,
 #if POCKET_POWER_UP != DEFAULT_POWER_UP_POCKET
-    [POCKET_POWER_UP] = gText_PowerUpPocket,
+    [POCKET_POWER_UP] = gText_PowerUp,
 #endif
     [POCKET_BERRIES] = gText_Berries2,
 #if POCKET_MAIL != DEFAULT_MAIL_POCKET
