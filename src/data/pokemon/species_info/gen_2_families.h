@@ -3552,7 +3552,7 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         .teachableLearnset = sUnownTeachableLearnset,                                                           \
         .tmIlliterate = TRUE,                                                                                   \
         .formSpeciesIdTable = sUnownFormSpeciesIdTable,                                                         \
-        .randomizerMode = rzMode,                                                                               \
+        .randomizerMode = MON_RANDOMIZER_INVALID,                                                               \
     }
 
     [SPECIES_UNOWN]             = UNOWN_MISC_INFO(A,               FALSE, 24, 40, 24, 48,  8,   MON_RANDOMIZER_NORMAL ),
