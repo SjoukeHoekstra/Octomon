@@ -2589,7 +2589,6 @@ const struct SpeciesInfo gSpeciesInfoGen5[] =
             SIZE_32x32,
             SHADOW_SIZE_M,
             TRACKS_FOOT,
-            sAnimTable_Following,
             gOverworldPalette_AudinoMega,
             gShinyOverworldPalette_AudinoMega
         )
