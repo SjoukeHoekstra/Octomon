@@ -269,7 +269,6 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
             SIZE_32x32,
             SHADOW_SIZE_M,
             TRACKS_FOOT,
-            sAnimTable_Following,
             gOverworldPalette_VenusaurMega,
             gShinyOverworldPalette_VenusaurMega
         )
@@ -595,7 +594,6 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
             SIZE_32x32,
             SHADOW_SIZE_M,
             TRACKS_FOOT,
-            sAnimTable_Following,
             gOverworldPalette_CharizardMegaX,
             gShinyOverworldPalette_CharizardMegaX
         )
@@ -662,7 +660,6 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
             SIZE_32x32,
             SHADOW_SIZE_M,
             TRACKS_FOOT,
-            sAnimTable_Following,
             gOverworldPalette_CharizardMegaY,
             gShinyOverworldPalette_CharizardMegaY
         )
@@ -988,7 +985,6 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
             SIZE_32x32,
             SHADOW_SIZE_M,
             TRACKS_FOOT,
-            sAnimTable_Following,
             gOverworldPalette_BlastoiseMega,
             gShinyOverworldPalette_BlastoiseMega
         )
@@ -1602,7 +1598,6 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
             SIZE_32x32,
             SHADOW_SIZE_M,
             TRACKS_FOOT,
-            sAnimTable_Following,
             gOverworldPalette_BeedrillMega,
             gShinyOverworldPalette_BeedrillMega
         )
@@ -1887,7 +1882,6 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
             SIZE_32x32,
             SHADOW_SIZE_M,
             TRACKS_FOOT,
-            sAnimTable_Following,
             gOverworldPalette_PidgeotMega,
             gShinyOverworldPalette_PidgeotMega
         )
@@ -7839,7 +7833,6 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
             SIZE_32x32,
             SHADOW_SIZE_M,
             TRACKS_NONE,
-            sAnimTable_Following,
             gOverworldPalette_AlakazamMega,
             gShinyOverworldPalette_AlakazamMega
         )
@@ -9389,7 +9382,6 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
             SIZE_32x32,
             SHADOW_SIZE_M,
             TRACKS_FOOT,
-            sAnimTable_Following,
             gOverworldPalette_SlowbroMega,
             gShinyOverworldPalette_SlowbroMega
         )
@@ -10967,7 +10959,6 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
             SIZE_32x32,
             SHADOW_SIZE_M,
             TRACKS_FOOT,
-            sAnimTable_Following,
             gOverworldPalette_GengarMega,
             gShinyOverworldPalette_GengarMega
         )
@@ -11239,7 +11230,6 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
             SIZE_64x64,
             SHADOW_SIZE_M,
             TRACKS_SLITHER,
-            sAnimTable_Following,
             gOverworldPalette_SteelixMega,
             gShinyOverworldPalette_SteelixMega
         )
@@ -13617,7 +13607,6 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
             SIZE_32x32,
             SHADOW_SIZE_M,
             TRACKS_FOOT,
-            sAnimTable_Following,
             gOverworldPalette_KangaskhanMega,
             gShinyOverworldPalette_KangaskhanMega
         )
@@ -14614,7 +14603,6 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
             SIZE_32x32,
             SHADOW_SIZE_M,
             TRACKS_FOOT,
-            sAnimTable_Following,
             gOverworldPalette_ScizorMega,
             gShinyOverworldPalette_ScizorMega
         )
@@ -15362,7 +15350,6 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
             SIZE_32x32,
             SHADOW_SIZE_M,
             TRACKS_FOOT,
-            sAnimTable_Following,
             gOverworldPalette_PinsirMega,
             gShinyOverworldPalette_PinsirMega
         )
@@ -15850,7 +15837,6 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
             SIZE_32x32,
             SHADOW_SIZE_M,
             TRACKS_SLITHER,
-            sAnimTable_Following,
             gOverworldPalette_GyaradosMega,
             gShinyOverworldPalette_GyaradosMega
         )
@@ -17371,7 +17357,6 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
             SIZE_32x32,
             SHADOW_SIZE_M,
             TRACKS_NONE,
-            sAnimTable_Following,
             gOverworldPalette_AerodactylMega,
             gShinyOverworldPalette_AerodactylMega
         )
@@ -18336,7 +18321,6 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
             SIZE_32x32,
             SHADOW_SIZE_M,
             TRACKS_FOOT,
-            sAnimTable_Following,
             gOverworldPalette_MewtwoMegaX,
             gShinyOverworldPalette_MewtwoMegaX
         )
@@ -18407,7 +18391,6 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
             SIZE_32x32,
             SHADOW_SIZE_M,
             TRACKS_FOOT,
-            sAnimTable_Following,
             gOverworldPalette_MewtwoMegaY,
             gShinyOverworldPalette_MewtwoMegaY
         )

@@ -3195,7 +3195,6 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
             SIZE_32x32,
             SHADOW_SIZE_M,
             TRACKS_FOOT,
-            sAnimTable_Following,
             gOverworldPalette_LopunnyMega,
             gShinyOverworldPalette_LopunnyMega
         )
@@ -4007,7 +4006,6 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
             SIZE_32x32,
             SHADOW_SIZE_M,
             TRACKS_FOOT,
-            sAnimTable_Following,
             gOverworldPalette_GarchompMega,
             gShinyOverworldPalette_GarchompMega
         )
@@ -4207,7 +4205,6 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
             SIZE_32x32,
             SHADOW_SIZE_M,
             TRACKS_FOOT,
-            sAnimTable_Following,
             gOverworldPalette_LucarioMega,
             gShinyOverworldPalette_LucarioMega
         )
@@ -5079,7 +5076,6 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
             SIZE_32x32,
             SHADOW_SIZE_M,
             TRACKS_FOOT,
-            sAnimTable_Following,
             gOverworldPalette_AbomasnowMega,
             gShinyOverworldPalette_AbomasnowMega
         )
